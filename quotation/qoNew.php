@@ -112,6 +112,7 @@ require("../commons/PHP/session.php");
             var viewApprove = '<?= $_REQUEST['viewApprove'] ?>';
             var getRowId = '<?= $_REQUEST['getRowId'] ?>';
             var partnerId = '<?= $_REQUEST['getId']?>';
+            alert("commit testing");
             //HEAD FORM
             var headData = [
                 //                {types: 'input', fields: 'priceStrId', keys: 'priceStrId', enLabels: 'priceStrId', thLabels: 'priceStrId'},
