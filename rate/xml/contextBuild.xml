@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="0">
+    <item text="getId"  id="getId"/>
+    <item text="Add row"  id="add"/>
+    <item text="Add sibling" id="addSib"/>
+    <item text="เพิ่มรายละเอียด" id="link"/>
+</menu>

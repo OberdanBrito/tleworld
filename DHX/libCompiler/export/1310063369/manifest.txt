@@ -1,0 +1,12 @@
+Skin: dhx_skyblue
+
+======== JS CODE =========
+./dhtmlxcommon.js
+../dhtmlxWindows/codebase/dhtmlxwindows.js
+./dhtmlxcontainer.js
+../dhtmlxDataProcessor/codebase/dhtmlxdataprocessor.js
+./datastore.js
+
+======== CSS CODE ========
+../dhtmlxWindows/codebase/dhtmlxwindows.css
+../dhtmlxWindows/codebase/skins/dhtmlxwindows_dhx_skyblue.css

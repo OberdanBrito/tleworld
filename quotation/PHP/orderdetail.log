@@ -1,0 +1,1880 @@
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 12:09:31
+====================================
+
+DataProcessor object initialized
+1379524871300_gr_id => 1379524871300
+1379524871300_c0 => ode-1379524871300-system
+1379524871300_c1 => ord-1379524867554-system
+1379524871300_c2 => 
+1379524871300_c3 => pst-0001-system
+1379524871300_c4 => stru-1362415744-system
+1379524871300_c5 => 0.0000
+1379524871300_c6 => 100.0000
+1379524871300_c7 => 1
+1379524871300_c8 => Baht
+1379524871300_c9 => 1
+1379524871300_c10 => 
+1379524871300_c11 => vat1
+1379524871300_c12 => 7.0000
+1379524871300_c13 => item-1362415744-system
+1379524871300_c14 => SWATCH SEAT
+1379524871300_c15 => แผ่นที่นั่ง
+1379524871300_c16 => AL-0507/S
+1379524871300_c17 => C7853
+1379524871300_c18 => ที่นั่งทำกับข้าว
+1379524871300_c19 => 
+1379524871300_c20 => 
+1379524871300_c21 => Goods
+1379524871300_c22 => Accessory
+1379524871300_c23 => Component
+1379524871300_c24 => 0.00
+1379524871300_c25 => 
+1379524871300_c26 => 0.0000
+1379524871300_c27 => 
+1379524871300_c28 => 0.0000
+1379524871300_c29 => 
+1379524871300_c30 => 
+1379524871300_c31 => usr-020-system
+1379524871300_c32 => log-007-system
+1379524871300_c33 => usr-020-system
+1379524871300_c34 => 19-8-2013
+1379524871300_c35 => 19-8-2013
+1379524871300_c36 => 
+1379524871300_c37 => 
+1379524871300_c38 => 1
+1379524871300_c39 => 0
+1379524871300_c40 => 1
+1379524871300_!nativeeditor_status => inserted
+1379524872014_gr_id => 1379524872014
+1379524872014_c0 => ode-1379524872014-system
+1379524872014_c1 => ord-1379524867554-system
+1379524872014_c2 => 
+1379524872014_c3 => pst-0001-system
+1379524872014_c4 => stru-1362416219-system
+1379524872014_c5 => 2457.8899
+1379524872014_c6 => 3157.0000
+1379524872014_c7 => 1
+1379524872014_c8 => Baht
+1379524872014_c9 => 3
+1379524872014_c10 => 
+1379524872014_c11 => vat1
+1379524872014_c12 => 7.0000
+1379524872014_c13 => item-1362416219-system
+1379524872014_c14 => DINING TABLE BASE 48"X84"
+1379524872014_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1379524872014_c16 => AL-0513/TB84
+1379524872014_c17 => 
+1379524872014_c18 => 
+1379524872014_c19 => 
+1379524872014_c20 => 
+1379524872014_c21 => Goods
+1379524872014_c22 => Accessory
+1379524872014_c23 => Component
+1379524872014_c24 => 0.00
+1379524872014_c25 => 
+1379524872014_c26 => 
+1379524872014_c27 => 
+1379524872014_c28 => 
+1379524872014_c29 => 
+1379524872014_c30 => 
+1379524872014_c31 => usr-020-system
+1379524872014_c32 => log-007-system
+1379524872014_c33 => usr-020-system
+1379524872014_c34 => 19-8-2013
+1379524872014_c35 => 19-8-2013
+1379524872014_c36 => 
+1379524872014_c37 => 
+1379524872014_c38 => 1
+1379524872014_c39 => 0
+1379524872014_c40 => 1
+1379524872014_!nativeeditor_status => inserted
+1379524872739_gr_id => 1379524872739
+1379524872739_c0 => ode-1379524872739-system
+1379524872739_c1 => ord-1379524867554-system
+1379524872739_c2 => 
+1379524872739_c3 => pst-0001-system
+1379524872739_c4 => stru-1362416220-system
+1379524872739_c5 => 4654.9302
+1379524872739_c6 => 5976.9304
+1379524872739_c7 => 1
+1379524872739_c8 => Baht
+1379524872739_c9 => 1
+1379524872739_c10 => 
+1379524872739_c11 => vat1
+1379524872739_c12 => 7.0000
+1379524872739_c13 => item-1362416220-system
+1379524872739_c14 => DINING TABLE BASE 84"X42"
+1379524872739_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1379524872739_c16 => AL-0513/TB8442
+1379524872739_c17 => 
+1379524872739_c18 => 
+1379524872739_c19 => 
+1379524872739_c20 => 
+1379524872739_c21 => Goods
+1379524872739_c22 => Accessory
+1379524872739_c23 => Component
+1379524872739_c24 => 
+1379524872739_c25 => 
+1379524872739_c26 => 
+1379524872739_c27 => 
+1379524872739_c28 => 
+1379524872739_c29 => 
+1379524872739_c30 => 
+1379524872739_c31 => usr-020-system
+1379524872739_c32 => log-007-system
+1379524872739_c33 => usr-020-system
+1379524872739_c34 => 19-8-2013
+1379524872739_c35 => 19-8-2013
+1379524872739_c36 => 
+1379524872739_c37 => 
+1379524872739_c38 => 1
+1379524872739_c39 => 0
+1379524872739_c40 => 1
+1379524872739_!nativeeditor_status => inserted
+ids => 1379524871300,1379524872014,1379524872739
+
+Row data [1379524871300]
+rowId => 1379524871300
+id => ode-1379524871300-system
+orderId => ord-1379524867554-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price => 100.0000
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+code => AL-0507/S
+customCode => C7853
+description => ที่นั่งทำกับข้าว
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379524871300-system','ord-1379524867554-system','','pst-0001-system','stru-1362415744-system','0.0000','100.0000','1','Baht','1','','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','AL-0507/S','C7853','ที่นั่งทำกับข้าว','','','Goods','Accessory','Component','0.00','','0.0000','','0.0000','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Row data [1379524872014]
+rowId => 1379524872014
+id => ode-1379524872014-system
+orderId => ord-1379524867554-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 1
+currency => Baht
+amount => 3
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379524872014-system','ord-1379524867554-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','1','Baht','3','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Row data [1379524872739]
+rowId => 1379524872739
+id => ode-1379524872739-system
+orderId => ord-1379524867554-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379524872739-system','ord-1379524867554-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','1','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1379524871300; tid:2;
+1 => action:error; sid:1379524872014; tid:1379524872014;
+2 => action:error; sid:1379524872739; tid:1379524872739;
+
+Done in 0.049856185913086s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 12:09:57
+====================================
+
+DataProcessor object initialized
+1379525330279_gr_id => 1379525330279
+1379525330279_c0 => ode-1379525330279-system
+1379525330279_c1 => ord-1379525326419-system
+1379525330279_c2 => 
+1379525330279_c3 => pst-0001-system
+1379525330279_c4 => stru-1362415744-system
+1379525330279_c5 => 0.0000
+1379525330279_c6 => 100.0000
+1379525330279_c7 => 1
+1379525330279_c8 => Baht
+1379525330279_c9 => 1
+1379525330279_c10 => 
+1379525330279_c11 => vat1
+1379525330279_c12 => 7.0000
+1379525330279_c13 => item-1362415744-system
+1379525330279_c14 => SWATCH SEAT
+1379525330279_c15 => แผ่นที่นั่ง
+1379525330279_c16 => AL-0507/S
+1379525330279_c17 => C7853
+1379525330279_c18 => ที่นั่งทำกับข้าว
+1379525330279_c19 => 
+1379525330279_c20 => 
+1379525330279_c21 => Goods
+1379525330279_c22 => Accessory
+1379525330279_c23 => Component
+1379525330279_c24 => 0.00
+1379525330279_c25 => 
+1379525330279_c26 => 0.0000
+1379525330279_c27 => 
+1379525330279_c28 => 0.0000
+1379525330279_c29 => 
+1379525330279_c30 => 
+1379525330279_c31 => usr-020-system
+1379525330279_c32 => log-007-system
+1379525330279_c33 => usr-020-system
+1379525330279_c34 => 19-8-2013
+1379525330279_c35 => 19-8-2013
+1379525330279_c36 => 
+1379525330279_c37 => 
+1379525330279_c38 => 1
+1379525330279_c39 => 0
+1379525330279_c40 => 1
+1379525330279_!nativeeditor_status => inserted
+1379525331045_gr_id => 1379525331045
+1379525331045_c0 => ode-1379525331045-system
+1379525331045_c1 => ord-1379525326419-system
+1379525331045_c2 => 
+1379525331045_c3 => pst-0001-system
+1379525331045_c4 => stru-1362416220-system
+1379525331045_c5 => 4654.9302
+1379525331045_c6 => 5976.9304
+1379525331045_c7 => 1
+1379525331045_c8 => Baht
+1379525331045_c9 => 1
+1379525331045_c10 => 
+1379525331045_c11 => vat1
+1379525331045_c12 => 7.0000
+1379525331045_c13 => item-1362416220-system
+1379525331045_c14 => DINING TABLE BASE 84"X42"
+1379525331045_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1379525331045_c16 => AL-0513/TB8442
+1379525331045_c17 => 
+1379525331045_c18 => 
+1379525331045_c19 => 
+1379525331045_c20 => 
+1379525331045_c21 => Goods
+1379525331045_c22 => Accessory
+1379525331045_c23 => Component
+1379525331045_c24 => 
+1379525331045_c25 => 
+1379525331045_c26 => 
+1379525331045_c27 => 
+1379525331045_c28 => 
+1379525331045_c29 => 
+1379525331045_c30 => 
+1379525331045_c31 => usr-020-system
+1379525331045_c32 => log-007-system
+1379525331045_c33 => usr-020-system
+1379525331045_c34 => 19-8-2013
+1379525331045_c35 => 19-8-2013
+1379525331045_c36 => 
+1379525331045_c37 => 
+1379525331045_c38 => 1
+1379525331045_c39 => 0
+1379525331045_c40 => 1
+1379525331045_!nativeeditor_status => inserted
+1379525331725_gr_id => 1379525331725
+1379525331725_c0 => ode-1379525331725-system
+1379525331725_c1 => ord-1379525326419-system
+1379525331725_c2 => 
+1379525331725_c3 => pst-0001-system
+1379525331725_c4 => stru-1362416225-system
+1379525331725_c5 => 2721.0500
+1379525331725_c6 => 3493.8282
+1379525331725_c7 => 1
+1379525331725_c8 => Baht
+1379525331725_c9 => 1
+1379525331725_c10 => 
+1379525331725_c11 => vat1
+1379525331725_c12 => 7.0000
+1379525331725_c13 => item-1362416225-system
+1379525331725_c14 => DINING TABLE TOP-WOVEN W/UMB.HOLE48"X84"
+1379525331725_c15 => หน้าโต๊ะอาหารสานมีช่องใส่ร่มขนาด 48"X84"
+1379525331725_c16 => AL-0513/TTH84
+1379525331725_c17 => 
+1379525331725_c18 => 
+1379525331725_c19 => 
+1379525331725_c20 => 
+1379525331725_c21 => Goods
+1379525331725_c22 => Accessory
+1379525331725_c23 => Component
+1379525331725_c24 => 
+1379525331725_c25 => 
+1379525331725_c26 => 
+1379525331725_c27 => 
+1379525331725_c28 => 
+1379525331725_c29 => 
+1379525331725_c30 => 
+1379525331725_c31 => usr-020-system
+1379525331725_c32 => log-007-system
+1379525331725_c33 => usr-020-system
+1379525331725_c34 => 19-8-2013
+1379525331725_c35 => 19-8-2013
+1379525331725_c36 => 
+1379525331725_c37 => 
+1379525331725_c38 => 1
+1379525331725_c39 => 0
+1379525331725_c40 => 1
+1379525331725_!nativeeditor_status => inserted
+ids => 1379525330279,1379525331045,1379525331725
+
+Row data [1379525330279]
+rowId => 1379525330279
+id => ode-1379525330279-system
+orderId => ord-1379525326419-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price => 100.0000
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+code => AL-0507/S
+customCode => C7853
+description => ที่นั่งทำกับข้าว
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379525330279-system','ord-1379525326419-system','','pst-0001-system','stru-1362415744-system','0.0000','100.0000','1','Baht','1','','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','AL-0507/S','C7853','ที่นั่งทำกับข้าว','','','Goods','Accessory','Component','0.00','','0.0000','','0.0000','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Row data [1379525331045]
+rowId => 1379525331045
+id => ode-1379525331045-system
+orderId => ord-1379525326419-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379525331045-system','ord-1379525326419-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','1','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Row data [1379525331725]
+rowId => 1379525331725
+id => ode-1379525331725-system
+orderId => ord-1379525326419-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416225-system
+cost => 2721.0500
+price => 3493.8282
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416225-system
+englishName => DINING TABLE TOP-WOVEN W/UMB.HOLE48"X84"
+thaiName => หน้าโต๊ะอาหารสานมีช่องใส่ร่มขนาด 48"X84"
+code => AL-0513/TTH84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379525331725-system','ord-1379525326419-system','','pst-0001-system','stru-1362416225-system','2721.0500','3493.8282','1','Baht','1','','vat1','7.0000','item-1362416225-system','DINING TABLE TOP-WOVEN W/UMB.HOLE48\"X84\"','หน้าโต๊ะอาหารสานมีช่องใส่ร่มขนาด 48\"X84\"','AL-0513/TTH84','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1379525330279; tid:4;
+1 => action:inserted; sid:1379525331045; tid:5;
+2 => action:inserted; sid:1379525331725; tid:6;
+
+Done in 0.024405956268311s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 05:09:21
+====================================
+
+DataProcessor object initialized
+1379586437680_gr_id => 1379586437680
+1379586437680_c0 => ode-1379586437680-system
+1379586437680_c1 => ord-1379586433521-system
+1379586437680_c2 => 
+1379586437680_c3 => pst-0001-system
+1379586437680_c4 => stru-1362416219-system
+1379586437680_c5 => 2457.8899
+1379586437680_c6 => 3157.0000
+1379586437680_c7 => 1
+1379586437680_c8 => Baht
+1379586437680_c9 => 1
+1379586437680_c10 => 
+1379586437680_c11 => vat1
+1379586437680_c12 => 7.0000
+1379586437680_c13 => item-1362416219-system
+1379586437680_c14 => DINING TABLE BASE 48"X84"
+1379586437680_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1379586437680_c16 => AL-0513/TB84
+1379586437680_c17 => 
+1379586437680_c18 => 
+1379586437680_c19 => 
+1379586437680_c20 => 
+1379586437680_c21 => Goods
+1379586437680_c22 => Accessory
+1379586437680_c23 => Component
+1379586437680_c24 => 0.00
+1379586437680_c25 => 
+1379586437680_c26 => 
+1379586437680_c27 => 
+1379586437680_c28 => 
+1379586437680_c29 => 
+1379586437680_c30 => 
+1379586437680_c31 => usr-020-system
+1379586437680_c32 => log-007-system
+1379586437680_c33 => usr-020-system
+1379586437680_c34 => 19-8-2013
+1379586437680_c35 => 19-8-2013
+1379586437680_c36 => 
+1379586437680_c37 => 
+1379586437680_c38 => 1
+1379586437680_c39 => 0
+1379586437680_c40 => 1
+1379586437680_!nativeeditor_status => inserted
+ids => 1379586437680
+
+Row data [1379586437680]
+rowId => 1379586437680
+id => ode-1379586437680-system
+orderId => ord-1379586433521-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379586437680-system','ord-1379586433521-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','1','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1379586437680; tid:7;
+
+Done in 0.13225698471069s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 05:09:55
+====================================
+
+DataProcessor object initialized
+1379586828873_gr_id => 1379586828873
+1379586828873_c0 => ode-1379586828873-system
+1379586828873_c1 => ord-1379586823600-system
+1379586828873_c2 => 
+1379586828873_c3 => pst-0001-system
+1379586828873_c4 => stru-1362416219-system
+1379586828873_c5 => 2457.8899
+1379586828873_c6 => 3157.0000
+1379586828873_c7 => 1
+1379586828873_c8 => Baht
+1379586828873_c9 => 1
+1379586828873_c10 => 
+1379586828873_c11 => vat1
+1379586828873_c12 => 7.0000
+1379586828873_c13 => item-1362416219-system
+1379586828873_c14 => DINING TABLE BASE 48"X84"
+1379586828873_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1379586828873_c16 => AL-0513/TB84
+1379586828873_c17 => 
+1379586828873_c18 => 
+1379586828873_c19 => 
+1379586828873_c20 => 
+1379586828873_c21 => Goods
+1379586828873_c22 => Accessory
+1379586828873_c23 => Component
+1379586828873_c24 => 0.00
+1379586828873_c25 => 
+1379586828873_c26 => 
+1379586828873_c27 => 
+1379586828873_c28 => 
+1379586828873_c29 => 
+1379586828873_c30 => 
+1379586828873_c31 => usr-020-system
+1379586828873_c32 => log-007-system
+1379586828873_c33 => usr-020-system
+1379586828873_c34 => 19-8-2013
+1379586828873_c35 => 19-8-2013
+1379586828873_c36 => 
+1379586828873_c37 => 
+1379586828873_c38 => 1
+1379586828873_c39 => 0
+1379586828873_c40 => 1
+1379586828873_!nativeeditor_status => inserted
+1379586829755_gr_id => 1379586829755
+1379586829755_c0 => ode-1379586829755-system
+1379586829755_c1 => ord-1379586823600-system
+1379586829755_c2 => 
+1379586829755_c3 => pst-0001-system
+1379586829755_c4 => stru-1362416220-system
+1379586829755_c5 => 4654.9302
+1379586829755_c6 => 5976.9304
+1379586829755_c7 => 1
+1379586829755_c8 => Baht
+1379586829755_c9 => 1
+1379586829755_c10 => 
+1379586829755_c11 => vat1
+1379586829755_c12 => 7.0000
+1379586829755_c13 => item-1362416220-system
+1379586829755_c14 => DINING TABLE BASE 84"X42"
+1379586829755_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1379586829755_c16 => AL-0513/TB8442
+1379586829755_c17 => 
+1379586829755_c18 => 
+1379586829755_c19 => 
+1379586829755_c20 => 
+1379586829755_c21 => Goods
+1379586829755_c22 => Accessory
+1379586829755_c23 => Component
+1379586829755_c24 => 
+1379586829755_c25 => 
+1379586829755_c26 => 
+1379586829755_c27 => 
+1379586829755_c28 => 
+1379586829755_c29 => 
+1379586829755_c30 => 
+1379586829755_c31 => usr-020-system
+1379586829755_c32 => log-007-system
+1379586829755_c33 => usr-020-system
+1379586829755_c34 => 19-8-2013
+1379586829755_c35 => 19-8-2013
+1379586829755_c36 => 
+1379586829755_c37 => 
+1379586829755_c38 => 1
+1379586829755_c39 => 0
+1379586829755_c40 => 1
+1379586829755_!nativeeditor_status => inserted
+ids => 1379586828873,1379586829755
+
+Row data [1379586828873]
+rowId => 1379586828873
+id => ode-1379586828873-system
+orderId => ord-1379586823600-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379586828873-system','ord-1379586823600-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','1','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Row data [1379586829755]
+rowId => 1379586829755
+id => ode-1379586829755-system
+orderId => ord-1379586823600-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379586829755-system','ord-1379586823600-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','1','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1379586828873; tid:8;
+1 => action:inserted; sid:1379586829755; tid:9;
+
+Done in 0.044339895248413s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 07:09:37
+====================================
+
+DataProcessor object initialized
+1379592690884_gr_id => 1379592690884
+1379592690884_c0 => ode-1379592690884-system
+1379592690884_c1 => ord-1379592685238-system
+1379592690884_c2 => 
+1379592690884_c3 => pst-0001-system
+1379592690884_c4 => stru-1362416219-system
+1379592690884_c5 => 2457.8899
+1379592690884_c6 => 3157.0000
+1379592690884_c7 => 1
+1379592690884_c8 => Baht
+1379592690884_c9 => 1
+1379592690884_c10 => 
+1379592690884_c11 => vat1
+1379592690884_c12 => 7.0000
+1379592690884_c13 => item-1362416219-system
+1379592690884_c14 => DINING TABLE BASE 48"X84"
+1379592690884_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1379592690884_c16 => AL-0513/TB84
+1379592690884_c17 => 
+1379592690884_c18 => 
+1379592690884_c19 => 
+1379592690884_c20 => 
+1379592690884_c21 => Goods
+1379592690884_c22 => Accessory
+1379592690884_c23 => Component
+1379592690884_c24 => 0.00
+1379592690884_c25 => 
+1379592690884_c26 => 
+1379592690884_c27 => 
+1379592690884_c28 => 
+1379592690884_c29 => 
+1379592690884_c30 => 
+1379592690884_c31 => usr-020-system
+1379592690884_c32 => log-007-system
+1379592690884_c33 => usr-020-system
+1379592690884_c34 => 19-8-2013
+1379592690884_c35 => 19-8-2013
+1379592690884_c36 => 
+1379592690884_c37 => 
+1379592690884_c38 => 1
+1379592690884_c39 => 0
+1379592690884_c40 => 1
+1379592690884_!nativeeditor_status => inserted
+1379592691840_gr_id => 1379592691840
+1379592691840_c0 => ode-1379592691840-system
+1379592691840_c1 => ord-1379592685238-system
+1379592691840_c2 => 
+1379592691840_c3 => pst-0001-system
+1379592691840_c4 => stru-1362416220-system
+1379592691840_c5 => 4654.9302
+1379592691840_c6 => 5976.9304
+1379592691840_c7 => 1
+1379592691840_c8 => Baht
+1379592691840_c9 => 1
+1379592691840_c10 => 
+1379592691840_c11 => vat1
+1379592691840_c12 => 7.0000
+1379592691840_c13 => item-1362416220-system
+1379592691840_c14 => DINING TABLE BASE 84"X42"
+1379592691840_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1379592691840_c16 => AL-0513/TB8442
+1379592691840_c17 => 
+1379592691840_c18 => 
+1379592691840_c19 => 
+1379592691840_c20 => 
+1379592691840_c21 => Goods
+1379592691840_c22 => Accessory
+1379592691840_c23 => Component
+1379592691840_c24 => 
+1379592691840_c25 => 
+1379592691840_c26 => 
+1379592691840_c27 => 
+1379592691840_c28 => 
+1379592691840_c29 => 
+1379592691840_c30 => 
+1379592691840_c31 => usr-020-system
+1379592691840_c32 => log-007-system
+1379592691840_c33 => usr-020-system
+1379592691840_c34 => 19-8-2013
+1379592691840_c35 => 19-8-2013
+1379592691840_c36 => 
+1379592691840_c37 => 
+1379592691840_c38 => 1
+1379592691840_c39 => 0
+1379592691840_c40 => 1
+1379592691840_!nativeeditor_status => inserted
+ids => 1379592690884,1379592691840
+
+Row data [1379592690884]
+rowId => 1379592690884
+id => ode-1379592690884-system
+orderId => ord-1379592685238-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379592690884-system','ord-1379592685238-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','1','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Row data [1379592691840]
+rowId => 1379592691840
+id => ode-1379592691840-system
+orderId => ord-1379592685238-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 1
+currency => Baht
+amount => 1
+unitAmount => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 19-8-2013
+createDate => 19-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`currency`,`amount`,`unitAmount`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1379592691840-system','ord-1379592685238-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','1','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','19-8-2013','19-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1379592690884; tid:10;
+1 => action:inserted; sid:1379592691840; tid:11;
+
+Done in 0.03358793258667s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:30
+====================================
+
+DataProcessor object initialized
+1380254482355_gr_id => 1380254482355
+1380254482355_c0 => ode-1380254482355-system
+1380254482355_c1 => ord-1380254464522-system
+1380254482355_c2 => 
+1380254482355_c3 => pst-0001-system
+1380254482355_c4 => stru-1362416219-system
+1380254482355_c5 => 2457.8899
+1380254482355_c6 => 3157.0000
+1380254482355_c7 => 1
+1380254482355_c8 => Baht
+1380254482355_c9 => 1
+1380254482355_c10 => 
+1380254482355_c11 => vat1
+1380254482355_c12 => 7.0000
+1380254482355_c13 => item-1362416219-system
+1380254482355_c14 => DINING TABLE BASE 48"X84"
+1380254482355_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1380254482355_c16 => AL-0513/TB84
+1380254482355_c17 => 
+1380254482355_c18 => 
+1380254482355_c19 => 
+1380254482355_c20 => 
+1380254482355_c21 => Goods
+1380254482355_c22 => Accessory
+1380254482355_c23 => Component
+1380254482355_c24 => 0.00
+1380254482355_c25 => 
+1380254482355_c26 => 
+1380254482355_c27 => 
+1380254482355_c28 => 
+1380254482355_c29 => 
+1380254482355_c30 => 
+1380254482355_c31 => usr-020-system
+1380254482355_c32 => log-007-system
+1380254482355_c33 => usr-020-system
+1380254482355_c34 => 27-8-2013
+1380254482355_c35 => 27-8-2013
+1380254482355_c36 => 
+1380254482355_c37 => 
+1380254482355_c38 => 1
+1380254482355_c39 => 0
+1380254482355_c40 => 1
+1380254482355_!nativeeditor_status => inserted
+1380254483162_gr_id => 1380254483162
+1380254483162_c0 => ode-1380254483162-system
+1380254483162_c1 => ord-1380254464522-system
+1380254483162_c2 => 
+1380254483162_c3 => pst-0001-system
+1380254483162_c4 => stru-1362416220-system
+1380254483162_c5 => 4654.9302
+1380254483162_c6 => 5976.9304
+1380254483162_c7 => 1
+1380254483162_c8 => Baht
+1380254483162_c9 => 1
+1380254483162_c10 => 
+1380254483162_c11 => vat1
+1380254483162_c12 => 7.0000
+1380254483162_c13 => item-1362416220-system
+1380254483162_c14 => DINING TABLE BASE 84"X42"
+1380254483162_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1380254483162_c16 => AL-0513/TB8442
+1380254483162_c17 => 
+1380254483162_c18 => 
+1380254483162_c19 => 
+1380254483162_c20 => 
+1380254483162_c21 => Goods
+1380254483162_c22 => Accessory
+1380254483162_c23 => Component
+1380254483162_c24 => 
+1380254483162_c25 => 
+1380254483162_c26 => 
+1380254483162_c27 => 
+1380254483162_c28 => 
+1380254483162_c29 => 
+1380254483162_c30 => 
+1380254483162_c31 => usr-020-system
+1380254483162_c32 => log-007-system
+1380254483162_c33 => usr-020-system
+1380254483162_c34 => 27-8-2013
+1380254483162_c35 => 27-8-2013
+1380254483162_c36 => 
+1380254483162_c37 => 
+1380254483162_c38 => 1
+1380254483162_c39 => 0
+1380254483162_c40 => 1
+1380254483162_!nativeeditor_status => inserted
+ids => 1380254482355,1380254483162
+
+Row data [1380254482355]
+rowId => 1380254482355
+id => ode-1380254482355-system
+orderId => ord-1380254464522-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 1
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 27-8-2013
+createDate => 27-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1380254482355-system','ord-1380254464522-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','1','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','','','','','','','usr-020-system','log-007-system','usr-020-system','27-8-2013','27-8-2013','','','1','0','1')
+
+Row data [1380254483162]
+rowId => 1380254483162
+id => ode-1380254483162-system
+orderId => ord-1380254464522-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 1
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 27-8-2013
+createDate => 27-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1380254483162-system','ord-1380254464522-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','1','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','27-8-2013','27-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1380254482355; tid:3;
+1 => action:inserted; sid:1380254483162; tid:4;
+
+Done in 0.026120185852051s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:11
+====================================
+
+DataProcessor object initialized
+1380254824411_gr_id => 1380254824411
+1380254824411_c0 => ode-1380254824411-system
+1380254824411_c1 => ord-1380254806560-system
+1380254824411_c2 => 
+1380254824411_c3 => pst-0001-system
+1380254824411_c4 => stru-1362416219-system
+1380254824411_c5 => 2457.8899
+1380254824411_c6 => 3157.0000
+1380254824411_c7 => 1
+1380254824411_c8 => Baht
+1380254824411_c9 => 1
+1380254824411_c10 => 
+1380254824411_c11 => vat1
+1380254824411_c12 => 7.0000
+1380254824411_c13 => item-1362416219-system
+1380254824411_c14 => DINING TABLE BASE 48"X84"
+1380254824411_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1380254824411_c16 => AL-0513/TB84
+1380254824411_c17 => 
+1380254824411_c18 => 
+1380254824411_c19 => 
+1380254824411_c20 => 
+1380254824411_c21 => Goods
+1380254824411_c22 => Accessory
+1380254824411_c23 => Component
+1380254824411_c24 => 0.00
+1380254824411_c25 => 
+1380254824411_c26 => 
+1380254824411_c27 => 
+1380254824411_c28 => 
+1380254824411_c29 => 
+1380254824411_c30 => 
+1380254824411_c31 => usr-020-system
+1380254824411_c32 => log-007-system
+1380254824411_c33 => usr-020-system
+1380254824411_c34 => 27-8-2013
+1380254824411_c35 => 27-8-2013
+1380254824411_c36 => 
+1380254824411_c37 => 
+1380254824411_c38 => 1
+1380254824411_c39 => 0
+1380254824411_c40 => 1
+1380254824411_!nativeeditor_status => inserted
+1380254825412_gr_id => 1380254825412
+1380254825412_c0 => ode-1380254825412-system
+1380254825412_c1 => ord-1380254806560-system
+1380254825412_c2 => 
+1380254825412_c3 => pst-0001-system
+1380254825412_c4 => stru-1362416220-system
+1380254825412_c5 => 4654.9302
+1380254825412_c6 => 5976.9304
+1380254825412_c7 => 1
+1380254825412_c8 => Baht
+1380254825412_c9 => 1
+1380254825412_c10 => 
+1380254825412_c11 => vat1
+1380254825412_c12 => 7.0000
+1380254825412_c13 => item-1362416220-system
+1380254825412_c14 => DINING TABLE BASE 84"X42"
+1380254825412_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1380254825412_c16 => AL-0513/TB8442
+1380254825412_c17 => 
+1380254825412_c18 => 
+1380254825412_c19 => 
+1380254825412_c20 => 
+1380254825412_c21 => Goods
+1380254825412_c22 => Accessory
+1380254825412_c23 => Component
+1380254825412_c24 => 
+1380254825412_c25 => 
+1380254825412_c26 => 
+1380254825412_c27 => 
+1380254825412_c28 => 
+1380254825412_c29 => 
+1380254825412_c30 => 
+1380254825412_c31 => usr-020-system
+1380254825412_c32 => log-007-system
+1380254825412_c33 => usr-020-system
+1380254825412_c34 => 27-8-2013
+1380254825412_c35 => 27-8-2013
+1380254825412_c36 => 
+1380254825412_c37 => 
+1380254825412_c38 => 1
+1380254825412_c39 => 0
+1380254825412_c40 => 1
+1380254825412_!nativeeditor_status => inserted
+ids => 1380254824411,1380254825412
+
+Row data [1380254824411]
+rowId => 1380254824411
+id => ode-1380254824411-system
+orderId => ord-1380254806560-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 1
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 27-8-2013
+createDate => 27-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1380254824411-system','ord-1380254806560-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','1','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','','','','','','','usr-020-system','log-007-system','usr-020-system','27-8-2013','27-8-2013','','','1','0','1')
+
+Row data [1380254825412]
+rowId => 1380254825412
+id => ode-1380254825412-system
+orderId => ord-1380254806560-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 1
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 27-8-2013
+createDate => 27-8-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`status`) VALUES ('ode-1380254825412-system','ord-1380254806560-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','1','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','','','','','','','','usr-020-system','log-007-system','usr-020-system','27-8-2013','27-8-2013','','','1','0','1')
+
+Edit operation finished
+0 => action:inserted; sid:1380254824411; tid:5;
+1 => action:inserted; sid:1380254825412; tid:6;
+
+Done in 0.37165403366089s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:48
+====================================
+
+DataProcessor object initialized
+1381394029919_gr_id => 1381394029919
+1381394029919_gr_pid => 0
+1381394029919_c0 => ode-1381394029919-system
+1381394029919_c1 => ord-1381394023999-system
+1381394029919_c2 => 
+1381394029919_c3 => pst-0001-system
+1381394029919_c4 => stru-1362415744-system
+1381394029919_c5 => 0.0000
+1381394029919_c6 => 100.0000
+1381394029919_c7 => 
+1381394029919_c8 => Baht
+1381394029919_c9 => 1
+1381394029919_c10 => 
+1381394029919_c11 => vat1
+1381394029919_c12 => 7.0000
+1381394029919_c13 => item-1362415744-system
+1381394029919_c14 => SWATCH SEAT
+1381394029919_c15 => แผ่นที่นั่ง
+1381394029919_c16 => AL-0507/S
+1381394029919_c17 => C7853
+1381394029919_c18 => ที่นั่งทำกับข้าว
+1381394029919_c19 => 
+1381394029919_c20 => 
+1381394029919_c21 => Goods
+1381394029919_c22 => Accessory
+1381394029919_c23 => Component
+1381394029919_c24 => 20.00
+1381394029919_c25 => 100.00
+1381394029919_c26 => 
+1381394029919_c27 => 0.0000
+1381394029919_c28 => 
+1381394029919_c29 => 0.0000
+1381394029919_c30 => 
+1381394029919_c31 => 
+1381394029919_c32 => usr-020-system
+1381394029919_c33 => log-007-system
+1381394029919_c34 => usr-020-system
+1381394029919_c35 => 10-9-2013
+1381394029919_c36 => 10-9-2013
+1381394029919_c37 => 
+1381394029919_c38 => 
+1381394029919_c39 => 1
+1381394029919_c40 => 0
+1381394029919_c41 => 1111
+1381394029919_c42 => 1
+1381394029919_!nativeeditor_status => inserted
+1381394030818_gr_id => 1381394030818
+1381394030818_gr_pid => 0
+1381394030818_c0 => ode-1381394030818-system
+1381394030818_c1 => ord-1381394023999-system
+1381394030818_c2 => 
+1381394030818_c3 => pst-0001-system
+1381394030818_c4 => stru-1362416219-system
+1381394030818_c5 => 2457.8899
+1381394030818_c6 => 3157.0000
+1381394030818_c7 => 
+1381394030818_c8 => Baht
+1381394030818_c9 => 1
+1381394030818_c10 => 
+1381394030818_c11 => vat1
+1381394030818_c12 => 7.0000
+1381394030818_c13 => item-1362416219-system
+1381394030818_c14 => DINING TABLE BASE 48"X84"
+1381394030818_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1381394030818_c16 => AL-0513/TB84
+1381394030818_c17 => 
+1381394030818_c18 => 
+1381394030818_c19 => 
+1381394030818_c20 => 
+1381394030818_c21 => Goods
+1381394030818_c22 => Accessory
+1381394030818_c23 => Component
+1381394030818_c24 => 0.00
+1381394030818_c25 => 125.00
+1381394030818_c26 => 
+1381394030818_c27 => 0.0000
+1381394030818_c28 => 
+1381394030818_c29 => 0.0000
+1381394030818_c30 => 
+1381394030818_c31 => 
+1381394030818_c32 => usr-020-system
+1381394030818_c33 => log-007-system
+1381394030818_c34 => usr-020-system
+1381394030818_c35 => 10-9-2013
+1381394030818_c36 => 10-9-2013
+1381394030818_c37 => 
+1381394030818_c38 => 
+1381394030818_c39 => 1
+1381394030818_c40 => 0
+1381394030818_c41 => 1111
+1381394030818_c42 => 1
+1381394030818_!nativeeditor_status => inserted
+ids => 1381394029919,1381394030818
+
+Row data [1381394029919]
+rowId => 1381394029919
+gr_pid => 0
+id => ode-1381394029919-system
+orderId => ord-1381394023999-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price => 100.0000
+total => 
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+code => AL-0507/S
+customCode => C7853
+description => ที่นั่งทำกับข้าว
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 20.00
+discount => 100.00
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 10-9-2013
+createDate => 10-9-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+parent => 1111
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`discount`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`parent`,`status`) VALUES ('ode-1381394029919-system','ord-1381394023999-system','','pst-0001-system','stru-1362415744-system','0.0000','100.0000','','Baht','1','','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','AL-0507/S','C7853','ที่นั่งทำกับข้าว','','','Goods','Accessory','Component','20.00','100.00','','0.0000','','0.0000','','','usr-020-system','log-007-system','usr-020-system','10-9-2013','10-9-2013','','','1','0','1111','1')
+
+Row data [1381394030818]
+rowId => 1381394030818
+gr_pid => 0
+id => ode-1381394030818-system
+orderId => ord-1381394023999-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+discount => 125.00
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 10-9-2013
+createDate => 10-9-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+parent => 1111
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`discount`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`parent`,`status`) VALUES ('ode-1381394030818-system','ord-1381394023999-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','125.00','','0.0000','','0.0000','','','usr-020-system','log-007-system','usr-020-system','10-9-2013','10-9-2013','','','1','0','1111','1')
+
+Edit operation finished
+0 => action:inserted; sid:1381394029919; tid:7;
+1 => action:inserted; sid:1381394030818; tid:8;
+
+Done in 0.0033278465270996s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:30
+====================================
+
+DataProcessor object initialized
+1381394185217_gr_id => 1381394185217
+1381394185217_gr_pid => 0
+1381394185217_c0 => ode-1381394185217-system
+1381394185217_c1 => ord-1381394179721-system
+1381394185217_c2 => 
+1381394185217_c3 => pst-0001-system
+1381394185217_c4 => stru-1362416219-system
+1381394185217_c5 => 2457.8899
+1381394185217_c6 => 3157.0000
+1381394185217_c7 => 
+1381394185217_c8 => Baht
+1381394185217_c9 => 1
+1381394185217_c10 => 
+1381394185217_c11 => vat1
+1381394185217_c12 => 7.0000
+1381394185217_c13 => item-1362416219-system
+1381394185217_c14 => DINING TABLE BASE 48"X84"
+1381394185217_c15 => ฐานโต๊ะอาหารขนาด 48"X84"
+1381394185217_c16 => AL-0513/TB84
+1381394185217_c17 => 
+1381394185217_c18 => 
+1381394185217_c19 => 
+1381394185217_c20 => 
+1381394185217_c21 => Goods
+1381394185217_c22 => Accessory
+1381394185217_c23 => Component
+1381394185217_c24 => 0.00
+1381394185217_c25 => 125.00
+1381394185217_c26 => 
+1381394185217_c27 => 0.0000
+1381394185217_c28 => 
+1381394185217_c29 => 0.0000
+1381394185217_c30 => 
+1381394185217_c31 => 
+1381394185217_c32 => usr-020-system
+1381394185217_c33 => log-007-system
+1381394185217_c34 => usr-020-system
+1381394185217_c35 => 10-9-2013
+1381394185217_c36 => 10-9-2013
+1381394185217_c37 => 
+1381394185217_c38 => 
+1381394185217_c39 => 1
+1381394185217_c40 => 0
+1381394185217_c41 => 1111
+1381394185217_c42 => 1
+1381394185217_!nativeeditor_status => inserted
+1381394185943_gr_id => 1381394185943
+1381394185943_gr_pid => 0
+1381394185943_c0 => ode-1381394185943-system
+1381394185943_c1 => ord-1381394179721-system
+1381394185943_c2 => 
+1381394185943_c3 => pst-0001-system
+1381394185943_c4 => stru-1362416220-system
+1381394185943_c5 => 4654.9302
+1381394185943_c6 => 5976.9304
+1381394185943_c7 => 
+1381394185943_c8 => Baht
+1381394185943_c9 => 1
+1381394185943_c10 => 
+1381394185943_c11 => vat1
+1381394185943_c12 => 7.0000
+1381394185943_c13 => item-1362416220-system
+1381394185943_c14 => DINING TABLE BASE 84"X42"
+1381394185943_c15 => ฐานโต๊ะอาหารขนาด 42"X84"
+1381394185943_c16 => AL-0513/TB8442
+1381394185943_c17 => 
+1381394185943_c18 => 
+1381394185943_c19 => 
+1381394185943_c20 => 
+1381394185943_c21 => Goods
+1381394185943_c22 => Accessory
+1381394185943_c23 => Component
+1381394185943_c24 => 10.00
+1381394185943_c25 => 130.00
+1381394185943_c26 => 
+1381394185943_c27 => 0.0000
+1381394185943_c28 => 
+1381394185943_c29 => 0.0000
+1381394185943_c30 => 
+1381394185943_c31 => 
+1381394185943_c32 => usr-020-system
+1381394185943_c33 => log-007-system
+1381394185943_c34 => usr-020-system
+1381394185943_c35 => 10-9-2013
+1381394185943_c36 => 10-9-2013
+1381394185943_c37 => 
+1381394185943_c38 => 
+1381394185943_c39 => 1
+1381394185943_c40 => 0
+1381394185943_c41 => 1111
+1381394185943_c42 => 1
+1381394185943_!nativeeditor_status => inserted
+ids => 1381394185217,1381394185943
+
+Row data [1381394185217]
+rowId => 1381394185217
+gr_pid => 0
+id => ode-1381394185217-system
+orderId => ord-1381394179721-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price => 3157.0000
+total => 
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+discount => 125.00
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 10-9-2013
+createDate => 10-9-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+parent => 1111
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`discount`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`parent`,`status`) VALUES ('ode-1381394185217-system','ord-1381394179721-system','','pst-0001-system','stru-1362416219-system','2457.8899','3157.0000','','Baht','1','','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','AL-0513/TB84','','','','','Goods','Accessory','Component','0.00','125.00','','0.0000','','0.0000','','','usr-020-system','log-007-system','usr-020-system','10-9-2013','10-9-2013','','','1','0','1111','1')
+
+Row data [1381394185943]
+rowId => 1381394185943
+gr_pid => 0
+id => ode-1381394185943-system
+orderId => ord-1381394179721-system
+jobNumber => 
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price => 5976.9304
+total => 
+unitCost => Baht
+quantity => 1
+unit => 
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 10.00
+discount => 130.00
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 10-9-2013
+createDate => 10-9-2013
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+parent => 1111
+status => 1
+!nativeeditor_status => inserted
+
+INSERT INTO orderdetail(`id`,`orderId`,`jobNumber`,`priceStrId`,`productStrId`,`cost`,`price`,`total`,`unitCost`,`quantity`,`unit`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`code`,`customCode`,`description`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`discount`,`image`,`volume`,`unitVolume`,`weight`,`unitWeight`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`,`parent`,`status`) VALUES ('ode-1381394185943-system','ord-1381394179721-system','','pst-0001-system','stru-1362416220-system','4654.9302','5976.9304','','Baht','1','','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','AL-0513/TB8442','','','','','Goods','Accessory','Component','10.00','130.00','','0.0000','','0.0000','','','usr-020-system','log-007-system','usr-020-system','10-9-2013','10-9-2013','','','1','0','1111','1')
+
+Edit operation finished
+0 => action:inserted; sid:1381394185217; tid:9;
+1 => action:inserted; sid:1381394185943; tid:10;
+
+Done in 0.0053720474243164s
+

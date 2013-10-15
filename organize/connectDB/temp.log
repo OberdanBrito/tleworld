@@ -1,0 +1,13 @@
+
+
+====================================
+Log started, 30/07/2012 04:07:06
+====================================
+
+SELECT  * FROM organize WHERE ( companyId IN (SELECT lo.id FROM logincompany AS lo,partnerxcompany AS pxc WHERE lo.partner_id=pxc.partner_id AND pxc.id='pxc-0006-system') AND `parentId` = '0'
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+

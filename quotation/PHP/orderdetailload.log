@@ -1,0 +1,396 @@
+
+
+====================================
+Log started, 26/09/2013 09:09:39
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016400814056396s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:53
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0027639865875244s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:35
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0013289451599121s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:59
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0019869804382324s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:14
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.002249002456665s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:58
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0021059513092041s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:34
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0022239685058594s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:45
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.002079963684082s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:28
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016610622406006s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:51
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.001399040222168s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:52
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.001662015914917s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:15
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016729831695557s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:52
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0014278888702393s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:04
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016448497772217s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:47
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0017480850219727s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:29
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,currency,amount,unitAmount,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0013821125030518s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:08
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0012989044189453s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:15
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0012831687927246s
+
+
+
+====================================
+Log started, 01/10/2013 09:10:13
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0015358924865723s
+
+
+
+====================================
+Log started, 01/10/2013 11:10:24
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016961097717285s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:36
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0070869922637939s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:24
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0022678375244141s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:58
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'discount' in 'field list'
+
+
+
+====================================
+Log started, 08/10/2013 08:10:39
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'discount' in 'field list'
+
+
+
+====================================
+Log started, 08/10/2013 08:10:37
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0017077922821045s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:25
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0017940998077393s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:32
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.001533031463623s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:42
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.002424955368042s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:31
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0017321109771729s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:07
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0018661022186279s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:58
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0020630359649658s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:20
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.00193190574646s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:49
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0019381046295166s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:09
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0017919540405273s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:30
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0039539337158203s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:56
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0019700527191162s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:21
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016610622406006s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:55
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0016970634460449s
+
+
+
+====================================
+Log started, 08/10/2013 10:10:44
+====================================
+
+SELECT  id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM orderdetail WHERE ( orderId='ord-1380003919136-system')
+
+Done in 0.0018258094787598s
+

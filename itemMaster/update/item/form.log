@@ -1,0 +1,1893 @@
+
+
+====================================
+Log started, 23/09/2013 08:09:49
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0047731399536133s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:27
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0038540363311768s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:46
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.00357985496521s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:58
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0028369426727295s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:15
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0035440921783447s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:10
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0033960342407227s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:16
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '3421'
+
+Done in 0.0027201175689697s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:26
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0037810802459717s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:49
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0029270648956299s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:57
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.0036039352416992s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:32
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.0040450096130371s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:30
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0046749114990234s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:31
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.003896951675415s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:06
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+1379926498795_englishName => 6767
+1379926498795_thaiName => 76767
+1379926498795_code => 76767
+1379926498795_barcode => 
+1379926498795_shape => 
+1379926498795_description => 
+1379926498795_unit => กล่อง(box)
+1379926498795_unitIssue => กล่อง(box)
+1379926498795_vat_Show => Exclude
+1379926498795_checkBom => 0
+1379926498795_quantity => 1
+1379926498795_quantityIssue => 
+1379926498795_vat => vat0
+1379926498795_startDate_show => 
+1379926498795_validUntil_show => 
+1379926498795_length => 
+1379926498795_thinkness => 
+1379926498795_volume => 
+1379926498795_area => 
+1379926498795_unitLength => ซม.(cm.)
+1379926498795_unitThinkness => ซม.(cm.)
+1379926498795_unitVolume => ลบม.(cu.m)
+1379926498795_unitArea => ตรม.(sq.m)
+1379926498795_wideDiameter => 
+1379926498795_height => 
+1379926498795_weight => 
+1379926498795_unitWD => ซม.(cm.)
+1379926498795_unitHeight => ซม.(cm.)
+1379926498795_unitWeight => กก.(kg.)
+1379926498795_class => Goods
+1379926498795_type => Cushion
+1379926498795_gGroup => Pad
+1379926498795_parent => 0
+1379926498795_parentMain => stru-1379926506402-system
+1379926498795_id => stru-1379926506402-system
+1379926498795_typeP => item
+1379926498795_itemId => stru-1379926506402-system
+1379926498795_prefix => 76767
+1379926498795_used => 0
+1379926498795_unitCost => Baht
+1379926498795_!nativeeditor_status => inserted
+ids => 1379926498795
+
+Row data [1379926498795]
+englishName => 6767
+thaiName => 76767
+code => 76767
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Exclude
+checkBom => 0
+quantity => 1
+quantityIssue => 
+vat => vat0
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Cushion
+gGroup => Pad
+parent => 0
+parentMain => stru-1379926506402-system
+id => stru-1379926506402-system
+typeP => item
+itemId => stru-1379926506402-system
+prefix => 76767
+used => 0
+unitCost => Baht
+!nativeeditor_status => inserted
+
+Incorrect field name used: startDate
+
+data
+englishName => 6767
+thaiName => 76767
+code => 76767
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Exclude
+checkBom => 0
+quantity => 1
+quantityIssue => 
+vat => vat0
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Cushion
+gGroup => Pad
+parent => 0
+parentMain => stru-1379926506402-system
+id => stru-1379926506402-system
+typeP => item
+itemId => stru-1379926506402-system
+prefix => 76767
+used => 0
+unitCost => Baht
+!nativeeditor_status => inserted
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 16 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: startDate as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+Incorrect field name used: validUntil
+
+data
+englishName => 6767
+thaiName => 76767
+code => 76767
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Exclude
+checkBom => 0
+quantity => 1
+quantityIssue => 
+vat => vat0
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Cushion
+gGroup => Pad
+parent => 0
+parentMain => stru-1379926506402-system
+id => stru-1379926506402-system
+typeP => item
+itemId => stru-1379926506402-system
+prefix => 76767
+used => 0
+unitCost => Baht
+!nativeeditor_status => inserted
+startDate => 
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+INSERT INTO productstructure(`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost`) VALUES ('6767','76767','76767','','','0','กล่อง(box)','1','กล่อง(box)','','vat0','','','','','','ซม.(cm.)','ซม.(cm.)','ลบม.(cu.m)','ตรม.(sq.m)','','','','ซม.(cm.)','ซม.(cm.)','กก.(kg.)',Null,Null,'Goods','Cushion','Pad','0','stru-1379926506402-system','stru-1379926506402-system','item','stru-1379926506402-system','76767','0','Baht')
+
+Edit operation finished
+0 => action:inserted; sid:1379926498795; tid:3494;
+
+Done in 0.0060858726501465s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:18
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '3494'
+
+Done in 0.004216194152832s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:27
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+3494_englishName => 6767
+3494_thaiName => 76767
+3494_code => 76767
+3494_barcode => 
+3494_shape => 
+3494_description => 
+3494_unit => กล่อง(box)
+3494_unitIssue => กล่อง(box)
+3494_vat_Show => Exclude
+3494_checkBom => 1
+3494_quantity => 1
+3494_quantityIssue => 0.0000
+3494_vat => vat0
+3494_startDate_show => 
+3494_validUntil_show => 
+3494_length => 0.0000
+3494_thinkness => 0.0000
+3494_volume => 0.0000
+3494_area => 0.0000
+3494_unitLength => ซม.(cm.)
+3494_unitThinkness => ซม.(cm.)
+3494_unitVolume => ลบม.(cu.m)
+3494_unitArea => ตรม.(sq.m)
+3494_wideDiameter => 0.0000
+3494_height => 0.0000
+3494_weight => 0.0000
+3494_unitWD => ซม.(cm.)
+3494_unitHeight => ซม.(cm.)
+3494_unitWeight => กก.(kg.)
+3494_class => Goods
+3494_type => Cushion
+3494_gGroup => Pad
+3494_parent => 0
+3494_parentMain => stru-1379926506402-system
+3494_id => stru-1379926506402-system
+3494_typeP => item
+3494_itemId => stru-1379926506402-system
+3494_prefix => 76767
+3494_used => 0.0
+3494_unitCost => Baht
+3494_startDate => 
+3494_validUntil => 
+3494_!nativeeditor_status => updated
+ids => 3494
+
+Row data [3494]
+englishName => 6767
+thaiName => 76767
+code => 76767
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Exclude
+checkBom => 1
+quantity => 1
+quantityIssue => 0.0000
+vat => vat0
+startDate_show => 
+validUntil_show => 
+length => 0.0000
+thinkness => 0.0000
+volume => 0.0000
+area => 0.0000
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 0.0000
+height => 0.0000
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Cushion
+gGroup => Pad
+parent => 0
+parentMain => stru-1379926506402-system
+id => stru-1379926506402-system
+typeP => item
+itemId => stru-1379926506402-system
+prefix => 76767
+used => 0.0
+unitCost => Baht
+startDate => 
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 16 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: startDate as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='6767',`thaiName`='76767',`code`='76767',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='กล่อง(box)',`quantityIssue`='0.0000',`vat`='vat0',`description`='',`length`='0.0000',`thinkness`='0.0000',`volume`='0.0000',`area`='0.0000',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='0.0000',`height`='0.0000',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`=Null,`validUntil`=Null,`class`='Goods',`type`='Cushion',`gGroup`='Pad',`parent`='0',`parentMain`='stru-1379926506402-system',`id`='stru-1379926506402-system',`typeP`='item',`itemId`='stru-1379926506402-system',`prefix`='76767',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='3494'
+
+Edit operation finished
+0 => action:updated; sid:3494; tid:3494;
+
+Done in 0.0046470165252686s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:31
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+3494_englishName => 6767
+3494_thaiName => 76767
+3494_code => 76767
+3494_barcode => 
+3494_shape => 
+3494_description => 
+3494_unit => กล่อง(box)
+3494_unitIssue => กล่อง(box)
+3494_vat_Show => Exclude
+3494_checkBom => 0
+3494_quantity => 1
+3494_quantityIssue => 0.0000
+3494_vat => vat0
+3494_startDate_show => 
+3494_validUntil_show => 
+3494_length => 0.0000
+3494_thinkness => 0.0000
+3494_volume => 0.0000
+3494_area => 0.0000
+3494_unitLength => ซม.(cm.)
+3494_unitThinkness => ซม.(cm.)
+3494_unitVolume => ลบม.(cu.m)
+3494_unitArea => ตรม.(sq.m)
+3494_wideDiameter => 0.0000
+3494_height => 0.0000
+3494_weight => 0.0000
+3494_unitWD => ซม.(cm.)
+3494_unitHeight => ซม.(cm.)
+3494_unitWeight => กก.(kg.)
+3494_class => Goods
+3494_type => Cushion
+3494_gGroup => Pad
+3494_parent => 0
+3494_parentMain => stru-1379926506402-system
+3494_id => stru-1379926506402-system
+3494_typeP => item
+3494_itemId => stru-1379926506402-system
+3494_prefix => 76767
+3494_used => 0.0
+3494_unitCost => Baht
+3494_startDate => 
+3494_validUntil => 
+3494_!nativeeditor_status => updated
+ids => 3494
+
+Row data [3494]
+englishName => 6767
+thaiName => 76767
+code => 76767
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Exclude
+checkBom => 0
+quantity => 1
+quantityIssue => 0.0000
+vat => vat0
+startDate_show => 
+validUntil_show => 
+length => 0.0000
+thinkness => 0.0000
+volume => 0.0000
+area => 0.0000
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 0.0000
+height => 0.0000
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Cushion
+gGroup => Pad
+parent => 0
+parentMain => stru-1379926506402-system
+id => stru-1379926506402-system
+typeP => item
+itemId => stru-1379926506402-system
+prefix => 76767
+used => 0.0
+unitCost => Baht
+startDate => 
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 16 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: startDate as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='6767',`thaiName`='76767',`code`='76767',`barcode`='',`shape`='',`checkBom`='0',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='กล่อง(box)',`quantityIssue`='0.0000',`vat`='vat0',`description`='',`length`='0.0000',`thinkness`='0.0000',`volume`='0.0000',`area`='0.0000',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='0.0000',`height`='0.0000',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`=Null,`validUntil`=Null,`class`='Goods',`type`='Cushion',`gGroup`='Pad',`parent`='0',`parentMain`='stru-1379926506402-system',`id`='stru-1379926506402-system',`typeP`='item',`itemId`='stru-1379926506402-system',`prefix`='76767',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='3494'
+
+Edit operation finished
+0 => action:updated; sid:3494; tid:3494;
+
+Done in 0.0057649612426758s
+
+
+
+====================================
+Log started, 23/09/2013 08:09:47
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0028629302978516s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:51
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0032789707183838s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:09
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+17_englishName => PART OF CAMPGN CHAISE LOUNGE
+17_thaiName => แผ่นที่พิงเก้าอี้นอน
+17_code => AL-0003/CB
+17_barcode => 
+17_shape => 
+17_description => 
+17_unit => กล่อง(box)
+17_unitIssue => ถุง(bag)
+17_vat_Show => Include
+17_checkBom => 1
+17_quantity => 0
+17_quantityIssue => 0.0000
+17_vat => vat1
+17_startDate_show => 
+17_validUntil_show => 
+17_length => 
+17_thinkness => 
+17_volume => 
+17_area => 
+17_unitLength => ซม.(cm.)
+17_unitThinkness => ซม.(cm.)
+17_unitVolume => ลบม.(cu.m)
+17_unitArea => ตรม.(sq.m)
+17_wideDiameter => 
+17_height => 
+17_weight => 0.0000
+17_unitWD => ซม.(cm.)
+17_unitHeight => ซม.(cm.)
+17_unitWeight => กก.(kg.)
+17_class => Goods
+17_type => Accessory
+17_gGroup => Miscellaneous
+17_parent => 0
+17_parentMain => item-1362414809-system
+17_id => item-1362414809-system
+17_typeP => item
+17_itemId => item-1362414809-system
+17_prefix => AL-0003/CB
+17_used => 0.0
+17_unitCost => Baht
+17_startDate => 2013-09-23
+17_validUntil => 
+17_!nativeeditor_status => updated
+ids => 17
+
+Row data [17]
+englishName => PART OF CAMPGN CHAISE LOUNGE
+thaiName => แผ่นที่พิงเก้าอี้นอน
+code => AL-0003/CB
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => ถุง(bag)
+vat_Show => Include
+checkBom => 1
+quantity => 0
+quantityIssue => 0.0000
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => item-1362414809-system
+id => item-1362414809-system
+typeP => item
+itemId => item-1362414809-system
+prefix => AL-0003/CB
+used => 0.0
+unitCost => Baht
+startDate => 2013-09-23
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='PART OF CAMPGN CHAISE LOUNGE',`thaiName`='แผ่นที่พิงเก้าอี้นอน',`code`='AL-0003/CB',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='0',`unitIssue`='ถุง(bag)',`quantityIssue`='0.0000',`vat`='vat1',`description`='',`length`='',`thinkness`='',`volume`='',`area`='',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='',`height`='',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`='2013-09-23',`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='item-1362414809-system',`id`='item-1362414809-system',`typeP`='item',`itemId`='item-1362414809-system',`prefix`='AL-0003/CB',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='17'
+
+Edit operation finished
+0 => action:updated; sid:17; tid:17;
+
+Done in 0.0046579837799072s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:56
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.0042829513549805s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:50
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.003122091293335s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:04
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.004047155380249s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:16
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.0033998489379883s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:36
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.0036678314208984s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:01
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.003007173538208s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:21
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.003223180770874s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:25
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.0029001235961914s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:28
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+93_englishName => TULIP SWING 3-SEAT SOFA
+93_thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+93_code => AL-0210/3S/SW
+93_barcode => 
+93_shape => 
+93_description => 
+93_unit => กล่อง(box)
+93_unitIssue => ถุง(bag)
+93_vat_Show => Include
+93_checkBom => 1
+93_quantity => 1
+93_quantityIssue => 0.0000
+93_vat => vat1
+93_startDate_show => 
+93_validUntil_show => 
+93_length => 
+93_thinkness => 
+93_volume => 
+93_area => 
+93_unitLength => ซม.(cm.)
+93_unitThinkness => ซม.(cm.)
+93_unitVolume => ลบม.(cu.m)
+93_unitArea => ตรม.(sq.m)
+93_wideDiameter => 
+93_height => 
+93_weight => 0.0000
+93_unitWD => ซม.(cm.)
+93_unitHeight => ซม.(cm.)
+93_unitWeight => กก.(kg.)
+93_class => Goods
+93_type => Accessory
+93_gGroup => Miscellaneous
+93_parent => 0
+93_parentMain => item-1362415148-system
+93_id => item-1362415148-system
+93_typeP => item
+93_itemId => item-1362415148-system
+93_prefix => AL-0210/3S/SW
+93_used => 0.0
+93_unitCost => Baht
+93_startDate => 2013-09-23
+93_validUntil => 
+93_!nativeeditor_status => updated
+ids => 93
+
+Row data [93]
+englishName => TULIP SWING 3-SEAT SOFA
+thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+code => AL-0210/3S/SW
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => ถุง(bag)
+vat_Show => Include
+checkBom => 1
+quantity => 1
+quantityIssue => 0.0000
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => item-1362415148-system
+id => item-1362415148-system
+typeP => item
+itemId => item-1362415148-system
+prefix => AL-0210/3S/SW
+used => 0.0
+unitCost => Baht
+startDate => 2013-09-23
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='TULIP SWING 3-SEAT SOFA',`thaiName`='โซฟาชิงช้า 3 ที่นั่ง ทิวลิป',`code`='AL-0210/3S/SW',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='ถุง(bag)',`quantityIssue`='0.0000',`vat`='vat1',`description`='',`length`='',`thinkness`='',`volume`='',`area`='',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='',`height`='',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`='2013-09-23',`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='item-1362415148-system',`id`='item-1362415148-system',`typeP`='item',`itemId`='item-1362415148-system',`prefix`='AL-0210/3S/SW',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='93'
+
+Edit operation finished
+0 => action:updated; sid:93; tid:93;
+
+Done in 0.0044941902160645s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:36
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '295'
+
+Done in 0.0027360916137695s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:08
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '295'
+
+Done in 0.0029191970825195s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:19
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '295'
+
+Done in 0.0038540363311768s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:24
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '295'
+
+Done in 0.0028471946716309s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:27
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+295_englishName => BACK OF BEACH CHAIR
+295_thaiName => แผ่นที่พิงเก้าอี้นอน
+295_code => AL-0309/CB
+295_barcode => 
+295_shape => 
+295_description => 
+295_unit => กล่อง(box)
+295_unitIssue => ถุง(bag)
+295_vat_Show => Include
+295_checkBom => 1
+295_quantity => 1
+295_quantityIssue => 0.0000
+295_vat => vat1
+295_startDate_show => 
+295_validUntil_show => 
+295_length => 
+295_thinkness => 
+295_volume => 
+295_area => 
+295_unitLength => ซม.(cm.)
+295_unitThinkness => ซม.(cm.)
+295_unitVolume => ลบม.(cu.m)
+295_unitArea => ตรม.(sq.m)
+295_wideDiameter => 
+295_height => 
+295_weight => 0.0000
+295_unitWD => ซม.(cm.)
+295_unitHeight => ซม.(cm.)
+295_unitWeight => กก.(kg.)
+295_class => Goods
+295_type => Accessory
+295_gGroup => Miscellaneous
+295_parent => 0
+295_parentMain => item-1362415350-system
+295_id => item-1362415350-system
+295_typeP => item
+295_itemId => item-1362415350-system
+295_prefix => AL-0309/CB
+295_used => 
+295_unitCost => Baht
+295_startDate => 
+295_validUntil => 
+295_!nativeeditor_status => updated
+ids => 295
+
+Row data [295]
+englishName => BACK OF BEACH CHAIR
+thaiName => แผ่นที่พิงเก้าอี้นอน
+code => AL-0309/CB
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => ถุง(bag)
+vat_Show => Include
+checkBom => 1
+quantity => 1
+quantityIssue => 0.0000
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => item-1362415350-system
+id => item-1362415350-system
+typeP => item
+itemId => item-1362415350-system
+prefix => AL-0309/CB
+used => 
+unitCost => Baht
+startDate => 
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 16 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: startDate as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='BACK OF BEACH CHAIR',`thaiName`='แผ่นที่พิงเก้าอี้นอน',`code`='AL-0309/CB',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='ถุง(bag)',`quantityIssue`='0.0000',`vat`='vat1',`description`='',`length`='',`thinkness`='',`volume`='',`area`='',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='',`height`='',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`=Null,`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='item-1362415350-system',`id`='item-1362415350-system',`typeP`='item',`itemId`='item-1362415350-system',`prefix`='AL-0309/CB',`used`='',`unitCost`='Baht' WHERE `rowId`='295'
+
+Edit operation finished
+0 => action:updated; sid:295; tid:295;
+
+Done in 0.0061550140380859s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:28
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '296'
+
+Done in 0.0036430358886719s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:36
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '296'
+
+Done in 0.0029008388519287s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:46
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+296_englishName => SEAT OF BEACH CHAIR
+296_thaiName => แผ่นที่นั่งเก้าอี้นอน
+296_code => AL-0309/CS
+296_barcode => 
+296_shape => 
+296_description => 
+296_unit => กล่อง(box)
+296_unitIssue => กล่อง(box)
+296_vat_Show => Include
+296_checkBom => 0
+296_quantity => 1
+296_quantityIssue => 
+296_vat => vat1
+296_startDate_show => 
+296_validUntil_show => 
+296_length => 
+296_thinkness => 
+296_volume => 
+296_area => 
+296_unitLength => ซม.(cm.)
+296_unitThinkness => ซม.(cm.)
+296_unitVolume => ลบม.(cu.m)
+296_unitArea => ตรม.(sq.m)
+296_wideDiameter => 
+296_height => 
+296_weight => 0.0000
+296_unitWD => ซม.(cm.)
+296_unitHeight => ซม.(cm.)
+296_unitWeight => กก.(kg.)
+296_class => Goods
+296_type => Accessory
+296_gGroup => Miscellaneous
+296_parent => 0
+296_parentMain => 
+296_id => item-1362415351-system
+296_typeP => item
+296_itemId => 
+296_prefix => AL-0309/CS
+296_used => 
+296_unitCost => Baht
+296_startDate => 
+296_validUntil => 
+296_!nativeeditor_status => updated
+ids => 296
+
+Row data [296]
+englishName => SEAT OF BEACH CHAIR
+thaiName => แผ่นที่นั่งเก้าอี้นอน
+code => AL-0309/CS
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Include
+checkBom => 0
+quantity => 1
+quantityIssue => 
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 
+thinkness => 
+volume => 
+area => 
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 
+height => 
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => 
+id => item-1362415351-system
+typeP => item
+itemId => 
+prefix => AL-0309/CS
+used => 
+unitCost => Baht
+startDate => 
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 16 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: startDate as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='SEAT OF BEACH CHAIR',`thaiName`='แผ่นที่นั่งเก้าอี้นอน',`code`='AL-0309/CS',`barcode`='',`shape`='',`checkBom`='0',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='กล่อง(box)',`quantityIssue`='',`vat`='vat1',`description`='',`length`='',`thinkness`='',`volume`='',`area`='',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='',`height`='',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`=Null,`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='',`id`='item-1362415351-system',`typeP`='item',`itemId`='',`prefix`='AL-0309/CS',`used`='',`unitCost`='Baht' WHERE `rowId`='296'
+
+Edit operation finished
+0 => action:updated; sid:296; tid:296;
+
+Done in 0.005134105682373s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:50
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '296'
+
+Done in 0.0039141178131104s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:52
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+296_englishName => SEAT OF BEACH CHAIR
+296_thaiName => แผ่นที่นั่งเก้าอี้นอน
+296_code => AL-0309/CS
+296_barcode => 
+296_shape => 
+296_description => 
+296_unit => กล่อง(box)
+296_unitIssue => กล่อง(box)
+296_vat_Show => Include
+296_checkBom => 1
+296_quantity => 1
+296_quantityIssue => 0.0000
+296_vat => vat1
+296_startDate_show => 
+296_validUntil_show => 
+296_length => 0.0000
+296_thinkness => 0.0000
+296_volume => 0.0000
+296_area => 0.0000
+296_unitLength => ซม.(cm.)
+296_unitThinkness => ซม.(cm.)
+296_unitVolume => ลบม.(cu.m)
+296_unitArea => ตรม.(sq.m)
+296_wideDiameter => 0.0000
+296_height => 0.0000
+296_weight => 0.0000
+296_unitWD => ซม.(cm.)
+296_unitHeight => ซม.(cm.)
+296_unitWeight => กก.(kg.)
+296_class => Goods
+296_type => Accessory
+296_gGroup => Miscellaneous
+296_parent => 0
+296_parentMain => 
+296_id => item-1362415351-system
+296_typeP => item
+296_itemId => 
+296_prefix => AL-0309/CS
+296_used => 0.0
+296_unitCost => Baht
+296_startDate => 2013-09-23
+296_validUntil => 
+296_!nativeeditor_status => updated
+ids => 296
+
+Row data [296]
+englishName => SEAT OF BEACH CHAIR
+thaiName => แผ่นที่นั่งเก้าอี้นอน
+code => AL-0309/CS
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Include
+checkBom => 1
+quantity => 1
+quantityIssue => 0.0000
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 0.0000
+thinkness => 0.0000
+volume => 0.0000
+area => 0.0000
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 0.0000
+height => 0.0000
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => 
+id => item-1362415351-system
+typeP => item
+itemId => 
+prefix => AL-0309/CS
+used => 0.0
+unitCost => Baht
+startDate => 2013-09-23
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='SEAT OF BEACH CHAIR',`thaiName`='แผ่นที่นั่งเก้าอี้นอน',`code`='AL-0309/CS',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='กล่อง(box)',`quantityIssue`='0.0000',`vat`='vat1',`description`='',`length`='0.0000',`thinkness`='0.0000',`volume`='0.0000',`area`='0.0000',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='0.0000',`height`='0.0000',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`='2013-09-23',`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='',`id`='item-1362415351-system',`typeP`='item',`itemId`='',`prefix`='AL-0309/CS',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='296'
+
+Edit operation finished
+0 => action:updated; sid:296; tid:296;
+
+Done in 0.004457950592041s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:56
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '17'
+
+Done in 0.0033509731292725s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:38
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+17_englishName => PART OF CAMPGN CHAISE LOUNGE
+17_thaiName => แผ่นที่พิงเก้าอี้นอน
+17_code => AL-0003/CB
+17_barcode => 
+17_shape => 
+17_description => 
+17_unit => กล่อง(box)
+17_unitIssue => ถุง(bag)
+17_vat_Show => Include
+17_checkBom => 1
+17_quantity => 1
+17_quantityIssue => 1
+17_vat => vat1
+17_startDate_show => 
+17_validUntil_show => 
+17_length => 0.0000
+17_thinkness => 0.0000
+17_volume => 0.0000
+17_area => 0.0000
+17_unitLength => ซม.(cm.)
+17_unitThinkness => ซม.(cm.)
+17_unitVolume => ลบม.(cu.m)
+17_unitArea => ตรม.(sq.m)
+17_wideDiameter => 0.0000
+17_height => 0.0000
+17_weight => 0.0000
+17_unitWD => ซม.(cm.)
+17_unitHeight => ซม.(cm.)
+17_unitWeight => กก.(kg.)
+17_class => Goods
+17_type => Accessory
+17_gGroup => Miscellaneous
+17_parent => 0
+17_parentMain => item-1362414809-system
+17_id => item-1362414809-system
+17_typeP => item
+17_itemId => item-1362414809-system
+17_prefix => AL-0003/CB
+17_used => 0.0
+17_unitCost => Baht
+17_startDate => 2013-09-23
+17_validUntil => 
+17_!nativeeditor_status => updated
+ids => 17
+
+Row data [17]
+englishName => PART OF CAMPGN CHAISE LOUNGE
+thaiName => แผ่นที่พิงเก้าอี้นอน
+code => AL-0003/CB
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => ถุง(bag)
+vat_Show => Include
+checkBom => 1
+quantity => 1
+quantityIssue => 1
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 0.0000
+thinkness => 0.0000
+volume => 0.0000
+area => 0.0000
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 0.0000
+height => 0.0000
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => item-1362414809-system
+id => item-1362414809-system
+typeP => item
+itemId => item-1362414809-system
+prefix => AL-0003/CB
+used => 0.0
+unitCost => Baht
+startDate => 2013-09-23
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='PART OF CAMPGN CHAISE LOUNGE',`thaiName`='แผ่นที่พิงเก้าอี้นอน',`code`='AL-0003/CB',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='ถุง(bag)',`quantityIssue`='1',`vat`='vat1',`description`='',`length`='0.0000',`thinkness`='0.0000',`volume`='0.0000',`area`='0.0000',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='0.0000',`height`='0.0000',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`='2013-09-23',`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='item-1362414809-system',`id`='item-1362414809-system',`typeP`='item',`itemId`='item-1362414809-system',`prefix`='AL-0003/CB',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='17'
+
+Edit operation finished
+0 => action:updated; sid:17; tid:17;
+
+Done in 0.0066940784454346s
+
+
+
+====================================
+Log started, 23/09/2013 09:09:54
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+17_englishName => PART OF CAMPGN CHAISE LOUNGE
+17_thaiName => แผ่นที่พิงเก้าอี้นอน
+17_code => AL-0003/CB
+17_barcode => 
+17_shape => 
+17_description => 
+17_unit => กล่อง(box)
+17_unitIssue => กล่อง(box)
+17_vat_Show => Include
+17_checkBom => 1
+17_quantity => 1
+17_quantityIssue => 
+17_vat => vat1
+17_startDate_show => 
+17_validUntil_show => 
+17_length => 0.0000
+17_thinkness => 0.0000
+17_volume => 0.0000
+17_area => 0.0000
+17_unitLength => ซม.(cm.)
+17_unitThinkness => ซม.(cm.)
+17_unitVolume => ลบม.(cu.m)
+17_unitArea => ตรม.(sq.m)
+17_wideDiameter => 0.0000
+17_height => 0.0000
+17_weight => 0.0000
+17_unitWD => ซม.(cm.)
+17_unitHeight => ซม.(cm.)
+17_unitWeight => กก.(kg.)
+17_class => Goods
+17_type => Accessory
+17_gGroup => Miscellaneous
+17_parent => 0
+17_parentMain => item-1362414809-system
+17_id => item-1362414809-system
+17_typeP => item
+17_itemId => item-1362414809-system
+17_prefix => AL-0003/CB
+17_used => 0.0
+17_unitCost => Baht
+17_startDate => 2013-09-23
+17_validUntil => 
+17_!nativeeditor_status => updated
+ids => 17
+
+Row data [17]
+englishName => PART OF CAMPGN CHAISE LOUNGE
+thaiName => แผ่นที่พิงเก้าอี้นอน
+code => AL-0003/CB
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Include
+checkBom => 1
+quantity => 1
+quantityIssue => 
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 0.0000
+thinkness => 0.0000
+volume => 0.0000
+area => 0.0000
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 0.0000
+height => 0.0000
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => item-1362414809-system
+id => item-1362414809-system
+typeP => item
+itemId => item-1362414809-system
+prefix => AL-0003/CB
+used => 0.0
+unitCost => Baht
+startDate => 2013-09-23
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='PART OF CAMPGN CHAISE LOUNGE',`thaiName`='แผ่นที่พิงเก้าอี้นอน',`code`='AL-0003/CB',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='กล่อง(box)',`quantityIssue`='',`vat`='vat1',`description`='',`length`='0.0000',`thinkness`='0.0000',`volume`='0.0000',`area`='0.0000',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='0.0000',`height`='0.0000',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`='2013-09-23',`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='item-1362414809-system',`id`='item-1362414809-system',`typeP`='item',`itemId`='item-1362414809-system',`prefix`='AL-0003/CB',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='17'
+
+Edit operation finished
+0 => action:updated; sid:17; tid:17;
+
+Done in 0.0062429904937744s
+
+
+
+====================================
+Log started, 24/09/2013 06:09:20
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.014853954315186s
+
+
+
+====================================
+Log started, 24/09/2013 06:09:48
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+DataProcessor object initialized
+93_englishName => TULIP SWING 3-SEAT SOFA
+93_thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+93_code => AL-0210/3S/SW
+93_barcode => 
+93_shape => 
+93_description => 
+93_unit => กล่อง(box)
+93_unitIssue => กล่อง(box)
+93_vat_Show => Include
+93_checkBom => 1
+93_quantity => 1
+93_quantityIssue => 
+93_vat => vat1
+93_startDate_show => 
+93_validUntil_show => 
+93_length => 0.0000
+93_thinkness => 0.0000
+93_volume => 0.0000
+93_area => 0.0000
+93_unitLength => ซม.(cm.)
+93_unitThinkness => ซม.(cm.)
+93_unitVolume => ลบม.(cu.m)
+93_unitArea => ตรม.(sq.m)
+93_wideDiameter => 0.0000
+93_height => 0.0000
+93_weight => 0.0000
+93_unitWD => ซม.(cm.)
+93_unitHeight => ซม.(cm.)
+93_unitWeight => กก.(kg.)
+93_class => Goods
+93_type => Accessory
+93_gGroup => Miscellaneous
+93_parent => 0
+93_parentMain => item-1362415148-system
+93_id => item-1362415148-system
+93_typeP => item
+93_itemId => item-1362415148-system
+93_prefix => AL-0210/3S/SW
+93_used => 0.0
+93_unitCost => Baht
+93_startDate => 2013-09-23
+93_validUntil => 
+93_!nativeeditor_status => updated
+ids => 93
+
+Row data [93]
+englishName => TULIP SWING 3-SEAT SOFA
+thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+code => AL-0210/3S/SW
+barcode => 
+shape => 
+description => 
+unit => กล่อง(box)
+unitIssue => กล่อง(box)
+vat_Show => Include
+checkBom => 1
+quantity => 1
+quantityIssue => 
+vat => vat1
+startDate_show => 
+validUntil_show => 
+length => 0.0000
+thinkness => 0.0000
+volume => 0.0000
+area => 0.0000
+unitLength => ซม.(cm.)
+unitThinkness => ซม.(cm.)
+unitVolume => ลบม.(cu.m)
+unitArea => ตรม.(sq.m)
+wideDiameter => 0.0000
+height => 0.0000
+weight => 0.0000
+unitWD => ซม.(cm.)
+unitHeight => ซม.(cm.)
+unitWeight => กก.(kg.)
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+parent => 0
+parentMain => item-1362415148-system
+id => item-1362415148-system
+typeP => item
+itemId => item-1362415148-system
+prefix => AL-0210/3S/SW
+used => 0.0
+unitCost => Baht
+startDate => 2013-09-23
+validUntil => 
+!nativeeditor_status => updated
+
+Missing argument 2 for DataAction::set_value(), called in C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php on line 19 and defined at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 328
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 329
+
+change value of: validUntil as: 
+
+Undefined variable: value at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\dataprocessor.php line 330
+
+UPDATE productstructure SET `englishName`='TULIP SWING 3-SEAT SOFA',`thaiName`='โซฟาชิงช้า 3 ที่นั่ง ทิวลิป',`code`='AL-0210/3S/SW',`barcode`='',`shape`='',`checkBom`='1',`unit`='กล่อง(box)',`quantity`='1',`unitIssue`='กล่อง(box)',`quantityIssue`='',`vat`='vat1',`description`='',`length`='0.0000',`thinkness`='0.0000',`volume`='0.0000',`area`='0.0000',`unitLength`='ซม.(cm.)',`unitThinkness`='ซม.(cm.)',`unitVolume`='ลบม.(cu.m)',`unitArea`='ตรม.(sq.m)',`wideDiameter`='0.0000',`height`='0.0000',`weight`='0.0000',`unitWD`='ซม.(cm.)',`unitHeight`='ซม.(cm.)',`unitWeight`='กก.(kg.)',`startDate`='2013-09-23',`validUntil`=Null,`class`='Goods',`type`='Accessory',`gGroup`='Miscellaneous',`parent`='0',`parentMain`='item-1362415148-system',`id`='item-1362415148-system',`typeP`='item',`itemId`='item-1362415148-system',`prefix`='AL-0210/3S/SW',`used`='0.0',`unitCost`='Baht' WHERE `rowId`='93'
+
+Edit operation finished
+0 => action:updated; sid:93; tid:93;
+
+Done in 0.0046920776367188s
+
+
+
+====================================
+Log started, 24/09/2013 06:09:59
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.003126859664917s
+
+
+
+====================================
+Log started, 24/09/2013 06:09:43
+====================================
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 28
+
+Use of undefined constant myInsert - assumed 'myInsert' at C:\wamp\www\tleworld\itemMaster\update\item\connectDBForm.php line 29
+
+SELECT `rowId`,`englishName`,`thaiName`,`code`,`barcode`,`shape`,`checkBom`,`unit`,`quantity`,`unitIssue`,`quantityIssue`,`vat`,`description`,`length`,`thinkness`,`volume`,`area`,`unitLength`,`unitThinkness`,`unitVolume`,`unitArea`,`wideDiameter`,`height`,`weight`,`unitWD`,`unitHeight`,`unitWeight`,`startDate`,`validUntil`,`class`,`type`,`gGroup`,`parent`,`parentMain`,`id`,`typeP`,`itemId`,`prefix`,`used`,`unitCost` FROM productstructure WHERE `rowId` = '93'
+
+Done in 0.002979040145874s
+

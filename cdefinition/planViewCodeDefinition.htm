@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>planViewCodeDefinition</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body onload="initForm();">
+<link rel="stylesheet" type="text/css" href="../DHX/dhtmlxForm/codebase/skins/dhtmlxform_dhx_skyblue.css">
+<link rel="STYLESHEET" type="text/css" href="../DHX/dhtmlxTabbar/codebase/dhtmlxtabbar.css">    
+<script src="../DHX/dhtmlxForm/codebase/dhtmlxcommon.js"></script>
+<script src="../DHX/dhtmlxForm/codebase/dhtmlxform.js"></script>
+<script  src="../DHX/dhtmlxTabbar/codebase/dhtmlxcommon.js"></script>
+<script  src="../DHX/dhtmlxTabbar/codebase/dhtmlxtabbar.js"></script>
+<link rel="stylesheet" type="text/css" href="../DHX/dhtmlxForm/codebase/skins/dhtmlxform_dhx_skyblue.css">
+<script src="../DHX/dhtmlxForm/codebase/dhtmlxcommon.js"></script>
+<script src="../DHX/dhtmlxForm/codebase/dhtmlxform.js"></script>
+<link rel="stylesheet" type="text/css" href="../DHX/dhtmlxCalendar/codebase/dhtmlxcalendar.css">
+<script src="../DHX/dhtmlxCalendar/codebase/skins/dhtmlxcalendar_dhx_skyblue.css"></script>
+<script src="../DHX/dhtmlxCalendar/codebase/dhtmlxcalendar.js"></script>
+<script src="../DHX/dhtmlxForm/codebase/ext/dhtmlxform_item_calendar.js"></script>
+<script>
+		var myForm;
+		
+		function initForm() {
+			if (myForm) return;
+			var formData = [
+				{ type:"label" , name:"codeDefinition", label:"<h2>Code Definition</h2>", width:200, labelWidth:"200", labelHeight:"40", inputWidth:"200", inputHeight:"40", labelLeft:"15", labelTop:"0", inputLeft:"295", inputTop:"0", position:"absolute"   },
+		{ type:"input" , name:"cd_thaiName", label:"Thai Name", width:175, labelWidth:"80", labelHeight:"21", inputWidth:"90", inputHeight:"16", labelLeft:"15", labelTop:"65", inputLeft:"95", inputTop:"65", position:"absolute"  },
+		{ type:"input" , name:"cd_englishName", label:"English Name", width:200, labelWidth:"80", labelHeight:"21", labelAlign:"left", inputWidth:"120", inputHeight:"16", labelLeft:"290", labelTop:"65", inputLeft:"400", inputTop:"65", position:"absolute"  },
+		{ type:"input" , name:"cd_description", label:"Description", width:1400, labelWidth:"80", labelHeight:"21", inputWidth:"320", inputHeight:"16", labelLeft:"15", labelTop:"90", inputLeft:"95", inputTop:"90", position:"absolute"  },
+		{ type:"input" , name:"cd_code", label:"Code", width:125, labelWidth:"80", labelHeight:"21", inputWidth:"45", inputHeight:"16", labelLeft:"15", labelTop:"115", inputLeft:"95", inputTop:"115", position:"absolute"  },
+		{ type:"input" , name:"cd_type", label:"Type", width:125, labelWidth:"80", labelHeight:"21", labelAlign:"left", inputWidth:"45", inputHeight:"16", labelLeft:"290", labelTop:"115", inputLeft:"400", inputTop:"115", position:"absolute"  },
+		{ type:"input" , name:"cd_groupCode", label:"Group Code", width:125, labelWidth:"80", labelHeight:"21", labelAlign:"left", inputWidth:"45", inputHeight:"16", labelLeft:"550", labelTop:"115", inputLeft:"650", inputTop:"115", position:"absolute"  },
+		{ type:"calendar" , name:"cd_startDate", label:"Start Date", dateFormat:"%d-%m-%Y", labelWidth:"80", labelHeight:"21", labelAlign:"left", inputWidth:"95", inputHeight:"16", options:{
+			
+		}, labelLeft:"15", labelTop:"140", inputLeft:"95", inputTop:"140", position:"absolute"  },
+		{ type:"calendar" , name:"cd_validUntil", label:"Valid Until", dateFormat:"%d-%m-%Y", labelWidth:"80", labelHeight:"21", labelAlign:"left", inputWidth:"95", inputHeight:"16", options:{
+			
+		}, labelLeft:"290", labelTop:"140", inputLeft:"400", inputTop:"140", position:"absolute"  },
+		{ type:"button" , name:"submit", label:"Submit", value:"submit", width:"50", inputWidth:"75", inputHeight:"21", labelLeft:"-10", labelTop:"-10", inputLeft:"290", inputTop:"15", position:"absolute"  },
+		{ type:"button" , name:"save", label:"Save", value:"Save", width:"50", inputWidth:"75", inputHeight:"21", labelLeft:"-10", labelTop:"-10", inputLeft:"390", inputTop:"15", position:"absolute"  },
+		{ type:"button" , name:"fsaveRev", label:"Save Rev.", value:"Save Rev.", width:"50", inputWidth:"75", inputHeight:"21", labelLeft:"-10", labelTop:"-10", inputLeft:"490", inputTop:"15", position:"absolute"  }
+	];
+
+
+			myForm = new dhtmlXForm("myForm", formData);
+		}
+		function unloadForm() {
+			if (myForm) {
+				myForm.unload();
+				myForm = null;
+			}
+			
+		}
+</script>
+<div id="view" style="width:800px; height:250px; background-color: #ACE3B0">
+	<div id="myForm" style="width: 800; height: 250;"></div>	
+
+</div>
+
+
+</body>
+</html>

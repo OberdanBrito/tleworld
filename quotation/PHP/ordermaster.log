@@ -1,0 +1,4766 @@
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 05:09:23
+====================================
+
+!!!Uncaught Exception
+Code: 0
+Message: ID parameter is missed
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 05:09:05
+====================================
+
+DataProcessor object initialized
+_id => ord-1379586347233-system
+_orderId => 
+_referenceId => 
+_referenceId2 => 
+_docType => quotation
+_status => draft
+_revision => 0
+_loginCompanyId => log-007-system
+_loginUserId => usr-020-system
+_editorId => 
+_employeeId => per-1366697237029-system
+_employeeName => Mr. Aryuth Ekkul
+_employeeTel => 0818035616
+_employeeEmail => e.aryuth@gmail.com
+_customerId => per-1366697170598-system
+_customerName => บมจ. บีนา ประชาอุทิศ
+_contactPerson => 
+_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+_billingAddress => 
+_tel => 0900009876
+_fax => 024445678
+_email => fon.chiangmai@gmail.com
+_deliverPlace => 
+_currency => Baht
+_discountRate => 0
+_discount => 0.00
+_inVat => 1
+_totalBeforeVat => 8680.55
+_vatAmount => 653.38
+_totalIncludeVatNum => 9333.93
+_totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+_totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+_paymentTerm => -1
+_deliveryTerm => -1
+_creditTerm => -1
+_footNote => 
+_commissionRate => 
+_commissionValue => 
+_approvePersonId => 
+_approvePerson => 
+_approveDate => 
+_!nativeeditor_status => updated
+ids => 
+
+Row data []
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379586347233-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8680.55
+vatAmount => 653.38
+totalIncludeVatNum => 9333.93
+totalIncludeVatStrThai => เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand three hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+UPDATE ordermaster SET `id`='ord-1379586347233-system',`docType`='quotation',`status`='draft',`orderId`='',`revision`='0',`referenceId`='',`referenceId2`='',`createDate`='',`issueDate`='',`dueDate`='',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`editorId`='',`editDate`='',`approvePersonId`='',`approvePerson`='',`approveDate`='',`customerId`='per-1366697170598-system',`customerName`='บมจ. บีนา ประชาอุทิศ',`contactPerson`='',`companyAddress`='ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ',`shippingAddress`='บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ',`billingAddress`='',`tel`='0900009876',`fax`='024445678',`email`='fon.chiangmai@gmail.com',`deliverPlace`='',`employeeId`='per-1366697237029-system',`employeeName`='Mr. Aryuth Ekkul',`employeeTel`='0818035616',`employeeEmail`='e.aryuth@gmail.com',`priceStrId`='',`currency`='Baht',`discountRate`='0',`discount`='0.00',`includeVat`='',`includeVat`='',`totalBeforeVat`='8680.55',`vatAmount`='653.38',`totalIncludeVatNum`='9333.93',`totalIncludeVatStrThai`='เก้าพันสามร้อยสามสิบสามจุดเก้าสาม บาท',`totalIncludeVatStrEnglish`='nine thousand three hundred thirty three point nine three Baht',`footNote`='',`paymentTerm`='-1',`deliveryTerm`='-1',`creditTerm`='-1',`commissionRate`='',`commissionValue`='',`shipVia`='',`domestic`='' WHERE `rowId`=''
+
+Edit operation finished
+0 => action:updated; sid:; tid:;
+
+Done in 0.010071992874146s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 05:09:21
+====================================
+
+DataProcessor object initialized
+_id => ord-1379586433521-system
+_orderId => 
+_referenceId => 
+_referenceId2 => 
+_docType => quotation
+_status => draft
+_revision => 0
+_loginCompanyId => log-007-system
+_loginUserId => usr-020-system
+_editorId => 
+_employeeId => per-1366697237029-system
+_employeeName => Mr. Aryuth Ekkul
+_employeeTel => 0818035616
+_employeeEmail => e.aryuth@gmail.com
+_customerId => per-1366697170598-system
+_customerName => บมจ. บีนา ประชาอุทิศ
+_contactPerson => 
+_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+_billingAddress => 
+_tel => 0900009876
+_fax => 024445678
+_email => fon.chiangmai@gmail.com
+_deliverPlace => 
+_currency => Baht
+_discountRate => 0
+_discount => 0.00
+_inVat => 1
+_totalBeforeVat => 2936.01
+_vatAmount => 220.99
+_totalIncludeVatNum => 3157.00
+_totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+_totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+_paymentTerm => -1
+_deliveryTerm => -1
+_creditTerm => -1
+_footNote => 
+_commissionRate => 
+_commissionValue => 
+_approvePersonId => 
+_approvePerson => 
+_approveDate => 
+_!nativeeditor_status => updated
+ids => 
+
+Row data []
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379586433521-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 2936.01
+vatAmount => 220.99
+totalIncludeVatNum => 3157.00
+totalIncludeVatStrThai => สามพันหนึ่งร้อยห้าสิบเจ็ดบาท
+totalIncludeVatStrEnglish => three thousand one hundred fifty seven point zero zero Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+UPDATE ordermaster SET `id`='ord-1379586433521-system',`docType`='quotation',`status`='draft',`orderId`='',`revision`='0',`referenceId`='',`referenceId2`='',`createDate`='',`issueDate`='',`dueDate`='',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`editorId`='',`editDate`='',`approvePersonId`='',`approvePerson`='',`approveDate`='',`customerId`='per-1366697170598-system',`customerName`='บมจ. บีนา ประชาอุทิศ',`contactPerson`='',`companyAddress`='ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ',`shippingAddress`='บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ',`billingAddress`='',`tel`='0900009876',`fax`='024445678',`email`='fon.chiangmai@gmail.com',`deliverPlace`='',`employeeId`='per-1366697237029-system',`employeeName`='Mr. Aryuth Ekkul',`employeeTel`='0818035616',`employeeEmail`='e.aryuth@gmail.com',`priceStrId`='',`currency`='Baht',`discountRate`='0',`discount`='0.00',`includeVat`='',`includeVat`='',`totalBeforeVat`='2936.01',`vatAmount`='220.99',`totalIncludeVatNum`='3157.00',`totalIncludeVatStrThai`='สามพันหนึ่งร้อยห้าสิบเจ็ดบาท',`totalIncludeVatStrEnglish`='three thousand one hundred fifty seven point zero zero Baht',`footNote`='',`paymentTerm`='-1',`deliveryTerm`='-1',`creditTerm`='-1',`commissionRate`='',`commissionValue`='',`shipVia`='',`domestic`='' WHERE `rowId`=''
+
+Edit operation finished
+0 => action:updated; sid:; tid:;
+
+Done in 0.0096020698547363s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 05:09:55
+====================================
+
+DataProcessor object initialized
+_id => ord-1379586823600-system
+_orderId => 
+_referenceId => 
+_referenceId2 => 
+_docType => quotation
+_status => draft
+_revision => 0
+_loginCompanyId => log-007-system
+_loginUserId => usr-020-system
+_editorId => 
+_employeeId => per-1366697237029-system
+_employeeName => Mr. Aryuth Ekkul
+_employeeTel => 0818035616
+_employeeEmail => e.aryuth@gmail.com
+_customerId => per-1366697170598-system
+_customerName => บมจ. บีนา ประชาอุทิศ
+_contactPerson => 
+_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+_billingAddress => 
+_tel => 0900009876
+_fax => 024445678
+_email => fon.chiangmai@gmail.com
+_deliverPlace => 
+_currency => Baht
+_discountRate => 0
+_discount => 0.00
+_inVat => 1
+_totalBeforeVat => 8494.55
+_vatAmount => 639.38
+_totalIncludeVatNum => 9133.93
+_totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+_totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+_paymentTerm => -1
+_deliveryTerm => -1
+_creditTerm => -1
+_footNote => 
+_commissionRate => 
+_commissionValue => 
+_approvePersonId => 
+_approvePerson => 
+_approveDate => 
+_!nativeeditor_status => updated
+ids => 
+
+Row data []
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379586823600-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+UPDATE ordermaster SET `id`='ord-1379586823600-system',`docType`='quotation',`status`='draft',`orderId`='',`revision`='0',`referenceId`='',`referenceId2`='',`createDate`='',`issueDate`='',`dueDate`='',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`editorId`='',`editDate`='',`approvePersonId`='',`approvePerson`='',`approveDate`='',`customerId`='per-1366697170598-system',`customerName`='บมจ. บีนา ประชาอุทิศ',`contactPerson`='',`companyAddress`='ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ',`shippingAddress`='บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ',`billingAddress`='',`tel`='0900009876',`fax`='024445678',`email`='fon.chiangmai@gmail.com',`deliverPlace`='',`employeeId`='per-1366697237029-system',`employeeName`='Mr. Aryuth Ekkul',`employeeTel`='0818035616',`employeeEmail`='e.aryuth@gmail.com',`priceStrId`='',`currency`='Baht',`discountRate`='0',`discount`='0.00',`includeVat`='',`includeVat`='',`totalBeforeVat`='8494.55',`vatAmount`='639.38',`totalIncludeVatNum`='9133.93',`totalIncludeVatStrThai`='เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท',`totalIncludeVatStrEnglish`='nine thousand one hundred thirty three point nine three Baht',`footNote`='',`paymentTerm`='-1',`deliveryTerm`='-1',`creditTerm`='-1',`commissionRate`='',`commissionValue`='',`shipVia`='',`domestic`='' WHERE `rowId`=''
+
+Edit operation finished
+0 => action:updated; sid:; tid:;
+
+Done in 0.01007080078125s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 07:09:37
+====================================
+
+DataProcessor object initialized
+_id => ord-1379592685238-system
+_orderId => 
+_referenceId => 
+_referenceId2 => 
+_docType => quotation
+_status => draft
+_revision => 0
+_loginCompanyId => log-007-system
+_loginUserId => usr-020-system
+_editorId => 
+_employeeId => per-1366697237029-system
+_employeeName => Mr. Aryuth Ekkul
+_employeeTel => 0818035616
+_employeeEmail => e.aryuth@gmail.com
+_customerId => per-1366697170598-system
+_customerName => บมจ. บีนา ประชาอุทิศ
+_contactPerson => 
+_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+_billingAddress => 
+_tel => 0900009876
+_fax => 024445678
+_email => fon.chiangmai@gmail.com
+_deliverPlace => 
+_currency => Baht
+_discountRate => 0
+_discount => 0.00
+_inVat => 1
+_totalBeforeVat => 8494.55
+_vatAmount => 639.38
+_totalIncludeVatNum => 9133.93
+_totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+_totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+_paymentTerm => -1
+_deliveryTerm => -1
+_creditTerm => -1
+_footNote => 
+_commissionRate => 
+_commissionValue => 
+_approvePersonId => 
+_approvePerson => 
+_approveDate => 
+_!nativeeditor_status => updated
+ids => 
+
+Row data []
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: createDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: issueDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: dueDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: editDate
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: priceStrId
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: shipVia
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+Incorrect field name used: domestic
+
+data
+id => ord-1379592685238-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+currency => Baht
+discountRate => 0
+discount => 0.00
+inVat => 1
+totalBeforeVat => 8494.55
+vatAmount => 639.38
+totalIncludeVatNum => 9133.93
+totalIncludeVatStrThai => เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => nine thousand one hundred thirty three point nine three Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 
+commissionValue => 
+approvePersonId => 
+approvePerson => 
+approveDate => 
+!nativeeditor_status => updated
+
+UPDATE ordermaster SET `id`='ord-1379592685238-system',`docType`='quotation',`status`='draft',`orderId`='',`revision`='0',`referenceId`='',`referenceId2`='',`createDate`='',`issueDate`='',`dueDate`='',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`editorId`='',`editDate`='',`approvePersonId`='',`approvePerson`='',`approveDate`='',`customerId`='per-1366697170598-system',`customerName`='บมจ. บีนา ประชาอุทิศ',`contactPerson`='',`companyAddress`='ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ',`shippingAddress`='บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ',`billingAddress`='',`tel`='0900009876',`fax`='024445678',`email`='fon.chiangmai@gmail.com',`deliverPlace`='',`employeeId`='per-1366697237029-system',`employeeName`='Mr. Aryuth Ekkul',`employeeTel`='0818035616',`employeeEmail`='e.aryuth@gmail.com',`priceStrId`='',`currency`='Baht',`discountRate`='0',`discount`='0.00',`includeVat`='',`includeVat`='',`totalBeforeVat`='8494.55',`vatAmount`='639.38',`totalIncludeVatNum`='9133.93',`totalIncludeVatStrThai`='เก้าพันหนึ่งร้อยสามสิบสามจุดเก้าสาม บาท',`totalIncludeVatStrEnglish`='nine thousand one hundred thirty three point nine three Baht',`footNote`='',`paymentTerm`='-1',`deliveryTerm`='-1',`creditTerm`='-1',`commissionRate`='',`commissionValue`='',`shipVia`='',`domestic`='' WHERE `rowId`=''
+
+Edit operation finished
+0 => action:updated; sid:; tid:;
+
+Done in 0.070432901382446s
+
+
+
+====================================
+Log started, 27/09/2013 05:09:08
+====================================
+
+DataProcessor object initialized
+1380254275021_id => ord-1380254274959-system
+1380254275021_orderId => 
+1380254275021_referenceId => 
+1380254275021_referenceId2 => 
+1380254275021_docType => quotation
+1380254275021_status => draft
+1380254275021_revision => 0
+1380254275021_loginCompanyId => log-007-system
+1380254275021_loginUserId => usr-020-system
+1380254275021_editorId => 
+1380254275021_employeeId => per-1366697237029-system
+1380254275021_employeeName => Mr. Aryuth Ekkul
+1380254275021_employeeTel => 0818035616
+1380254275021_employeeEmail => e.aryuth@gmail.com
+1380254275021_customerId => per-1366697170598-system
+1380254275021_customerName => บมจ. บีนา ประชาอุทิศ
+1380254275021_contactPerson => 
+1380254275021_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+1380254275021_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+1380254275021_billingAddress => 
+1380254275021_tel => 0900009876
+1380254275021_fax => 024445678
+1380254275021_email => fon.chiangmai@gmail.com
+1380254275021_deliverPlace => 
+1380254275021_unitCost => Baht
+1380254275021_discountRate => 0
+1380254275021_discount => 0
+1380254275021_inVat => included
+1380254275021_totalBeforeVat => 0.00
+1380254275021_vatAmount => 0.00
+1380254275021_totalIncludeVatNum => 0.00
+1380254275021_totalIncludeVatStrThai => 
+1380254275021_totalIncludeVatStrEnglish => 
+1380254275021_paymentTerm => -1
+1380254275021_deliveryTerm => -1
+1380254275021_creditTerm => -1
+1380254275021_footNote => 
+1380254275021_commissionRate => 0
+1380254275021_commissionValue => 0
+1380254275021_!nativeeditor_status => inserted
+ids => 1380254275021
+
+Row data [1380254275021]
+id => ord-1380254274959-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1380254274959-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1380254274959-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+INSERT INTO ordermaster(`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue`) VALUES ('ord-1380254274959-system','quotation','draft','','0','','','log-007-system','usr-020-system','','per-1366697170598-system','บมจ. บีนา ประชาอุทิศ','','ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ','บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ','','0900009876','024445678','fon.chiangmai@gmail.com','','per-1366697237029-system','Mr. Aryuth Ekkul','0818035616','e.aryuth@gmail.com','Baht','0','0','','0.00','0.00','0.00','','','','-1','-1','-1','0','0')
+
+Edit operation finished
+0 => action:error; sid:1380254275021; tid:1380254275021;
+
+Done in 0.0037639141082764s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:30
+====================================
+
+DataProcessor object initialized
+1380254464609_id => ord-1380254464522-system
+1380254464609_orderId => 
+1380254464609_referenceId => 
+1380254464609_referenceId2 => 
+1380254464609_docType => quotation
+1380254464609_status => draft
+1380254464609_revision => 0
+1380254464609_loginCompanyId => log-007-system
+1380254464609_loginUserId => usr-020-system
+1380254464609_editorId => 
+1380254464609_employeeId => per-1366697237029-system
+1380254464609_employeeName => Mr. Aryuth Ekkul
+1380254464609_employeeTel => 0818035616
+1380254464609_employeeEmail => e.aryuth@gmail.com
+1380254464609_customerId => per-1366697170598-system
+1380254464609_customerName => บมจ. บีนา ประชาอุทิศ
+1380254464609_contactPerson => 
+1380254464609_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+1380254464609_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+1380254464609_billingAddress => 
+1380254464609_tel => 0900009876
+1380254464609_fax => 024445678
+1380254464609_email => fon.chiangmai@gmail.com
+1380254464609_deliverPlace => 
+1380254464609_unitCost => Baht
+1380254464609_discountRate => 0
+1380254464609_discount => 0
+1380254464609_inVat => included
+1380254464609_totalBeforeVat => 0.00
+1380254464609_vatAmount => 0.00
+1380254464609_totalIncludeVatNum => 0.00
+1380254464609_totalIncludeVatStrThai => 
+1380254464609_totalIncludeVatStrEnglish => 
+1380254464609_paymentTerm => -1
+1380254464609_deliveryTerm => -1
+1380254464609_creditTerm => -1
+1380254464609_footNote => 
+1380254464609_commissionRate => 0
+1380254464609_commissionValue => 0
+1380254464609_!nativeeditor_status => inserted
+ids => 1380254464609
+
+Row data [1380254464609]
+id => ord-1380254464522-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1380254464522-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1380254464522-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+INSERT INTO ordermaster(`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue`) VALUES ('ord-1380254464522-system','quotation','draft','','0','','','log-007-system','usr-020-system','','per-1366697170598-system','บมจ. บีนา ประชาอุทิศ','','ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ','บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ','','0900009876','024445678','fon.chiangmai@gmail.com','','per-1366697237029-system','Mr. Aryuth Ekkul','0818035616','e.aryuth@gmail.com','Baht','0','0','','0.00','0.00','0.00','','','','-1','-1','-1','0','0')
+
+Edit operation finished
+0 => action:inserted; sid:1380254464609; tid:3;
+
+Done in 0.0043070316314697s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:11
+====================================
+
+DataProcessor object initialized
+1380254806644_id => ord-1380254806560-system
+1380254806644_orderId => 
+1380254806644_referenceId => 
+1380254806644_referenceId2 => 
+1380254806644_docType => quotation
+1380254806644_status => draft
+1380254806644_revision => 0
+1380254806644_loginCompanyId => log-007-system
+1380254806644_loginUserId => usr-020-system
+1380254806644_editorId => 
+1380254806644_employeeId => per-1366697237029-system
+1380254806644_employeeName => Mr. Aryuth Ekkul
+1380254806644_employeeTel => 0818035616
+1380254806644_employeeEmail => e.aryuth@gmail.com
+1380254806644_customerId => per-1366697170598-system
+1380254806644_customerName => บมจ. บีนา ประชาอุทิศ
+1380254806644_contactPerson => 
+1380254806644_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+1380254806644_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+1380254806644_billingAddress => 
+1380254806644_tel => 0900009876
+1380254806644_fax => 024445678
+1380254806644_email => fon.chiangmai@gmail.com
+1380254806644_deliverPlace => 
+1380254806644_unitCost => Baht
+1380254806644_discountRate => 0
+1380254806644_discount => 0
+1380254806644_inVat => included
+1380254806644_totalBeforeVat => 0.00
+1380254806644_vatAmount => 0.00
+1380254806644_totalIncludeVatNum => 0.00
+1380254806644_totalIncludeVatStrThai => 
+1380254806644_totalIncludeVatStrEnglish => 
+1380254806644_paymentTerm => -1
+1380254806644_deliveryTerm => -1
+1380254806644_creditTerm => -1
+1380254806644_footNote => 
+1380254806644_commissionRate => 0
+1380254806644_commissionValue => 0
+1380254806644_!nativeeditor_status => inserted
+ids => 1380254806644
+
+Row data [1380254806644]
+id => ord-1380254806560-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1380254806560-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1380254806560-system
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+deliverPlace => 
+unitCost => Baht
+discountRate => 0
+discount => 0
+inVat => included
+totalBeforeVat => 0.00
+vatAmount => 0.00
+totalIncludeVatNum => 0.00
+totalIncludeVatStrThai => 
+totalIncludeVatStrEnglish => 
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+INSERT INTO ordermaster(`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue`) VALUES ('ord-1380254806560-system','quotation','draft','','0','','','log-007-system','usr-020-system','','per-1366697170598-system','บมจ. บีนา ประชาอุทิศ','','ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ','บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ','','0900009876','024445678','fon.chiangmai@gmail.com','','per-1366697237029-system','Mr. Aryuth Ekkul','0818035616','e.aryuth@gmail.com','Baht','0','0','','0.00','0.00','0.00','','','','-1','-1','-1','0','0')
+
+Edit operation finished
+0 => action:inserted; sid:1380254806644; tid:4;
+
+Done in 0.0023200511932373s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:48
+====================================
+
+DataProcessor object initialized
+1381394024132_id => ord-1381394023999-system
+1381394024132_customerId => per-1366697170598-system
+1381394024132_customerName => บมจ. บีนา ประชาอุทิศ
+1381394024132_contactPerson => 
+1381394024132_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+1381394024132_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+1381394024132_billingAddress => 
+1381394024132_tel => 0900009876
+1381394024132_fax => 024445678
+1381394024132_email => fon.chiangmai@gmail.com
+1381394024132_orderId => 
+1381394024132_referenceId => 
+1381394024132_referenceId2 => 
+1381394024132_docType => quotation
+1381394024132_status => draft
+1381394024132_revision => 0
+1381394024132_loginCompanyId => log-007-system
+1381394024132_loginUserId => usr-020-system
+1381394024132_editorId => 
+1381394024132_employeeId => per-1366697237029-system
+1381394024132_employeeName => Mr. Aryuth Ekkul
+1381394024132_employeeTel => 0818035616
+1381394024132_employeeEmail => e.aryuth@gmail.com
+1381394024132_deliverPlace => 
+1381394024132_unitCost => Baht
+1381394024132_paymentTerm => -1
+1381394024132_deliveryTerm => -1
+1381394024132_creditTerm => -1
+1381394024132_discountRate => 0
+1381394024132_discount => 0.00
+1381394024132_sumDiscount => 225.00
+1381394024132_inVat => included
+1381394024132_totalBeforeDiscount => 3257.00
+1381394024132_totalBeforeVat => 2819.76
+1381394024132_vatAmount => 212.24
+1381394024132_totalIncludeVatNum => 3032.00
+1381394024132_totalIncludeVatStrThai => สามพันสามสิบสองบาท
+1381394024132_totalIncludeVatStrEnglish => three thousand thirty two point zero zero Baht
+1381394024132_footNote => 
+1381394024132_commissionRate => 0
+1381394024132_commissionValue => 0
+1381394024132_!nativeeditor_status => inserted
+ids => 1381394024132
+
+Row data [1381394024132]
+id => ord-1381394023999-system
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+deliverPlace => 
+unitCost => Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+discountRate => 0
+discount => 0.00
+sumDiscount => 225.00
+inVat => included
+totalBeforeDiscount => 3257.00
+totalBeforeVat => 2819.76
+vatAmount => 212.24
+totalIncludeVatNum => 3032.00
+totalIncludeVatStrThai => สามพันสามสิบสองบาท
+totalIncludeVatStrEnglish => three thousand thirty two point zero zero Baht
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1381394023999-system
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+deliverPlace => 
+unitCost => Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+discountRate => 0
+discount => 0.00
+sumDiscount => 225.00
+inVat => included
+totalBeforeDiscount => 3257.00
+totalBeforeVat => 2819.76
+vatAmount => 212.24
+totalIncludeVatNum => 3032.00
+totalIncludeVatStrThai => สามพันสามสิบสองบาท
+totalIncludeVatStrEnglish => three thousand thirty two point zero zero Baht
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1381394023999-system
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+deliverPlace => 
+unitCost => Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+discountRate => 0
+discount => 0.00
+sumDiscount => 225.00
+inVat => included
+totalBeforeDiscount => 3257.00
+totalBeforeVat => 2819.76
+vatAmount => 212.24
+totalIncludeVatNum => 3032.00
+totalIncludeVatStrThai => สามพันสามสิบสองบาท
+totalIncludeVatStrEnglish => three thousand thirty two point zero zero Baht
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+INSERT INTO ordermaster(`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue`) VALUES ('ord-1381394023999-system','quotation','draft','','0','','','log-007-system','usr-020-system','','per-1366697170598-system','บมจ. บีนา ประชาอุทิศ','','ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ','บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ','','0900009876','024445678','fon.chiangmai@gmail.com','','per-1366697237029-system','Mr. Aryuth Ekkul','0818035616','e.aryuth@gmail.com','Baht','225.00','0','0.00','','3257.00','2819.76','212.24','3032.00','สามพันสามสิบสองบาท','three thousand thirty two point zero zero Baht','','-1','-1','-1','0','0')
+
+Edit operation finished
+0 => action:inserted; sid:1381394024132; tid:5;
+
+Done in 0.0030701160430908s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:29
+====================================
+
+DataProcessor object initialized
+1381394179857_id => ord-1381394179721-system
+1381394179857_customerId => per-1366697170598-system
+1381394179857_customerName => บมจ. บีนา ประชาอุทิศ
+1381394179857_contactPerson => 
+1381394179857_companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+1381394179857_shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+1381394179857_billingAddress => 
+1381394179857_tel => 0900009876
+1381394179857_fax => 024445678
+1381394179857_email => fon.chiangmai@gmail.com
+1381394179857_orderId => 
+1381394179857_referenceId => 
+1381394179857_referenceId2 => 
+1381394179857_docType => quotation
+1381394179857_status => draft
+1381394179857_revision => 0
+1381394179857_loginCompanyId => log-007-system
+1381394179857_loginUserId => usr-020-system
+1381394179857_editorId => 
+1381394179857_employeeId => per-1366697237029-system
+1381394179857_employeeName => Mr. Aryuth Ekkul
+1381394179857_employeeTel => 0818035616
+1381394179857_employeeEmail => e.aryuth@gmail.com
+1381394179857_deliverPlace => 
+1381394179857_unitCost => Baht
+1381394179857_paymentTerm => -1
+1381394179857_deliveryTerm => -1
+1381394179857_creditTerm => -1
+1381394179857_discountRate => 0
+1381394179857_discount => 0.00
+1381394179857_sumDiscount => 255.00
+1381394179857_inVat => included
+1381394179857_totalBeforeDiscount => 9133.93
+1381394179857_totalBeforeVat => 8257.40
+1381394179857_vatAmount => 621.53
+1381394179857_totalIncludeVatNum => 8878.93
+1381394179857_totalIncludeVatStrThai => แปดพันแปดร้อยเจ็ดสิบแปดจุดเก้าสาม บาท
+1381394179857_totalIncludeVatStrEnglish => eight thousand eight hundred seventy eight point nine three Baht
+1381394179857_footNote => 
+1381394179857_commissionRate => 0
+1381394179857_commissionValue => 0
+1381394179857_!nativeeditor_status => inserted
+ids => 1381394179857
+
+Row data [1381394179857]
+id => ord-1381394179721-system
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+deliverPlace => 
+unitCost => Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+discountRate => 0
+discount => 0.00
+sumDiscount => 255.00
+inVat => included
+totalBeforeDiscount => 9133.93
+totalBeforeVat => 8257.40
+vatAmount => 621.53
+totalIncludeVatNum => 8878.93
+totalIncludeVatStrThai => แปดพันแปดร้อยเจ็ดสิบแปดจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => eight thousand eight hundred seventy eight point nine three Baht
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1381394179721-system
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+deliverPlace => 
+unitCost => Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+discountRate => 0
+discount => 0.00
+sumDiscount => 255.00
+inVat => included
+totalBeforeDiscount => 9133.93
+totalBeforeVat => 8257.40
+vatAmount => 621.53
+totalIncludeVatNum => 8878.93
+totalIncludeVatStrThai => แปดพันแปดร้อยเจ็ดสิบแปดจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => eight thousand eight hundred seventy eight point nine three Baht
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: includeVat
+
+data
+id => ord-1381394179721-system
+customerId => per-1366697170598-system
+customerName => บมจ. บีนา ประชาอุทิศ
+contactPerson => 
+companyAddress => ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 
+shippingAddress => บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 
+billingAddress => 
+tel => 0900009876
+fax => 024445678
+email => fon.chiangmai@gmail.com
+orderId => 
+referenceId => 
+referenceId2 => 
+docType => quotation
+status => draft
+revision => 0
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+editorId => 
+employeeId => per-1366697237029-system
+employeeName => Mr. Aryuth Ekkul
+employeeTel => 0818035616
+employeeEmail => e.aryuth@gmail.com
+deliverPlace => 
+unitCost => Baht
+paymentTerm => -1
+deliveryTerm => -1
+creditTerm => -1
+discountRate => 0
+discount => 0.00
+sumDiscount => 255.00
+inVat => included
+totalBeforeDiscount => 9133.93
+totalBeforeVat => 8257.40
+vatAmount => 621.53
+totalIncludeVatNum => 8878.93
+totalIncludeVatStrThai => แปดพันแปดร้อยเจ็ดสิบแปดจุดเก้าสาม บาท
+totalIncludeVatStrEnglish => eight thousand eight hundred seventy eight point nine three Baht
+footNote => 
+commissionRate => 0
+commissionValue => 0
+!nativeeditor_status => inserted
+
+INSERT INTO ordermaster(`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue`) VALUES ('ord-1381394179721-system','quotation','draft','','0','','','log-007-system','usr-020-system','','per-1366697170598-system','บมจ. บีนา ประชาอุทิศ','','ชื่อสถานที่ตั้ง Hawaii สถานที่ Bangkapi เลขที่ 109/1 หมู่ที่ 7 ถนน ลาดกระบัง ตำบล/แขวง ลาดกระบัง อำเภอ/เขต ลาดกระบัง จังหวัด กรุงเทพ รหัสไปรษณีย์ 10520 ','บ้านเติ้ล หมู่บ้าน สหกรณ์ เลขที่ 4/1125 หมู่ที่ 4 ถนน เสรีไทย ซอย 55/1 ตำบล/แขวง คลองกุ่ม อำเภอ/เขต บึงกุ่ม จังหวัด กรุงเทพ รหัสไปรษณีย์ 10240 ','','0900009876','024445678','fon.chiangmai@gmail.com','','per-1366697237029-system','Mr. Aryuth Ekkul','0818035616','e.aryuth@gmail.com','Baht','255.00','0','0.00','','9133.93','8257.40','621.53','8878.93','แปดพันแปดร้อยเจ็ดสิบแปดจุดเก้าสาม บาท','eight thousand eight hundred seventy eight point nine three Baht','','-1','-1','-1','0','0')
+
+Edit operation finished
+0 => action:inserted; sid:1381394179857; tid:6;
+
+Done in 0.0046350955963135s
+

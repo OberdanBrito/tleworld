@@ -1,0 +1,27 @@
+.error {background-color: #ffd4db !important;color:maroon !important;}
+
+/* above Right*/
+.quoDet fieldset{width:450px !important}
+/* center */
+.fs_Center fieldset{height:350px;width:98.5%}
+.gridCen fieldset{height:250px;width:995px}
+.totalCen fieldset{height:210px;width:995px}
+/* under Left */
+.button fieldset{height:53px;}
+.termAndCom fieldset{height:250px;}
+.fs_Term fieldset{height:125px;width:510px !important}
+.commisS fieldset{height:60px;width:510px !important}
+/* under Right */
+.fs_Total fieldset{width:520px !important}
+.vatAndShip fieldset{height:320px;}
+.fs_Vat fieldset{height:65px;width:520px !important}
+.typeS fieldset{height:100px;}
+div#grid{
+    position: absolute;
+    width: 1000px !important;
+    display:block;
+    height: 240px;
+    background: white;
+    top: 334px;
+    left: 15px;
+}

@@ -1,0 +1,10 @@
+
+
+====================================
+Log started, 10/10/2013 10:10:11
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND code LIKE '%%')
+
+Done in 0.092159032821655s
+

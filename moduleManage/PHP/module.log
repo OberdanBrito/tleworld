@@ -1,0 +1,424 @@
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:19
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0022389888763428s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:53
+====================================
+
+DataProcessor object initialized
+1380013294591_gr_id => 1380013294591
+1380013294591_c0 => mod-247-system
+1380013294591_c1 => QO-View
+1380013294591_c2 => QO-View
+1380013294591_c3 => 
+1380013294591_c4 => quotation/qoBlankList.php?gState=view
+1380013294591_c5 => menu
+1380013294591_c6 => 2013-09-24 16:01:34
+1380013294591_c7 => 
+1380013294591_c8 => 
+1380013294591_!nativeeditor_status => inserted
+ids => 1380013294591
+
+Row data [1380013294591]
+rowId => 1380013294591
+id => mod-247-system
+thaiModule => QO-View
+englishModule => QO-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 2013-09-24 16:01:34
+editDate => 
+revision => 
+!nativeeditor_status => inserted
+
+INSERT INTO modules(`id`,`thaiModule`,`englishModule`,`description`,`code`,`type`,`createDate`,`editDate`,`revision`) VALUES ('mod-247-system','QO-View','QO-View','','quotation/qoBlankList.php?gState=view','menu','2013-09-24 16:01:34','','')
+
+Edit operation finished
+0 => action:error; sid:1380013294591; tid:1380013294591;
+
+Done in 0.0029408931732178s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:37
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0031359195709229s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:57
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.088673114776611s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:23
+====================================
+
+DataProcessor object initialized
+1380016561618_gr_id => 1380016561618
+1380016561618_c0 => mod-247-system
+1380016561618_c1 => Quotation-View
+1380016561618_c2 => Quotation-View
+1380016561618_c3 => 
+1380016561618_c4 => quotation/qoBlankList.php?gState=view
+1380016561618_c5 => menu
+1380016561618_c6 => 2013-09-24 16:56:01
+1380016561618_c7 => 
+1380016561618_c8 => 
+1380016561618_!nativeeditor_status => inserted
+ids => 1380016561618
+
+Row data [1380016561618]
+rowId => 1380016561618
+id => mod-247-system
+thaiModule => Quotation-View
+englishModule => Quotation-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 2013-09-24 16:56:01
+editDate => 
+revision => 
+!nativeeditor_status => inserted
+
+INSERT INTO modules(`id`,`thaiModule`,`englishModule`,`description`,`code`,`type`,`createDate`,`editDate`,`revision`) VALUES ('mod-247-system','Quotation-View','Quotation-View','','quotation/qoBlankList.php?gState=view','menu','2013-09-24 16:56:01','','')
+
+Edit operation finished
+0 => action:error; sid:1380016561618; tid:1380016561618;
+
+Done in 0.0030238628387451s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:54
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0029189586639404s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:21
+====================================
+
+DataProcessor object initialized
+1380016677879_gr_id => 1380016677879
+1380016677879_c0 => mod-247-system
+1380016677879_c1 => Qo-View
+1380016677879_c2 => Qo-View
+1380016677879_c3 => 
+1380016677879_c4 => quotation/qoBlankList.php?gState=view
+1380016677879_c5 => menu
+1380016677879_c6 => 2013-09-24 16:57:57
+1380016677879_c7 => 
+1380016677879_c8 => 
+1380016677879_!nativeeditor_status => inserted
+ids => 1380016677879
+
+Row data [1380016677879]
+rowId => 1380016677879
+id => mod-247-system
+thaiModule => Qo-View
+englishModule => Qo-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 2013-09-24 16:57:57
+editDate => 
+revision => 
+!nativeeditor_status => inserted
+
+INSERT INTO modules(`id`,`thaiModule`,`englishModule`,`description`,`code`,`type`,`createDate`,`editDate`,`revision`) VALUES ('mod-247-system','Qo-View','Qo-View','','quotation/qoBlankList.php?gState=view','menu','2013-09-24 16:57:57','','')
+
+Edit operation finished
+0 => action:error; sid:1380016677879; tid:1380016677879;
+
+Done in 0.0030770301818848s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:39
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0019128322601318s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:58
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0025808811187744s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 05:09:23
+====================================
+
+DataProcessor object initialized
+1380016802106_gr_id => 1380016802106
+1380016802106_c0 => mod-247-system
+1380016802106_c1 => Qo-View
+1380016802106_c2 => Qo-View
+1380016802106_c3 => 
+1380016802106_c4 => quotation/qoBlankList.php?gState=view
+1380016802106_c5 => menu
+1380016802106_c6 => 
+1380016802106_c7 => 2013-09-24
+1380016802106_c8 => 
+1380016802106_!nativeeditor_status => inserted
+ids => 1380016802106
+
+Row data [1380016802106]
+rowId => 1380016802106
+id => mod-247-system
+thaiModule => Qo-View
+englishModule => Qo-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 
+editDate => 2013-09-24
+revision => 
+!nativeeditor_status => inserted
+
+INSERT INTO modules(`id`,`thaiModule`,`englishModule`,`description`,`code`,`type`,`createDate`,`editDate`,`revision`) VALUES ('mod-247-system','Qo-View','Qo-View','','quotation/qoBlankList.php?gState=view','menu','','2013-09-24','')
+
+Edit operation finished
+0 => action:error; sid:1380016802106; tid:1380016802106;
+
+Done in 0.0027258396148682s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 05:09:23
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0031909942626953s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 05:09:44
+====================================
+
+DataProcessor object initialized
+1380016887350_gr_id => 1380016887350
+1380016887350_c0 => mod-247-system
+1380016887350_c1 => Qo-View
+1380016887350_c2 => Qo-View
+1380016887350_c3 => 
+1380016887350_c4 => quotation/qoBlankList.php?gState=view
+1380016887350_c5 => menu
+1380016887350_c6 => 2013-09-24 17:01:27
+1380016887350_c7 => 2013-09-24
+1380016887350_c8 => 
+1380016887350_!nativeeditor_status => inserted
+ids => 1380016887350
+
+Row data [1380016887350]
+rowId => 1380016887350
+id => mod-247-system
+thaiModule => Qo-View
+englishModule => Qo-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 2013-09-24 17:01:27
+editDate => 2013-09-24
+revision => 
+!nativeeditor_status => inserted
+
+INSERT INTO modules(`id`,`thaiModule`,`englishModule`,`description`,`code`,`type`,`createDate`,`editDate`,`revision`) VALUES ('mod-247-system','Qo-View','Qo-View','','quotation/qoBlankList.php?gState=view','menu','2013-09-24 17:01:27','2013-09-24','')
+
+Edit operation finished
+0 => action:inserted; sid:1380016887350; tid:252;
+
+Done in 0.0019738674163818s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:49
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0022079944610596s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:16
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0019650459289551s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:24
+====================================
+
+DataProcessor object initialized
+252_gr_id => 252
+252_c0 => mod-247-system
+252_c1 => Qo-View
+252_c2 => Qo-View
+252_c3 => 
+252_c4 => quotation/qoBlankList.php?gState=view
+252_c5 => menu
+252_c6 => 2013-09-24 17:01:27
+252_c7 => 2013-09-24
+252_c8 => 
+252_!nativeeditor_status => deleted
+ids => 252
+
+Row data [252]
+rowId => 252
+id => mod-247-system
+thaiModule => Qo-View
+englishModule => Qo-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 2013-09-24 17:01:27
+editDate => 2013-09-24
+revision => 
+!nativeeditor_status => deleted
+
+DELETE FROM modules WHERE `rowId`='252'
+
+Edit operation finished
+0 => action:deleted; sid:252; tid:252;
+
+Done in 0.0023629665374756s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:49
+====================================
+
+DataProcessor object initialized
+1380091528424_gr_id => 1380091528424
+1380091528424_c0 => mod-247-system
+1380091528424_c1 => Qo-View
+1380091528424_c2 => Qo-View
+1380091528424_c3 => 
+1380091528424_c4 => quotation/qoBlankList.php?gState=view
+1380091528424_c5 => menu
+1380091528424_c6 => 2013-09-25 13:45:28
+1380091528424_c7 => 
+1380091528424_c8 => 
+1380091528424_!nativeeditor_status => inserted
+ids => 1380091528424
+
+Row data [1380091528424]
+rowId => 1380091528424
+id => mod-247-system
+thaiModule => Qo-View
+englishModule => Qo-View
+description => 
+code => quotation/qoBlankList.php?gState=view
+type => menu
+createDate => 2013-09-25 13:45:28
+editDate => 
+revision => 
+!nativeeditor_status => inserted
+
+INSERT INTO modules(`id`,`thaiModule`,`englishModule`,`description`,`code`,`type`,`createDate`,`editDate`,`revision`) VALUES ('mod-247-system','Qo-View','Qo-View','','quotation/qoBlankList.php?gState=view','menu','2013-09-25 13:45:28','','')
+
+Edit operation finished
+0 => action:inserted; sid:1380091528424; tid:253;
+
+Done in 0.002439022064209s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:24
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.002310037612915s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:41
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.001878023147583s
+
+
+
+====================================
+Log started, 10/10/2013 11:10:29
+====================================
+
+SELECT  * FROM modules
+
+Done in 0.0022499561309814s
+

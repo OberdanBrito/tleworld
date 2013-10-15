@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id='0' >
+    <item text='Insert'  id='insert' img='onebit_31.png' imgdis='onebit_31.png'>
+        <item text='warehouse'  id='insertWarehouse' img='onebit_31.png' imgdis='onebit_31.png'/>
+        <item text='site'  id='insertSite' img='onebit_31.png' imgdis='onebit_31.png'/>
+        <item text='location'  id='insertLocation' img='onebit_31.png' imgdis='onebit_31.png'/>
+    </item>
+    <item text='Edit Address'  id='editAdd' img='onebit_39.png' imgdis='onebit_39.png'/>
+    <item text='Delete'  id='delete' img='onebit_33.png' imgdis='onebit_33.png' />
+    <item id='file_sep_1' type='separator'/>
+    <item text='Save' id='save' img='onebit_12.png' imgdis='onebit_11.png' />
+</menu>

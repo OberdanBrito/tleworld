@@ -1,0 +1,4474 @@
+
+
+====================================
+Log started, 24/07/2013 09:07:31
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.012089967727661s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:31
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.013896942138672s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:45
+====================================
+
+DataProcessor object initialized
+1374657455419_gr_id => 1374657455419
+1374657455419_ => 1
+1374657455419_code => AL-0507/S
+1374657455419_rowId => 1374657455418
+1374657455419_id => prc-1374657455418-system
+1374657455419_priceStrId => pst-000018-system
+1374657455419_productStrId => stru-1362415744-system
+1374657455419_cost => 0.0000
+1374657455419_price0 => 0.0000
+1374657455419_inPrice => 533.0000
+1374657455419_exPrice => 0.0000
+1374657455419_currency => Baht
+1374657455419_vatCode => vat1
+1374657455419_vatValue => 7.0000
+1374657455419_itemId => item-1362415744-system
+1374657455419_englishName => SWATCH SEAT
+1374657455419_thaiName => แผ่นที่นั่ง
+1374657455419_style => 
+1374657455419_barCode => 
+1374657455419_class => Goods
+1374657455419_type => Accessory
+1374657455419_gGroup => Component
+1374657455419_commission => 0.00
+1374657455419_flag => 
+1374657455419_remark => 
+1374657455419_loginUserId => usr-020-system
+1374657455419_loginCompanyId => log-007-system
+1374657455419_editorId => system
+1374657455419_editDate => 24
+1374657455419_createDate => 0000-00-00 00:00:00
+1374657455419_startDate => 0000-00-00
+1374657455419_validUntil => 0000-00-00
+1374657455419_active => 1
+1374657455419_parentId => 0
+1374657455419_!nativeeditor_status => inserted
+1374657455420_gr_id => 1374657455420
+1374657455420_ => 1
+1374657455420_code => AL-0513/TB84
+1374657455420_rowId => 1374657455419
+1374657455420_id => prc-1374657455419-system
+1374657455420_priceStrId => pst-000018-system
+1374657455420_productStrId => stru-1362416219-system
+1374657455420_cost => 2457.8899
+1374657455420_price0 => 2949.4679
+1374657455420_inPrice => 3157.0000
+1374657455420_exPrice => 2950.0000
+1374657455420_currency => Baht
+1374657455420_vatCode => vat1
+1374657455420_vatValue => 7.0000
+1374657455420_itemId => item-1362416219-system
+1374657455420_englishName => DINING TABLE BASE 48"X84"
+1374657455420_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1374657455420_style => 
+1374657455420_barCode => 
+1374657455420_class => Goods
+1374657455420_type => Accessory
+1374657455420_gGroup => Component
+1374657455420_commission => 0.00
+1374657455420_flag => 
+1374657455420_remark => 
+1374657455420_loginUserId => usr-020-system
+1374657455420_loginCompanyId => log-007-system
+1374657455420_editorId => system
+1374657455420_editDate => 24
+1374657455420_createDate => 0000-00-00 00:00:00
+1374657455420_startDate => 0000-00-00
+1374657455420_validUntil => 0000-00-00
+1374657455420_active => 1
+1374657455420_parentId => 0
+1374657455420_!nativeeditor_status => inserted
+ids => 1374657455419,1374657455420
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [1374657455419]
+rowId => 1374657455418
+ => 1
+code => AL-0507/S
+id => prc-1374657455418-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 0.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657455418
+ => 1
+code => AL-0507/S
+id => prc-1374657455418-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 0.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657455418
+ => 1
+code => AL-0507/S
+id => prc-1374657455418-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 0.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0507/S','1374657455418','prc-1374657455418-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','0.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374657455420]
+rowId => 1374657455419
+ => 1
+code => AL-0513/TB84
+id => prc-1374657455419-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657455419
+ => 1
+code => AL-0513/TB84
+id => prc-1374657455419-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657455419
+ => 1
+code => AL-0513/TB84
+id => prc-1374657455419-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0513/TB84','1374657455419','prc-1374657455419-system','pst-000018-system','stru-1362416219-system','2457.8899','2949.4679','3157.0000','2950.0000','Baht','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374657455419; tid:1374657455419;
+1 => action:error; sid:1374657455420; tid:1374657455420;
+
+Done in 0.051873922348022s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:10
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000017-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.009951114654541s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:19
+====================================
+
+DataProcessor object initialized
+2147483647_gr_id => 2147483647
+2147483647_ => 0
+2147483647_code => AL-0507/S
+2147483647_rowId => 2147483647
+2147483647_id => prc-1374579065844-system
+2147483647_priceStrId => pst-000017-system
+2147483647_productStrId => stru-1362415744-system
+2147483647_cost => 0.0000
+2147483647_price0 => 0.0000
+2147483647_inPrice => 123
+2147483647_exPrice => 0.0000
+2147483647_currency => Baht
+2147483647_vatCode => vat1
+2147483647_vatValue => 7.0000
+2147483647_itemId => item-1362415744-system
+2147483647_englishName => SWATCH SEAT
+2147483647_thaiName => แผ่นที่นั่ง
+2147483647_style => 
+2147483647_barCode => 
+2147483647_class => Goods
+2147483647_type => Accessory
+2147483647_gGroup => Component
+2147483647_commission => 0.00
+2147483647_flag => 
+2147483647_remark => 
+2147483647_loginUserId => usr-020-system
+2147483647_loginCompanyId => log-007-system
+2147483647_editorId => system
+2147483647_editDate => 0000-00-00
+2147483647_createDate => 0000-00-00 00:00:00
+2147483647_startDate => 0000-00-00
+2147483647_validUntil => 0000-00-00
+2147483647_active => 1
+2147483647_parentId => 0
+2147483647_!nativeeditor_status => updated
+ids => 2147483647
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [2147483647]
+rowId => 2147483647
+ => 0
+code => AL-0507/S
+id => prc-1374579065844-system
+priceStrId => pst-000017-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 123
+exPrice => 0.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+Incorrect field name used: checkbox
+
+data
+rowId => 2147483647
+ => 0
+code => AL-0507/S
+id => prc-1374579065844-system
+priceStrId => pst-000017-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 123
+exPrice => 0.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+Incorrect field name used: checkbox
+
+data
+rowId => 2147483647
+ => 0
+code => AL-0507/S
+id => prc-1374579065844-system
+priceStrId => pst-000017-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 123
+exPrice => 0.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+UPDATE price SET `checkbox`='',`code`='AL-0507/S',`rowId`='2147483647',`id`='prc-1374579065844-system',`priceStrId`='pst-000017-system',`productStrId`='stru-1362415744-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='123',`exPrice`='0.0000',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362415744-system',`englishName`='SWATCH SEAT',`thaiName`='แผ่นที่นั่ง',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='0.00',`flag`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='system',`editDate`='0000-00-00',`createDate`='0000-00-00 00:00:00',`startDate`='0000-00-00',`validUntil`='0000-00-00',`active`='1',`parentId`='0' WHERE `rowId`='2147483647' AND (( priceStrId='pst-000017-system'))
+
+Edit operation finished
+0 => action:updated; sid:2147483647; tid:2147483647;
+
+Done in 0.036624193191528s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:26
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000017-system' AND gGroup='Miscellaneous' AND class='Goods' AND type='Accessory')
+
+Done in 0.013916969299316s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:26
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Miscellaneous' AND class='Goods' AND type='Accessory')
+
+Done in 0.024441957473755s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:38
+====================================
+
+DataProcessor object initialized
+1374657810763_gr_id => 1374657810763
+1374657810763_ => 1
+1374657810763_code => AL-0003/CB
+1374657810763_rowId => 1374657810762
+1374657810763_id => prc-1374657810762-system
+1374657810763_priceStrId => pst-000017-system
+1374657810763_productStrId => stru-1362414809-system
+1374657810763_cost => 1371.4200
+1374657810763_price0 => 1645.7040
+1374657810763_inPrice => 1760.9033
+1374657810763_exPrice => 1645.7040
+1374657810763_currency => Baht
+1374657810763_vatCode => vat1
+1374657810763_vatValue => 7.0000
+1374657810763_itemId => item-1362414809-system
+1374657810763_englishName => PART OF CAMPGN CHAISE LOUNGE
+1374657810763_thaiName => แผ่นที่พิงเก้าอี้นอน
+1374657810763_style => 
+1374657810763_barCode => 
+1374657810763_class => Goods
+1374657810763_type => Accessory
+1374657810763_gGroup => Miscellaneous
+1374657810763_commission => 0.00
+1374657810763_flag => 
+1374657810763_remark => 
+1374657810763_loginUserId => usr-020-system
+1374657810763_loginCompanyId => log-007-system
+1374657810763_editorId => system
+1374657810763_editDate => 24
+1374657810763_createDate => 0000-00-00 00:00:00
+1374657810763_startDate => 0000-00-00
+1374657810763_validUntil => 0000-00-00
+1374657810763_active => 1
+1374657810763_parentId => 0
+1374657810763_!nativeeditor_status => inserted
+1374657810764_gr_id => 1374657810764
+1374657810764_ => 1
+1374657810764_code => AL-0210/3S/SW
+1374657810764_rowId => 1374657810763
+1374657810764_id => prc-1374657810763-system
+1374657810764_priceStrId => pst-000017-system
+1374657810764_productStrId => stru-1362415148-system
+1374657810764_cost => 9909.2900
+1374657810764_price0 => 11891.1480
+1374657810764_inPrice => 12723.5284
+1374657810764_exPrice => 11891.1480
+1374657810764_currency => Baht
+1374657810764_vatCode => vat1
+1374657810764_vatValue => 7.0000
+1374657810764_itemId => item-1362415148-system
+1374657810764_englishName => TULIP SWING 3-SEAT SOFA
+1374657810764_thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+1374657810764_style => 
+1374657810764_barCode => 
+1374657810764_class => Goods
+1374657810764_type => Accessory
+1374657810764_gGroup => Miscellaneous
+1374657810764_commission => 
+1374657810764_flag => 
+1374657810764_remark => 
+1374657810764_loginUserId => usr-020-system
+1374657810764_loginCompanyId => log-007-system
+1374657810764_editorId => system
+1374657810764_editDate => 24
+1374657810764_createDate => 
+1374657810764_startDate => 
+1374657810764_validUntil => 
+1374657810764_active => 1
+1374657810764_parentId => 0
+1374657810764_!nativeeditor_status => inserted
+ids => 1374657810763,1374657810764
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [1374657810763]
+rowId => 1374657810762
+ => 1
+code => AL-0003/CB
+id => prc-1374657810762-system
+priceStrId => pst-000017-system
+productStrId => stru-1362414809-system
+cost => 1371.4200
+price0 => 1645.7040
+inPrice => 1760.9033
+exPrice => 1645.7040
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362414809-system
+englishName => PART OF CAMPGN CHAISE LOUNGE
+thaiName => แผ่นที่พิงเก้าอี้นอน
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657810762
+ => 1
+code => AL-0003/CB
+id => prc-1374657810762-system
+priceStrId => pst-000017-system
+productStrId => stru-1362414809-system
+cost => 1371.4200
+price0 => 1645.7040
+inPrice => 1760.9033
+exPrice => 1645.7040
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362414809-system
+englishName => PART OF CAMPGN CHAISE LOUNGE
+thaiName => แผ่นที่พิงเก้าอี้นอน
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657810762
+ => 1
+code => AL-0003/CB
+id => prc-1374657810762-system
+priceStrId => pst-000017-system
+productStrId => stru-1362414809-system
+cost => 1371.4200
+price0 => 1645.7040
+inPrice => 1760.9033
+exPrice => 1645.7040
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362414809-system
+englishName => PART OF CAMPGN CHAISE LOUNGE
+thaiName => แผ่นที่พิงเก้าอี้นอน
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0003/CB','1374657810762','prc-1374657810762-system','pst-000017-system','stru-1362414809-system','1371.4200','1645.7040','1760.9033','1645.7040','Baht','vat1','7.0000','item-1362414809-system','PART OF CAMPGN CHAISE LOUNGE','แผ่นที่พิงเก้าอี้นอน','','','Goods','Accessory','Miscellaneous','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374657810764]
+rowId => 1374657810763
+ => 1
+code => AL-0210/3S/SW
+id => prc-1374657810763-system
+priceStrId => pst-000017-system
+productStrId => stru-1362415148-system
+cost => 9909.2900
+price0 => 11891.1480
+inPrice => 12723.5284
+exPrice => 11891.1480
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415148-system
+englishName => TULIP SWING 3-SEAT SOFA
+thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657810763
+ => 1
+code => AL-0210/3S/SW
+id => prc-1374657810763-system
+priceStrId => pst-000017-system
+productStrId => stru-1362415148-system
+cost => 9909.2900
+price0 => 11891.1480
+inPrice => 12723.5284
+exPrice => 11891.1480
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415148-system
+englishName => TULIP SWING 3-SEAT SOFA
+thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374657810763
+ => 1
+code => AL-0210/3S/SW
+id => prc-1374657810763-system
+priceStrId => pst-000017-system
+productStrId => stru-1362415148-system
+cost => 9909.2900
+price0 => 11891.1480
+inPrice => 12723.5284
+exPrice => 11891.1480
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415148-system
+englishName => TULIP SWING 3-SEAT SOFA
+thaiName => โซฟาชิงช้า 3 ที่นั่ง ทิวลิป
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Miscellaneous
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0210/3S/SW','1374657810763','prc-1374657810763-system','pst-000017-system','stru-1362415148-system','9909.2900','11891.1480','12723.5284','11891.1480','Baht','vat1','7.0000','item-1362415148-system','TULIP SWING 3-SEAT SOFA','โซฟาชิงช้า 3 ที่นั่ง ทิวลิป','','','Goods','Accessory','Miscellaneous','','','','usr-020-system','log-007-system','system','24','','','','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374657810763; tid:1374657810763;
+1 => action:error; sid:1374657810764; tid:1374657810764;
+
+Done in 0.056082963943481s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:24
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.010588884353638s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:35
+====================================
+
+DataProcessor object initialized
+689_gr_id => 689
+689_ => 0
+689_code => AL-0507/S
+689_rowId => 689
+689_id => prc-1362415744-system
+689_priceStrId => pst-0001-system
+689_productStrId => stru-1362415744-system
+689_cost => 0.0000
+689_price0 => 0.0000
+689_inPrice => 533.0000
+689_exPrice => 120
+689_currency => Baht
+689_vatCode => vat1
+689_vatValue => 7.0000
+689_itemId => item-1362415744-system
+689_englishName => SWATCH SEAT
+689_thaiName => แผ่นที่นั่ง
+689_style => 
+689_barCode => 
+689_class => Goods
+689_type => Accessory
+689_gGroup => Component
+689_commission => 0.00
+689_flag => 
+689_remark => 
+689_loginUserId => usr-020-system
+689_loginCompanyId => log-007-system
+689_editorId => usr-020-system
+689_editDate => 0000-00-00
+689_createDate => 0000-00-00 00:00:00
+689_startDate => 0000-00-00
+689_validUntil => 0000-00-00
+689_active => 1
+689_parentId => 0
+689_!nativeeditor_status => updated
+ids => 689
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [689]
+rowId => 689
+ => 0
+code => AL-0507/S
+id => prc-1362415744-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+Incorrect field name used: checkbox
+
+data
+rowId => 689
+ => 0
+code => AL-0507/S
+id => prc-1362415744-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+Incorrect field name used: checkbox
+
+data
+rowId => 689
+ => 0
+code => AL-0507/S
+id => prc-1362415744-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+UPDATE price SET `checkbox`='',`code`='AL-0507/S',`rowId`='689',`id`='prc-1362415744-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362415744-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='533.0000',`exPrice`='120',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362415744-system',`englishName`='SWATCH SEAT',`thaiName`='แผ่นที่นั่ง',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='0.00',`flag`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='0000-00-00',`createDate`='0000-00-00 00:00:00',`startDate`='0000-00-00',`validUntil`='0000-00-00',`active`='1',`parentId`='0' WHERE `rowId`='689' AND (( priceStrId='pst-0001-system'))
+
+Edit operation finished
+0 => action:updated; sid:689; tid:689;
+
+Done in 0.034317016601562s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:50
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000019-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.022000074386597s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:50
+====================================
+
+SELECT  checkbox,code,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.016165018081665s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:10
+====================================
+
+DataProcessor object initialized
+1374658736836_gr_id => 1374658736836
+1374658736836_ => 1
+1374658736836_code => AL-0507/S
+1374658736836_rowId => 1374658736835
+1374658736836_id => prc-1374658736835-system
+1374658736836_priceStrId => pst-000019-system
+1374658736836_productStrId => stru-1362415744-system
+1374658736836_cost => 0.0000
+1374658736836_price0 => 0.0000
+1374658736836_inPrice => 533.0000
+1374658736836_exPrice => 120.0000
+1374658736836_currency => Baht
+1374658736836_vatCode => vat1
+1374658736836_vatValue => 7.0000
+1374658736836_itemId => item-1362415744-system
+1374658736836_englishName => SWATCH SEAT
+1374658736836_thaiName => แผ่นที่นั่ง
+1374658736836_style => 
+1374658736836_barCode => 
+1374658736836_class => Goods
+1374658736836_type => Accessory
+1374658736836_gGroup => Component
+1374658736836_commission => 0.00
+1374658736836_flag => 
+1374658736836_remark => 
+1374658736836_loginUserId => usr-020-system
+1374658736836_loginCompanyId => log-007-system
+1374658736836_editorId => system
+1374658736836_editDate => 24
+1374658736836_createDate => 0000-00-00 00:00:00
+1374658736836_startDate => 0000-00-00
+1374658736836_validUntil => 0000-00-00
+1374658736836_active => 1
+1374658736836_parentId => 0
+1374658736836_!nativeeditor_status => inserted
+1374658736837_gr_id => 1374658736837
+1374658736837_ => 1
+1374658736837_code => AL-0513/TB84
+1374658736837_rowId => 1374658736836
+1374658736837_id => prc-1374658736836-system
+1374658736837_priceStrId => pst-000019-system
+1374658736837_productStrId => stru-1362416219-system
+1374658736837_cost => 2457.8899
+1374658736837_price0 => 2949.4679
+1374658736837_inPrice => 3157.0000
+1374658736837_exPrice => 2950.0000
+1374658736837_currency => Baht
+1374658736837_vatCode => vat1
+1374658736837_vatValue => 7.0000
+1374658736837_itemId => item-1362416219-system
+1374658736837_englishName => DINING TABLE BASE 48"X84"
+1374658736837_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1374658736837_style => 
+1374658736837_barCode => 
+1374658736837_class => Goods
+1374658736837_type => Accessory
+1374658736837_gGroup => Component
+1374658736837_commission => 0.00
+1374658736837_flag => 
+1374658736837_remark => 
+1374658736837_loginUserId => usr-020-system
+1374658736837_loginCompanyId => log-007-system
+1374658736837_editorId => system
+1374658736837_editDate => 24
+1374658736837_createDate => 0000-00-00 00:00:00
+1374658736837_startDate => 0000-00-00
+1374658736837_validUntil => 0000-00-00
+1374658736837_active => 1
+1374658736837_parentId => 0
+1374658736837_!nativeeditor_status => inserted
+1374658736838_gr_id => 1374658736838
+1374658736838_ => 1
+1374658736838_code => AL-0513/TB8442
+1374658736838_rowId => 1374658736837
+1374658736838_id => prc-1374658736837-system
+1374658736838_priceStrId => pst-000019-system
+1374658736838_productStrId => stru-1362416220-system
+1374658736838_cost => 4654.9302
+1374658736838_price0 => 5585.9162
+1374658736838_inPrice => 5976.9304
+1374658736838_exPrice => 5585.9162
+1374658736838_currency => Baht
+1374658736838_vatCode => vat1
+1374658736838_vatValue => 7.0000
+1374658736838_itemId => item-1362416220-system
+1374658736838_englishName => DINING TABLE BASE 84"X42"
+1374658736838_thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+1374658736838_style => 
+1374658736838_barCode => 
+1374658736838_class => Goods
+1374658736838_type => Accessory
+1374658736838_gGroup => Component
+1374658736838_commission => 
+1374658736838_flag => 
+1374658736838_remark => 
+1374658736838_loginUserId => usr-020-system
+1374658736838_loginCompanyId => log-007-system
+1374658736838_editorId => system
+1374658736838_editDate => 24
+1374658736838_createDate => 
+1374658736838_startDate => 
+1374658736838_validUntil => 
+1374658736838_active => 1
+1374658736838_parentId => 0
+1374658736838_!nativeeditor_status => inserted
+ids => 1374658736836,1374658736837,1374658736838
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [1374658736836]
+rowId => 1374658736835
+ => 1
+code => AL-0507/S
+id => prc-1374658736835-system
+priceStrId => pst-000019-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658736835
+ => 1
+code => AL-0507/S
+id => prc-1374658736835-system
+priceStrId => pst-000019-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658736835
+ => 1
+code => AL-0507/S
+id => prc-1374658736835-system
+priceStrId => pst-000019-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0507/S','1374658736835','prc-1374658736835-system','pst-000019-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374658736837]
+rowId => 1374658736836
+ => 1
+code => AL-0513/TB84
+id => prc-1374658736836-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658736836
+ => 1
+code => AL-0513/TB84
+id => prc-1374658736836-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658736836
+ => 1
+code => AL-0513/TB84
+id => prc-1374658736836-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0513/TB84','1374658736836','prc-1374658736836-system','pst-000019-system','stru-1362416219-system','2457.8899','2949.4679','3157.0000','2950.0000','Baht','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374658736838]
+rowId => 1374658736837
+ => 1
+code => AL-0513/TB8442
+id => prc-1374658736837-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price0 => 5585.9162
+inPrice => 5976.9304
+exPrice => 5585.9162
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658736837
+ => 1
+code => AL-0513/TB8442
+id => prc-1374658736837-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price0 => 5585.9162
+inPrice => 5976.9304
+exPrice => 5585.9162
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658736837
+ => 1
+code => AL-0513/TB8442
+id => prc-1374658736837-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price0 => 5585.9162
+inPrice => 5976.9304
+exPrice => 5585.9162
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`rowId`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0513/TB8442','1374658736837','prc-1374658736837-system','pst-000019-system','stru-1362416220-system','4654.9302','5585.9162','5976.9304','5585.9162','Baht','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','','','Goods','Accessory','Component','','','','usr-020-system','log-007-system','system','24','','','','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374658736836; tid:1374658736836;
+1 => action:error; sid:1374658736837; tid:1374658736837;
+2 => action:error; sid:1374658736838; tid:1374658736838;
+
+Done in 0.079766988754272s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:07
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.012612104415894s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:07
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.010962963104248s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:29
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.013499975204468s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:29
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.015403032302856s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:41
+====================================
+
+DataProcessor object initialized
+1374658952698_gr_id => 1374658952698
+1374658952698_ => 1
+1374658952698_code => AL-0507/S
+1374658952698_id => prc-1374658952697-system
+1374658952698_priceStrId => pst-000018-system
+1374658952698_productStrId => stru-1362415744-system
+1374658952698_cost => 0.0000
+1374658952698_price0 => 0.0000
+1374658952698_inPrice => 533.0000
+1374658952698_exPrice => 120.0000
+1374658952698_currency => Baht
+1374658952698_vatCode => vat1
+1374658952698_vatValue => 7.0000
+1374658952698_itemId => item-1362415744-system
+1374658952698_englishName => SWATCH SEAT
+1374658952698_thaiName => แผ่นที่นั่ง
+1374658952698_style => 
+1374658952698_barCode => 
+1374658952698_class => Goods
+1374658952698_type => Accessory
+1374658952698_gGroup => Component
+1374658952698_commission => 0.00
+1374658952698_flag => 
+1374658952698_remark => 
+1374658952698_loginUserId => usr-020-system
+1374658952698_loginCompanyId => log-007-system
+1374658952698_editorId => system
+1374658952698_editDate => 24
+1374658952698_createDate => 0000-00-00 00:00:00
+1374658952698_startDate => 0000-00-00
+1374658952698_validUntil => 0000-00-00
+1374658952698_active => 1
+1374658952698_parentId => 0
+1374658952698_!nativeeditor_status => inserted
+1374658952699_gr_id => 1374658952699
+1374658952699_ => 1
+1374658952699_code => AL-0513/TB84
+1374658952699_id => prc-1374658952698-system
+1374658952699_priceStrId => pst-000018-system
+1374658952699_productStrId => stru-1362416219-system
+1374658952699_cost => 2457.8899
+1374658952699_price0 => 2949.4679
+1374658952699_inPrice => 3157.0000
+1374658952699_exPrice => 2950.0000
+1374658952699_currency => Baht
+1374658952699_vatCode => vat1
+1374658952699_vatValue => 7.0000
+1374658952699_itemId => item-1362416219-system
+1374658952699_englishName => DINING TABLE BASE 48"X84"
+1374658952699_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1374658952699_style => 
+1374658952699_barCode => 
+1374658952699_class => Goods
+1374658952699_type => Accessory
+1374658952699_gGroup => Component
+1374658952699_commission => 0.00
+1374658952699_flag => 
+1374658952699_remark => 
+1374658952699_loginUserId => usr-020-system
+1374658952699_loginCompanyId => log-007-system
+1374658952699_editorId => system
+1374658952699_editDate => 24
+1374658952699_createDate => 0000-00-00 00:00:00
+1374658952699_startDate => 0000-00-00
+1374658952699_validUntil => 0000-00-00
+1374658952699_active => 1
+1374658952699_parentId => 0
+1374658952699_!nativeeditor_status => inserted
+ids => 1374658952698,1374658952699
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [1374658952698]
+rowId => 1374658952698
+ => 1
+code => AL-0507/S
+id => prc-1374658952697-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658952698
+ => 1
+code => AL-0507/S
+id => prc-1374658952697-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658952698
+ => 1
+code => AL-0507/S
+id => prc-1374658952697-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0507/S','prc-1374658952697-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374658952699]
+rowId => 1374658952699
+ => 1
+code => AL-0513/TB84
+id => prc-1374658952698-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658952699
+ => 1
+code => AL-0513/TB84
+id => prc-1374658952698-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374658952699
+ => 1
+code => AL-0513/TB84
+id => prc-1374658952698-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0513/TB84','prc-1374658952698-system','pst-000018-system','stru-1362416219-system','2457.8899','2949.4679','3157.0000','2950.0000','Baht','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374658952698; tid:1374658952698;
+1 => action:error; sid:1374658952699; tid:1374658952699;
+
+Done in 0.058675050735474s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:17
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.012403964996338s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:18
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.012516975402832s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:31
+====================================
+
+DataProcessor object initialized
+1374659124533_gr_id => 1374659124533
+1374659124533_ => 1
+1374659124533_code => AL-0507/S
+1374659124533_id => prc-1374659124532-system
+1374659124533_priceStrId => pst-000018-system
+1374659124533_productStrId => stru-1362415744-system
+1374659124533_loginUserId => usr-020-system
+1374659124533_loginCompanyId => log-007-system
+1374659124533_editorId => system
+1374659124533_editDate => 24
+1374659124533_createDate => 0000-00-00 00:00:00
+1374659124533_startDate => 0000-00-00
+1374659124533_validUntil => 0000-00-00
+1374659124533_active => 1
+1374659124533_parentId => 0
+1374659124533_!nativeeditor_status => inserted
+1374659124534_gr_id => 1374659124534
+1374659124534_ => 1
+1374659124534_code => AL-0513/TB84
+1374659124534_id => prc-1374659124533-system
+1374659124534_priceStrId => pst-000018-system
+1374659124534_productStrId => stru-1362416219-system
+1374659124534_loginUserId => usr-020-system
+1374659124534_loginCompanyId => log-007-system
+1374659124534_editorId => system
+1374659124534_editDate => 24
+1374659124534_createDate => 0000-00-00 00:00:00
+1374659124534_startDate => 0000-00-00
+1374659124534_validUntil => 0000-00-00
+1374659124534_active => 1
+1374659124534_parentId => 0
+1374659124534_!nativeeditor_status => inserted
+ids => 1374659124533,1374659124534
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Undefined offset: 1 at C:\wamp\www\tleworld\DHX\dhtmlxConnector\codebase\grid_connector.php line 267
+
+Row data [1374659124533]
+rowId => 1374659124533
+ => 1
+code => AL-0507/S
+id => prc-1374659124532-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374659124533
+ => 1
+code => AL-0507/S
+id => prc-1374659124532-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374659124533
+ => 1
+code => AL-0507/S
+id => prc-1374659124532-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`id`,`priceStrId`,`productStrId`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0507/S','prc-1374659124532-system','pst-000018-system','stru-1362415744-system','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374659124534]
+rowId => 1374659124534
+ => 1
+code => AL-0513/TB84
+id => prc-1374659124533-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374659124534
+ => 1
+code => AL-0513/TB84
+id => prc-1374659124533-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+Incorrect field name used: checkbox
+
+data
+rowId => 1374659124534
+ => 1
+code => AL-0513/TB84
+id => prc-1374659124533-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`checkbox`,`code`,`id`,`priceStrId`,`productStrId`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('','AL-0513/TB84','prc-1374659124533-system','pst-000018-system','stru-1362416219-system','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374659124533; tid:1374659124533;
+1 => action:error; sid:1374659124534; tid:1374659124534;
+
+Done in 0.051163911819458s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:58
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000019-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.015990972518921s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:58
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.019659042358398s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:12
+====================================
+
+DataProcessor object initialized
+1374659403173_gr_id => 1374659403173
+1374659403173_code => AL-0507/S
+1374659403173_id => prc-1374659403172-system
+1374659403173_priceStrId => pst-000019-system
+1374659403173_productStrId => stru-1362415744-system
+1374659403173_cost => 0.0000
+1374659403173_price0 => 0.0000
+1374659403173_inPrice => 533.0000
+1374659403173_exPrice => 120.0000
+1374659403173_currency => Baht
+1374659403173_vatCode => vat1
+1374659403173_vatValue => 7.0000
+1374659403173_itemId => item-1362415744-system
+1374659403173_englishName => SWATCH SEAT
+1374659403173_thaiName => แผ่นที่นั่ง
+1374659403173_style => 
+1374659403173_barCode => 
+1374659403173_class => Goods
+1374659403173_type => Accessory
+1374659403173_gGroup => Component
+1374659403173_commission => 0.00
+1374659403173_flag => 
+1374659403173_remark => 
+1374659403173_loginUserId => usr-020-system
+1374659403173_loginCompanyId => log-007-system
+1374659403173_editorId => system
+1374659403173_editDate => 24
+1374659403173_createDate => 0000-00-00 00:00:00
+1374659403173_startDate => 0000-00-00
+1374659403173_validUntil => 0000-00-00
+1374659403173_active => 1
+1374659403173_parentId => 0
+1374659403173_!nativeeditor_status => inserted
+1374659403174_gr_id => 1374659403174
+1374659403174_code => AL-0513/TB84
+1374659403174_id => prc-1374659403173-system
+1374659403174_priceStrId => pst-000019-system
+1374659403174_productStrId => stru-1362416219-system
+1374659403174_cost => 2457.8899
+1374659403174_price0 => 2949.4679
+1374659403174_inPrice => 3157.0000
+1374659403174_exPrice => 2950.0000
+1374659403174_currency => Baht
+1374659403174_vatCode => vat1
+1374659403174_vatValue => 7.0000
+1374659403174_itemId => item-1362416219-system
+1374659403174_englishName => DINING TABLE BASE 48"X84"
+1374659403174_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1374659403174_style => 
+1374659403174_barCode => 
+1374659403174_class => Goods
+1374659403174_type => Accessory
+1374659403174_gGroup => Component
+1374659403174_commission => 0.00
+1374659403174_flag => 
+1374659403174_remark => 
+1374659403174_loginUserId => usr-020-system
+1374659403174_loginCompanyId => log-007-system
+1374659403174_editorId => system
+1374659403174_editDate => 24
+1374659403174_createDate => 0000-00-00 00:00:00
+1374659403174_startDate => 0000-00-00
+1374659403174_validUntil => 0000-00-00
+1374659403174_active => 1
+1374659403174_parentId => 0
+1374659403174_!nativeeditor_status => inserted
+1374659403175_gr_id => 1374659403175
+1374659403175_code => AL-0513/TB8442
+1374659403175_id => prc-1374659403174-system
+1374659403175_priceStrId => pst-000019-system
+1374659403175_productStrId => stru-1362416220-system
+1374659403175_cost => 4654.9302
+1374659403175_price0 => 5585.9162
+1374659403175_inPrice => 5976.9304
+1374659403175_exPrice => 5585.9162
+1374659403175_currency => Baht
+1374659403175_vatCode => vat1
+1374659403175_vatValue => 7.0000
+1374659403175_itemId => item-1362416220-system
+1374659403175_englishName => DINING TABLE BASE 84"X42"
+1374659403175_thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+1374659403175_style => 
+1374659403175_barCode => 
+1374659403175_class => Goods
+1374659403175_type => Accessory
+1374659403175_gGroup => Component
+1374659403175_commission => 
+1374659403175_flag => 
+1374659403175_remark => 
+1374659403175_loginUserId => usr-020-system
+1374659403175_loginCompanyId => log-007-system
+1374659403175_editorId => system
+1374659403175_editDate => 24
+1374659403175_createDate => 
+1374659403175_startDate => 
+1374659403175_validUntil => 
+1374659403175_active => 1
+1374659403175_parentId => 0
+1374659403175_!nativeeditor_status => inserted
+ids => 1374659403173,1374659403174,1374659403175
+
+Row data [1374659403173]
+rowId => 1374659403173
+code => AL-0507/S
+id => prc-1374659403172-system
+priceStrId => pst-000019-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374659403172-system','pst-000019-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374659403174]
+rowId => 1374659403174
+code => AL-0513/TB84
+id => prc-1374659403173-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0513/TB84','prc-1374659403173-system','pst-000019-system','stru-1362416219-system','2457.8899','2949.4679','3157.0000','2950.0000','Baht','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374659403175]
+rowId => 1374659403175
+code => AL-0513/TB8442
+id => prc-1374659403174-system
+priceStrId => pst-000019-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price0 => 5585.9162
+inPrice => 5976.9304
+exPrice => 5585.9162
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0513/TB8442','prc-1374659403174-system','pst-000019-system','stru-1362416220-system','4654.9302','5585.9162','5976.9304','5585.9162','Baht','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','','','Goods','Accessory','Component','','','','usr-020-system','log-007-system','system','24','','','','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374659403173; tid:1374659403173;
+1 => action:error; sid:1374659403174; tid:1374659403174;
+2 => action:error; sid:1374659403175; tid:1374659403175;
+
+Done in 0.032194137573242s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:24
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.012688159942627s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:24
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.015584945678711s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:40
+====================================
+
+DataProcessor object initialized
+1374659489729_gr_id => 1374659489729
+1374659489729_code => AL-0507/S
+1374659489729_id => prc-1374659489728-system
+1374659489729_priceStrId => pst-000018-system
+1374659489729_productStrId => stru-1362415744-system
+1374659489729_cost => 0.0000
+1374659489729_price0 => 0.0000
+1374659489729_inPrice => 533.0000
+1374659489729_exPrice => 120.0000
+1374659489729_currency => Baht
+1374659489729_vatCode => vat1
+1374659489729_vatValue => 7.0000
+1374659489729_itemId => item-1362415744-system
+1374659489729_englishName => SWATCH SEAT
+1374659489729_thaiName => แผ่นที่นั่ง
+1374659489729_style => 
+1374659489729_barCode => 
+1374659489729_class => Goods
+1374659489729_type => Accessory
+1374659489729_gGroup => Component
+1374659489729_commission => 0.00
+1374659489729_flag => 
+1374659489729_remark => 
+1374659489729_loginUserId => usr-020-system
+1374659489729_loginCompanyId => log-007-system
+1374659489729_editorId => system
+1374659489729_editDate => 24
+1374659489729_createDate => 0000-00-00 00:00:00
+1374659489729_startDate => 0000-00-00
+1374659489729_validUntil => 0000-00-00
+1374659489729_active => 1
+1374659489729_parentId => 0
+1374659489729_!nativeeditor_status => inserted
+1374659489730_gr_id => 1374659489730
+1374659489730_code => AL-0513/TB84
+1374659489730_id => prc-1374659489729-system
+1374659489730_priceStrId => pst-000018-system
+1374659489730_productStrId => stru-1362416219-system
+1374659489730_cost => 2457.8899
+1374659489730_price0 => 2949.4679
+1374659489730_inPrice => 3157.0000
+1374659489730_exPrice => 2950.0000
+1374659489730_currency => Baht
+1374659489730_vatCode => vat1
+1374659489730_vatValue => 7.0000
+1374659489730_itemId => item-1362416219-system
+1374659489730_englishName => DINING TABLE BASE 48"X84"
+1374659489730_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1374659489730_style => 
+1374659489730_barCode => 
+1374659489730_class => Goods
+1374659489730_type => Accessory
+1374659489730_gGroup => Component
+1374659489730_commission => 0.00
+1374659489730_flag => 
+1374659489730_remark => 
+1374659489730_loginUserId => usr-020-system
+1374659489730_loginCompanyId => log-007-system
+1374659489730_editorId => system
+1374659489730_editDate => 24
+1374659489730_createDate => 0000-00-00 00:00:00
+1374659489730_startDate => 0000-00-00
+1374659489730_validUntil => 0000-00-00
+1374659489730_active => 1
+1374659489730_parentId => 0
+1374659489730_!nativeeditor_status => inserted
+1374659489731_gr_id => 1374659489731
+1374659489731_code => AL-0513/TB8442
+1374659489731_id => prc-1374659489730-system
+1374659489731_priceStrId => pst-000018-system
+1374659489731_productStrId => stru-1362416220-system
+1374659489731_cost => 4654.9302
+1374659489731_price0 => 5585.9162
+1374659489731_inPrice => 5976.9304
+1374659489731_exPrice => 5585.9162
+1374659489731_currency => Baht
+1374659489731_vatCode => vat1
+1374659489731_vatValue => 7.0000
+1374659489731_itemId => item-1362416220-system
+1374659489731_englishName => DINING TABLE BASE 84"X42"
+1374659489731_thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+1374659489731_style => 
+1374659489731_barCode => 
+1374659489731_class => Goods
+1374659489731_type => Accessory
+1374659489731_gGroup => Component
+1374659489731_commission => 
+1374659489731_flag => 
+1374659489731_remark => 
+1374659489731_loginUserId => usr-020-system
+1374659489731_loginCompanyId => log-007-system
+1374659489731_editorId => system
+1374659489731_editDate => 24
+1374659489731_createDate => 
+1374659489731_startDate => 
+1374659489731_validUntil => 
+1374659489731_active => 1
+1374659489731_parentId => 0
+1374659489731_!nativeeditor_status => inserted
+ids => 1374659489729,1374659489730,1374659489731
+
+Row data [1374659489729]
+rowId => 1374659489729
+code => AL-0507/S
+id => prc-1374659489728-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374659489728-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374659489730]
+rowId => 1374659489730
+code => AL-0513/TB84
+id => prc-1374659489729-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0513/TB84','prc-1374659489729-system','pst-000018-system','stru-1362416219-system','2457.8899','2949.4679','3157.0000','2950.0000','Baht','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Row data [1374659489731]
+rowId => 1374659489731
+code => AL-0513/TB8442
+id => prc-1374659489730-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price0 => 5585.9162
+inPrice => 5976.9304
+exPrice => 5585.9162
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0513/TB8442','prc-1374659489730-system','pst-000018-system','stru-1362416220-system','4654.9302','5585.9162','5976.9304','5585.9162','Baht','vat1','7.0000','item-1362416220-system','DINING TABLE BASE 84\"X42\"','ฐานโต๊ะอาหารขนาด 42\"X84\"','','','Goods','Accessory','Component','','','','usr-020-system','log-007-system','system','24','','','','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374659489729; tid:1374659489729;
+1 => action:error; sid:1374659489730; tid:1374659489730;
+2 => action:error; sid:1374659489731; tid:1374659489731;
+
+Done in 0.036525964736938s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:16
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000019-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.010340929031372s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:16
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.018190145492554s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:23
+====================================
+
+DataProcessor object initialized
+1374659599686_gr_id => 1374659599686
+1374659599686_code => AL-0507/S
+1374659599686_id => prc-1374659599685-system
+1374659599686_priceStrId => pst-000019-system
+1374659599686_productStrId => stru-1362415744-system
+1374659599686_cost => 0.0000
+1374659599686_price0 => 0.0000
+1374659599686_inPrice => 533.0000
+1374659599686_exPrice => 120.0000
+1374659599686_currency => Baht
+1374659599686_vatCode => vat1
+1374659599686_vatValue => 7.0000
+1374659599686_itemId => item-1362415744-system
+1374659599686_englishName => SWATCH SEAT
+1374659599686_thaiName => แผ่นที่นั่ง
+1374659599686_style => 
+1374659599686_barCode => 
+1374659599686_class => Goods
+1374659599686_type => Accessory
+1374659599686_gGroup => Component
+1374659599686_commission => 0.00
+1374659599686_flag => 
+1374659599686_remark => 
+1374659599686_loginUserId => usr-020-system
+1374659599686_loginCompanyId => log-007-system
+1374659599686_editorId => system
+1374659599686_editDate => 24
+1374659599686_createDate => 0000-00-00 00:00:00
+1374659599686_startDate => 0000-00-00
+1374659599686_validUntil => 0000-00-00
+1374659599686_active => 1
+1374659599686_parentId => 0
+1374659599686_!nativeeditor_status => inserted
+ids => 1374659599686
+
+Row data [1374659599686]
+rowId => 1374659599686
+code => AL-0507/S
+id => prc-1374659599685-system
+priceStrId => pst-000019-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374659599685-system','pst-000019-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374659599686; tid:1374659599686;
+
+Done in 0.017505168914795s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:23
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.010812997817993s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:23
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.017231941223145s
+
+
+
+====================================
+Log started, 24/07/2013 09:07:30
+====================================
+
+DataProcessor object initialized
+1374659727237_gr_id => 1374659727237
+1374659727237_code => AL-0507/S
+1374659727237_id => prc-1374659727236-system
+1374659727237_priceStrId => pst-000018-system
+1374659727237_productStrId => stru-1362415744-system
+1374659727237_cost => 0.0000
+1374659727237_price0 => 0.0000
+1374659727237_inPrice => 533.0000
+1374659727237_exPrice => 120.0000
+1374659727237_currency => Baht
+1374659727237_vatCode => vat1
+1374659727237_vatValue => 7.0000
+1374659727237_itemId => item-1362415744-system
+1374659727237_englishName => SWATCH SEAT
+1374659727237_thaiName => แผ่นที่นั่ง
+1374659727237_style => 
+1374659727237_barCode => 
+1374659727237_class => Goods
+1374659727237_type => Accessory
+1374659727237_gGroup => Component
+1374659727237_commission => 0.00
+1374659727237_flag => 
+1374659727237_remark => 
+1374659727237_loginUserId => usr-020-system
+1374659727237_loginCompanyId => log-007-system
+1374659727237_editorId => system
+1374659727237_editDate => 24
+1374659727237_createDate => 0000-00-00 00:00:00
+1374659727237_startDate => 0000-00-00
+1374659727237_validUntil => 0000-00-00
+1374659727237_active => 1
+1374659727237_parentId => 0
+1374659727237_!nativeeditor_status => inserted
+ids => 1374659727237
+
+Row data [1374659727237]
+rowId => 1374659727237
+code => AL-0507/S
+id => prc-1374659727236-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374659727236-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374659727237; tid:1374659727237;
+
+Done in 0.025050163269043s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:01
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.013130903244019s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:01
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.032876014709473s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:08
+====================================
+
+DataProcessor object initialized
+1374660004643_gr_id => 1374660004643
+1374660004643_code => AL-0507/S
+1374660004643_id => prc-1374660004643-system
+1374660004643_priceStrId => pst-000018-system
+1374660004643_productStrId => stru-1362415744-system
+1374660004643_cost => 0.0000
+1374660004643_price0 => 0.0000
+1374660004643_inPrice => 533.0000
+1374660004643_exPrice => 120.0000
+1374660004643_currency => Baht
+1374660004643_vatCode => vat1
+1374660004643_vatValue => 7.0000
+1374660004643_itemId => item-1362415744-system
+1374660004643_englishName => SWATCH SEAT
+1374660004643_thaiName => แผ่นที่นั่ง
+1374660004643_style => 
+1374660004643_barCode => 
+1374660004643_class => Goods
+1374660004643_type => Accessory
+1374660004643_gGroup => Component
+1374660004643_commission => 0.00
+1374660004643_flag => 
+1374660004643_remark => 
+1374660004643_loginUserId => usr-020-system
+1374660004643_loginCompanyId => log-007-system
+1374660004643_editorId => system
+1374660004643_editDate => 24
+1374660004643_createDate => 0000-00-00 00:00:00
+1374660004643_startDate => 0000-00-00
+1374660004643_validUntil => 0000-00-00
+1374660004643_active => 1
+1374660004643_parentId => 0
+1374660004643_!nativeeditor_status => inserted
+ids => 1374660004643
+
+Row data [1374660004643]
+rowId => 1374660004643
+code => AL-0507/S
+id => prc-1374660004643-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374660004643-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374660004643; tid:1374660004643;
+
+Done in 0.019453048706055s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:08
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.013994216918945s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:08
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.016274929046631s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:18
+====================================
+
+DataProcessor object initialized
+1374660071161_gr_id => 1374660071161
+1374660071161_code => AL-0507/S
+1374660071161_id => prc-1374660071161-system
+1374660071161_priceStrId => pst-000018-system
+1374660071161_productStrId => stru-1362415744-system
+1374660071161_cost => 0.0000
+1374660071161_price0 => 0.0000
+1374660071161_inPrice => 533.0000
+1374660071161_exPrice => 120.0000
+1374660071161_currency => Baht
+1374660071161_vatCode => vat1
+1374660071161_vatValue => 7.0000
+1374660071161_itemId => item-1362415744-system
+1374660071161_englishName => SWATCH SEAT
+1374660071161_thaiName => แผ่นที่นั่ง
+1374660071161_style => 
+1374660071161_barCode => 
+1374660071161_class => Goods
+1374660071161_type => Accessory
+1374660071161_gGroup => Component
+1374660071161_commission => 0.00
+1374660071161_flag => 
+1374660071161_remark => 
+1374660071161_loginUserId => usr-020-system
+1374660071161_loginCompanyId => log-007-system
+1374660071161_editorId => system
+1374660071161_editDate => 24
+1374660071161_createDate => 0000-00-00 00:00:00
+1374660071161_startDate => 0000-00-00
+1374660071161_validUntil => 0000-00-00
+1374660071161_active => 1
+1374660071161_parentId => 0
+1374660071161_!nativeeditor_status => inserted
+ids => 1374660071161
+
+Row data [1374660071161]
+rowId => 1374660071161
+code => AL-0507/S
+id => prc-1374660071161-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374660071161-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374660071161; tid:1374660071161;
+
+Done in 0.020265102386475s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:56
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.013472080230713s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:56
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.018877983093262s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:03
+====================================
+
+DataProcessor object initialized
+1374660299215_gr_id => 1374660299215
+1374660299215_code => AL-0507/S
+1374660299215_id => prc-1374660299215-system
+1374660299215_priceStrId => pst-000018-system
+1374660299215_productStrId => stru-1362415744-system
+1374660299215_cost => 0.0000
+1374660299215_price0 => 0.0000
+1374660299215_inPrice => 533.0000
+1374660299215_exPrice => 120.0000
+1374660299215_currency => Baht
+1374660299215_vatCode => vat1
+1374660299215_vatValue => 7.0000
+1374660299215_itemId => item-1362415744-system
+1374660299215_englishName => SWATCH SEAT
+1374660299215_thaiName => แผ่นที่นั่ง
+1374660299215_style => 
+1374660299215_barCode => 
+1374660299215_class => Goods
+1374660299215_type => Accessory
+1374660299215_gGroup => Component
+1374660299215_commission => 0.00
+1374660299215_flag => 
+1374660299215_remark => 
+1374660299215_loginUserId => usr-020-system
+1374660299215_loginCompanyId => log-007-system
+1374660299215_editorId => system
+1374660299215_editDate => 24
+1374660299215_createDate => 0000-00-00 00:00:00
+1374660299215_startDate => 0000-00-00
+1374660299215_validUntil => 0000-00-00
+1374660299215_active => 1
+1374660299215_parentId => 0
+1374660299215_!nativeeditor_status => inserted
+ids => 1374660299215
+
+Row data [1374660299215]
+rowId => 1374660299215
+code => AL-0507/S
+id => prc-1374660299215-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 533.0000
+exPrice => 120.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0507/S','prc-1374660299215-system','pst-000018-system','stru-1362415744-system','0.0000','0.0000','533.0000','120.0000','Baht','vat1','7.0000','item-1362415744-system','SWATCH SEAT','แผ่นที่นั่ง','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:inserted; sid:1374660299215; tid:2147483647;
+
+Done in 0.035167932510376s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:14
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.010453939437866s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:14
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.016802072525024s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:22
+====================================
+
+DataProcessor object initialized
+1374660377447_gr_id => 1374660377447
+1374660377447_code => AL-0513/TB84
+1374660377447_id => prc-1374660377447-system
+1374660377447_priceStrId => pst-000018-system
+1374660377447_productStrId => stru-1362416219-system
+1374660377447_cost => 2457.8899
+1374660377447_price0 => 2949.4679
+1374660377447_inPrice => 3157.0000
+1374660377447_exPrice => 2950.0000
+1374660377447_currency => Baht
+1374660377447_vatCode => vat1
+1374660377447_vatValue => 7.0000
+1374660377447_itemId => item-1362416219-system
+1374660377447_englishName => DINING TABLE BASE 48"X84"
+1374660377447_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1374660377447_style => 
+1374660377447_barCode => 
+1374660377447_class => Goods
+1374660377447_type => Accessory
+1374660377447_gGroup => Component
+1374660377447_commission => 0.00
+1374660377447_flag => 
+1374660377447_remark => 
+1374660377447_loginUserId => usr-020-system
+1374660377447_loginCompanyId => log-007-system
+1374660377447_editorId => system
+1374660377447_editDate => 24
+1374660377447_createDate => 0000-00-00 00:00:00
+1374660377447_startDate => 0000-00-00
+1374660377447_validUntil => 0000-00-00
+1374660377447_active => 1
+1374660377447_parentId => 0
+1374660377447_!nativeeditor_status => inserted
+ids => 1374660377447
+
+Row data [1374660377447]
+rowId => 1374660377447
+code => AL-0513/TB84
+id => prc-1374660377447-system
+priceStrId => pst-000018-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0513/TB84','prc-1374660377447-system','pst-000018-system','stru-1362416219-system','2457.8899','2949.4679','3157.0000','2950.0000','Baht','vat1','7.0000','item-1362416219-system','DINING TABLE BASE 48\"X84\"','ฐานโต๊ะอาหารขนาด 48\"X84\"','','','Goods','Accessory','Component','0.00','','','usr-020-system','log-007-system','system','24','0000-00-00 00:00:00','0000-00-00','0000-00-00','1','0')
+
+Edit operation finished
+0 => action:error; sid:1374660377447; tid:1374660377447;
+
+Done in 0.020202875137329s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:43
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.0098850727081299s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:46
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Miscellaneous' AND class='Goods' AND type='Accessory')
+
+Done in 0.015057802200317s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:48
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Bed' AND class='Goods' AND type='Furniture')
+
+Done in 0.011373043060303s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:51
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.009627103805542s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:58
+====================================
+
+DataProcessor object initialized
+1374661011x0_gr_id => 1374661011x0
+1374661011x0_code => AL-0509/CB
+1374661011x0_id => prc-1362415831-system
+1374661011x0_priceStrId => pst-0001-system
+1374661011x0_productStrId => stru-1362415831-system
+1374661011x0_cost => 10208.7100
+1374661011x0_price0 => 10208.7100
+1374661011x0_inPrice => 100
+1374661011x0_exPrice => 10208.7100
+1374661011x0_currency => Baht
+1374661011x0_vatCode => vat1
+1374661011x0_vatValue => 7.0000
+1374661011x0_itemId => item-1362415831-system
+1374661011x0_englishName => CUSHION BOX FOR BREEZE CHAISE LOUNGE
+1374661011x0_thaiName => กล่องใส่เบาะเก้าอี้นอน บรีซ
+1374661011x0_style => 
+1374661011x0_barCode => 
+1374661011x0_class => Goods
+1374661011x0_type => Accessory
+1374661011x0_gGroup => Frame
+1374661011x0_commission => 
+1374661011x0_flag => 
+1374661011x0_remark => 
+1374661011x0_loginUserId => usr-020-system
+1374661011x0_loginCompanyId => log-007-system
+1374661011x0_editorId => usr-020-system
+1374661011x0_editDate => 
+1374661011x0_createDate => 
+1374661011x0_startDate => 
+1374661011x0_validUntil => 
+1374661011x0_active => 1
+1374661011x0_parentId => 0
+1374661011x0_!nativeeditor_status => updated
+ids => 1374661011x0
+
+Row data [1374661011x0]
+rowId => 1374661011x0
+code => AL-0509/CB
+id => prc-1362415831-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415831-system
+cost => 10208.7100
+price0 => 10208.7100
+inPrice => 100
+exPrice => 10208.7100
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415831-system
+englishName => CUSHION BOX FOR BREEZE CHAISE LOUNGE
+thaiName => กล่องใส่เบาะเก้าอี้นอน บรีซ
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Frame
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => updated
+
+UPDATE price SET `code`='AL-0509/CB',`id`='prc-1362415831-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362415831-system',`cost`='10208.7100',`price0`='10208.7100',`inPrice`='100',`exPrice`='10208.7100',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362415831-system',`englishName`='CUSHION BOX FOR BREEZE CHAISE LOUNGE',`thaiName`='กล่องใส่เบาะเก้าอี้นอน บรีซ',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Frame',`commission`='',`flag`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='',`createDate`='',`startDate`='',`validUntil`='',`active`='1',`parentId`='0' WHERE `rowId`='1374661011x0'
+
+Edit operation finished
+0 => action:updated; sid:1374661011x0; tid:1374661011x0;
+
+Done in 0.024633169174194s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:12
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.018639802932739s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:12
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.018780946731567s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:23
+====================================
+
+SELECT  code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000018-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.01836895942688s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:23
+====================================
+
+SELECT  checkbox,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.019581079483032s
+
+
+
+====================================
+Log started, 24/07/2013 10:07:30
+====================================
+
+DataProcessor object initialized
+1374661046490_gr_id => 1374661046490
+1374661046490_code => AL-0509/CB
+1374661046490_id => prc-1374661046490-system
+1374661046490_priceStrId => pst-000018-system
+1374661046490_productStrId => stru-1362415831-system
+1374661046490_cost => 10208.7100
+1374661046490_price0 => 10208.7100
+1374661046490_inPrice => 10208.7100
+1374661046490_exPrice => 10208.7100
+1374661046490_currency => Baht
+1374661046490_vatCode => vat1
+1374661046490_vatValue => 7.0000
+1374661046490_itemId => item-1362415831-system
+1374661046490_englishName => CUSHION BOX FOR BREEZE CHAISE LOUNGE
+1374661046490_thaiName => กล่องใส่เบาะเก้าอี้นอน บรีซ
+1374661046490_style => 
+1374661046490_barCode => 
+1374661046490_class => Goods
+1374661046490_type => Accessory
+1374661046490_gGroup => Frame
+1374661046490_commission => 
+1374661046490_flag => 
+1374661046490_remark => 
+1374661046490_loginUserId => usr-020-system
+1374661046490_loginCompanyId => log-007-system
+1374661046490_editorId => system
+1374661046490_editDate => 24
+1374661046490_createDate => 
+1374661046490_startDate => 
+1374661046490_validUntil => 
+1374661046490_active => 1
+1374661046490_parentId => 0
+1374661046490_!nativeeditor_status => inserted
+ids => 1374661046490
+
+Row data [1374661046490]
+rowId => 1374661046490
+code => AL-0509/CB
+id => prc-1374661046490-system
+priceStrId => pst-000018-system
+productStrId => stru-1362415831-system
+cost => 10208.7100
+price0 => 10208.7100
+inPrice => 10208.7100
+exPrice => 10208.7100
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415831-system
+englishName => CUSHION BOX FOR BREEZE CHAISE LOUNGE
+thaiName => กล่องใส่เบาะเก้าอี้นอน บรีซ
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Frame
+commission => 
+flag => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => system
+editDate => 24
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+!nativeeditor_status => inserted
+
+INSERT INTO price(`code`,`id`,`priceStrId`,`productStrId`,`cost`,`price0`,`inPrice`,`exPrice`,`currency`,`vatCode`,`vatValue`,`itemId`,`englishName`,`thaiName`,`style`,`barCode`,`class`,`type`,`gGroup`,`commission`,`flag`,`remark`,`loginUserId`,`loginCompanyId`,`editorId`,`editDate`,`createDate`,`startDate`,`validUntil`,`active`,`parentId`) VALUES ('AL-0509/CB','prc-1374661046490-system','pst-000018-system','stru-1362415831-system','10208.7100','10208.7100','10208.7100','10208.7100','Baht','vat1','7.0000','item-1362415831-system','CUSHION BOX FOR BREEZE CHAISE LOUNGE','กล่องใส่เบาะเก้าอี้นอน บรีซ','','','Goods','Accessory','Frame','','','','usr-020-system','log-007-system','system','24','','','','1','0')
+
+Edit operation finished
+0 => action:inserted; sid:1374661046490; tid:715;
+
+Done in 0.025300025939941s
+
+
+
+====================================
+Log started, 07/08/2013 11:08:23
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'unit' in 'field list'
+
+
+
+====================================
+Log started, 07/08/2013 11:08:31
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000017-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034298896789551s
+
+
+
+====================================
+Log started, 28/08/2013 01:08:22
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.027984857559204s
+
+
+
+====================================
+Log started, 28/08/2013 01:08:32
+====================================
+
+DataProcessor object initialized
+689_gr_id => 689
+689_rowId => 689
+689_code => AL-0507/S
+689_id => prc-1362415744-system
+689_priceStrId => pst-0001-system
+689_productStrId => stru-1362415744-system
+689_cost => 0.0000
+689_price0 => 0.0000
+689_inPrice => 100
+689_exPrice => 100
+689_currency => Baht
+689_vatCode => vat1
+689_vatValue => 7.0000
+689_unit => 
+689_itemId => item-1362415744-system
+689_englishName => SWATCH SEAT
+689_thaiName => แผ่นที่นั่ง
+689_style => 
+689_barCode => 
+689_class => Goods
+689_type => Accessory
+689_gGroup => Component
+689_commission => 
+689_flag => 
+689_image => 
+689_volume => 
+689_unitVolume => 
+689_weight => 
+689_unitWeight => 
+689_remark => 
+689_loginUserId => usr-020-system
+689_loginCompanyId => log-007-system
+689_editorId => usr-020-system
+689_editDate => 
+689_createDate => 
+689_startDate => 
+689_validUntil => 
+689_active => 1
+689_parentId => 0
+689_checkbox => 
+689_!nativeeditor_status => updated
+ids => 689
+
+Row data [689]
+rowId => 689
+code => AL-0507/S
+id => prc-1362415744-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 100
+exPrice => 100
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+unit => 
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+checkbox => 
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='689',`code`='AL-0507/S',`id`='prc-1362415744-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362415744-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='100',`exPrice`='100',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`unit`='',`itemId`='item-1362415744-system',`englishName`='SWATCH SEAT',`thaiName`='แผ่นที่นั่ง',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='',`flag`='',`image`='',`volume`='',`unitVolume`='',`weight`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='',`createDate`='',`startDate`='',`validUntil`='',`active`='1',`parentId`='0',`checkbox`='' WHERE `rowId`='689'
+
+Edit operation finished
+0 => action:updated; sid:689; tid:689;
+
+Done in 0.048646926879883s
+
+
+
+====================================
+Log started, 05/09/2013 04:09:25
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0028648376464844s
+
+
+
+====================================
+Log started, 05/09/2013 04:09:26
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND code LIKE '%%')
+
+Done in 0.077646970748901s
+
+
+
+====================================
+Log started, 05/09/2013 04:09:29
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0029420852661133s
+
+
+
+====================================
+Log started, 05/09/2013 05:09:55
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.002910852432251s
+
+
+
+====================================
+Log started, 05/09/2013 05:09:27
+====================================
+
+DataProcessor object initialized
+1167_gr_id => 1167
+1167_rowId => 1167
+1167_code => AL-0513/TT84
+1167_id => prc-1362416222-system
+1167_priceStrId => pst-0001-system
+1167_productStrId => stru-1362416222-system
+1167_cost => 0.0000
+1167_price0 => 0.0000
+1167_inPrice => 200
+1167_exPrice => 214
+1167_currency => Baht
+1167_vatCode => vat1
+1167_vatValue => 7.0000
+1167_unit => 
+1167_itemId => item-1362416222-system
+1167_englishName => DINING TABLE TOP 48"X84"
+1167_thaiName => หน้าโต๊ะอาหารสานขนาด 48"X84"
+1167_style => 
+1167_barCode => 
+1167_class => Goods
+1167_type => Accessory
+1167_gGroup => Component
+1167_commission => 
+1167_flag => 
+1167_image => 
+1167_volume => 
+1167_unitVolume => 
+1167_weight => 
+1167_unitWeight => 
+1167_remark => 
+1167_loginUserId => usr-020-system
+1167_loginCompanyId => log-007-system
+1167_editorId => usr-020-system
+1167_editDate => 
+1167_createDate => 
+1167_startDate => 
+1167_validUntil => 
+1167_active => 1
+1167_parentId => 0
+1167_checkbox => 
+1167_!nativeeditor_status => updated
+1168_gr_id => 1168
+1168_rowId => 1168
+1168_code => AL-0513/TT8442
+1168_id => prc-1362416223-system
+1168_priceStrId => pst-0001-system
+1168_productStrId => stru-1362416223-system
+1168_cost => 0.0000
+1168_price0 => 0.0000
+1168_inPrice => 100
+1168_exPrice => 107
+1168_currency => Baht
+1168_vatCode => vat1
+1168_vatValue => 7.0000
+1168_unit => 
+1168_itemId => item-1362416223-system
+1168_englishName => DINING TABLE TOP 84"X42"
+1168_thaiName => หน้าโต๊ะอาหารสานขนาด 42"X84"
+1168_style => 
+1168_barCode => 
+1168_class => Goods
+1168_type => Accessory
+1168_gGroup => Component
+1168_commission => 
+1168_flag => 
+1168_image => 
+1168_volume => 
+1168_unitVolume => 
+1168_weight => 
+1168_unitWeight => 
+1168_remark => 
+1168_loginUserId => usr-020-system
+1168_loginCompanyId => log-007-system
+1168_editorId => usr-020-system
+1168_editDate => 
+1168_createDate => 
+1168_startDate => 
+1168_validUntil => 
+1168_active => 1
+1168_parentId => 0
+1168_checkbox => 
+1168_!nativeeditor_status => updated
+1171_gr_id => 1171
+1171_rowId => 1171
+1171_code => AL-0513/TTH8442
+1171_id => prc-1362416226-system
+1171_priceStrId => pst-0001-system
+1171_productStrId => stru-1362416226-system
+1171_cost => 0.0000
+1171_price0 => 0.0000
+1171_inPrice => 300
+1171_exPrice => 321
+1171_currency => Baht
+1171_vatCode => vat1
+1171_vatValue => 7.0000
+1171_unit => 
+1171_itemId => item-1362416226-system
+1171_englishName => DINING UMB. TABLE TOP 84"X42"
+1171_thaiName => หน้าโต๊ะอาหารสานมีช่องใส่ร่มขนาด 42"X84"
+1171_style => 
+1171_barCode => 
+1171_class => Goods
+1171_type => Accessory
+1171_gGroup => Component
+1171_commission => 
+1171_flag => 
+1171_image => 
+1171_volume => 
+1171_unitVolume => 
+1171_weight => 
+1171_unitWeight => 
+1171_remark => 
+1171_loginUserId => usr-020-system
+1171_loginCompanyId => log-007-system
+1171_editorId => usr-020-system
+1171_editDate => 
+1171_createDate => 
+1171_startDate => 
+1171_validUntil => 
+1171_active => 1
+1171_parentId => 0
+1171_checkbox => 
+1171_!nativeeditor_status => updated
+ids => 1167,1168,1171
+
+Row data [1167]
+rowId => 1167
+code => AL-0513/TT84
+id => prc-1362416222-system
+priceStrId => pst-0001-system
+productStrId => stru-1362416222-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 200
+exPrice => 214
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+unit => 
+itemId => item-1362416222-system
+englishName => DINING TABLE TOP 48"X84"
+thaiName => หน้าโต๊ะอาหารสานขนาด 48"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+checkbox => 
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='1167',`code`='AL-0513/TT84',`id`='prc-1362416222-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362416222-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='200',`exPrice`='214',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`unit`='',`itemId`='item-1362416222-system',`englishName`='DINING TABLE TOP 48\"X84\"',`thaiName`='หน้าโต๊ะอาหารสานขนาด 48\"X84\"',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='',`flag`='',`image`='',`volume`='',`unitVolume`='',`weight`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='',`createDate`='',`startDate`='',`validUntil`='',`active`='1',`parentId`='0',`checkbox`='' WHERE `rowId`='1167'
+
+Row data [1168]
+rowId => 1168
+code => AL-0513/TT8442
+id => prc-1362416223-system
+priceStrId => pst-0001-system
+productStrId => stru-1362416223-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 100
+exPrice => 107
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+unit => 
+itemId => item-1362416223-system
+englishName => DINING TABLE TOP 84"X42"
+thaiName => หน้าโต๊ะอาหารสานขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+checkbox => 
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='1168',`code`='AL-0513/TT8442',`id`='prc-1362416223-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362416223-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='100',`exPrice`='107',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`unit`='',`itemId`='item-1362416223-system',`englishName`='DINING TABLE TOP 84\"X42\"',`thaiName`='หน้าโต๊ะอาหารสานขนาด 42\"X84\"',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='',`flag`='',`image`='',`volume`='',`unitVolume`='',`weight`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='',`createDate`='',`startDate`='',`validUntil`='',`active`='1',`parentId`='0',`checkbox`='' WHERE `rowId`='1168'
+
+Row data [1171]
+rowId => 1171
+code => AL-0513/TTH8442
+id => prc-1362416226-system
+priceStrId => pst-0001-system
+productStrId => stru-1362416226-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 300
+exPrice => 321
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+unit => 
+itemId => item-1362416226-system
+englishName => DINING UMB. TABLE TOP 84"X42"
+thaiName => หน้าโต๊ะอาหารสานมีช่องใส่ร่มขนาด 42"X84"
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 
+flag => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+checkbox => 
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='1171',`code`='AL-0513/TTH8442',`id`='prc-1362416226-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362416226-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='300',`exPrice`='321',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`unit`='',`itemId`='item-1362416226-system',`englishName`='DINING UMB. TABLE TOP 84\"X42\"',`thaiName`='หน้าโต๊ะอาหารสานมีช่องใส่ร่มขนาด 42\"X84\"',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='',`flag`='',`image`='',`volume`='',`unitVolume`='',`weight`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='',`createDate`='',`startDate`='',`validUntil`='',`active`='1',`parentId`='0',`checkbox`='' WHERE `rowId`='1171'
+
+Edit operation finished
+0 => action:updated; sid:1167; tid:1167;
+1 => action:updated; sid:1168; tid:1168;
+2 => action:updated; sid:1171; tid:1171;
+
+Done in 0.042455196380615s
+
+
+
+====================================
+Log started, 05/09/2013 05:09:32
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0029430389404297s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 12/09/2013 03:09:26
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.042520046234131s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 12:09:01
+====================================
+
+SELECT  rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'unit' in 'field list'
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 12:09:24
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitAmount,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0050680637359619s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 19/09/2013 12:09:55
+====================================
+
+DataProcessor object initialized
+689_gr_id => 689
+689_rowId => 689
+689_id => prc-1362415744-system
+689_priceStrId => pst-0001-system
+689_productStrId => stru-1362415744-system
+689_cost => 0.0000
+689_price0 => 0.0000
+689_inPrice => 100.0000
+689_exPrice => 100.0000
+689_currency => Baht
+689_vatCode => vat1
+689_vatValue => 7.0000
+689_itemId => item-1362415744-system
+689_englishName => SWATCH SEAT
+689_thaiName => แผ่นที่นั่ง
+689_code => AL-0507/S
+689_customCode => C7853
+689_description => ที่นั่งทำกับข้าว
+689_style => 
+689_barCode => 
+689_class => Goods
+689_type => Accessory
+689_gGroup => Component
+689_commission => 0.00
+689_flag => 
+689_image => 
+689_volume => 0.0000
+689_unitVolume => 
+689_weight => 0.0000
+689_unitAmount => 
+689_unitWeight => 
+689_remark => 
+689_loginUserId => usr-020-system
+689_loginCompanyId => log-007-system
+689_editorId => usr-020-system
+689_editDate => 0000-00-00
+689_createDate => 0000-00-00 00:00:00
+689_startDate => 0000-00-00
+689_validUntil => 0000-00-00
+689_active => 1
+689_parentId => 0
+689_checkbox => 0
+689_!nativeeditor_status => updated
+ids => 689
+
+Row data [689]
+rowId => 689
+id => prc-1362415744-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 100.0000
+exPrice => 100.0000
+currency => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+code => AL-0507/S
+customCode => C7853
+description => ที่นั่งทำกับข้าว
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+flag => 
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unitAmount => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+checkbox => 0
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='689',`id`='prc-1362415744-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362415744-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='100.0000',`exPrice`='100.0000',`currency`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362415744-system',`englishName`='SWATCH SEAT',`thaiName`='แผ่นที่นั่ง',`code`='AL-0507/S',`customCode`='C7853',`description`='ที่นั่งทำกับข้าว',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='0.00',`flag`='',`image`='',`volume`='0.0000',`unitVolume`='',`weight`='0.0000',`unitAmount`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='0000-00-00',`createDate`='0000-00-00 00:00:00',`startDate`='0000-00-00',`validUntil`='0000-00-00',`active`='1',`parentId`='0',`checkbox`='0' WHERE `rowId`='689'
+
+Edit operation finished
+0 => action:updated; sid:689; tid:689;
+
+Done in 0.002453088760376s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:55
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitAmount,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000017-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'currency' in 'field list'
+
+
+
+====================================
+Log started, 03/10/2013 11:10:59
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitAmount,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000017-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'currency' in 'field list'
+
+
+
+====================================
+Log started, 08/10/2013 08:10:56
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000037-system' AND code LIKE '%%')
+
+Done in 0.0065891742706299s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:11
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0091538429260254s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:11
+====================================
+
+SELECT  checkbox,rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'currency' in 'field list'
+
+
+
+====================================
+Log started, 08/10/2013 08:10:33
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Stool' AND class='Goods' AND type='Furniture')
+
+Done in 0.0039348602294922s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:41
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036129951477051s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:41
+====================================
+
+SELECT  checkbox,rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Frame' AND class='Goods' AND type='Accessory')
+
+Done in 0.0038928985595703s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:44
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Miscellaneous' AND class='Goods' AND type='Accessory')
+
+Done in 0.0031869411468506s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:44
+====================================
+
+SELECT  checkbox,rowId,code,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,unit,itemId,englishName,thaiName,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Miscellaneous' AND class='Goods' AND type='Accessory')
+
+Done in 0.005720853805542s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:17
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0040349960327148s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:52
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0035989284515381s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:20
+====================================
+
+DataProcessor object initialized
+689_gr_id => 689
+689_rowId => 689
+689_id => prc-1362415744-system
+689_priceStrId => pst-0001-system
+689_productStrId => stru-1362415744-system
+689_cost => 0.0000
+689_price0 => 0.0000
+689_inPrice => 100.0000
+689_exPrice => 100.0000
+689_unitCost => Baht
+689_vatCode => vat1
+689_vatValue => 7.0000
+689_itemId => item-1362415744-system
+689_englishName => SWATCH SEAT
+689_thaiName => แผ่นที่นั่ง
+689_code => AL-0507/S
+689_customCode => C7853
+689_description => ที่นั่งทำกับข้าว
+689_style => 
+689_barCode => 
+689_class => Goods
+689_type => Accessory
+689_gGroup => Component
+689_commission => 20
+689_discount => 100
+689_flag => 
+689_image => 
+689_volume => 0.0000
+689_unitVolume => 
+689_weight => 0.0000
+689_unit => 
+689_unitWeight => 
+689_remark => 
+689_loginUserId => usr-020-system
+689_loginCompanyId => log-007-system
+689_editorId => usr-020-system
+689_editDate => 0000-00-00
+689_createDate => 0000-00-00 00:00:00
+689_startDate => 0000-00-00
+689_validUntil => 0000-00-00
+689_active => 1
+689_parentId => 0
+689_checkbox => 0
+689_!nativeeditor_status => updated
+1164_gr_id => 1164
+1164_rowId => 1164
+1164_id => prc-1362416219-system
+1164_priceStrId => pst-0001-system
+1164_productStrId => stru-1362416219-system
+1164_cost => 2457.8899
+1164_price0 => 2949.4679
+1164_inPrice => 3157.0000
+1164_exPrice => 2950.0000
+1164_unitCost => Baht
+1164_vatCode => vat1
+1164_vatValue => 7.0000
+1164_itemId => item-1362416219-system
+1164_englishName => DINING TABLE BASE 48"X84"
+1164_thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+1164_code => AL-0513/TB84
+1164_customCode => 
+1164_description => 
+1164_style => 
+1164_barCode => 
+1164_class => Goods
+1164_type => Accessory
+1164_gGroup => Component
+1164_commission => 0.00
+1164_discount => 125
+1164_flag => 
+1164_image => 
+1164_volume => 
+1164_unitVolume => 
+1164_weight => 
+1164_unit => 
+1164_unitWeight => 
+1164_remark => 
+1164_loginUserId => usr-020-system
+1164_loginCompanyId => log-007-system
+1164_editorId => usr-020-system
+1164_editDate => 0000-00-00
+1164_createDate => 0000-00-00 00:00:00
+1164_startDate => 0000-00-00
+1164_validUntil => 0000-00-00
+1164_active => 1
+1164_parentId => 0
+1164_checkbox => 
+1164_!nativeeditor_status => updated
+1165_gr_id => 1165
+1165_rowId => 1165
+1165_id => prc-1362416220-system
+1165_priceStrId => pst-0001-system
+1165_productStrId => stru-1362416220-system
+1165_cost => 4654.9302
+1165_price0 => 5585.9162
+1165_inPrice => 5976.9304
+1165_exPrice => 5585.9162
+1165_unitCost => Baht
+1165_vatCode => vat1
+1165_vatValue => 7.0000
+1165_itemId => item-1362416220-system
+1165_englishName => DINING TABLE BASE 84"X42"
+1165_thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+1165_code => AL-0513/TB8442
+1165_customCode => 
+1165_description => 
+1165_style => 
+1165_barCode => 
+1165_class => Goods
+1165_type => Accessory
+1165_gGroup => Component
+1165_commission => 10
+1165_discount => 130
+1165_flag => 
+1165_image => 
+1165_volume => 
+1165_unitVolume => 
+1165_weight => 
+1165_unit => 
+1165_unitWeight => 
+1165_remark => 
+1165_loginUserId => usr-020-system
+1165_loginCompanyId => log-007-system
+1165_editorId => usr-020-system
+1165_editDate => 
+1165_createDate => 
+1165_startDate => 
+1165_validUntil => 
+1165_active => 1
+1165_parentId => 0
+1165_checkbox => 
+1165_!nativeeditor_status => updated
+ids => 689,1164,1165
+
+Row data [689]
+rowId => 689
+id => prc-1362415744-system
+priceStrId => pst-0001-system
+productStrId => stru-1362415744-system
+cost => 0.0000
+price0 => 0.0000
+inPrice => 100.0000
+exPrice => 100.0000
+unitCost => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362415744-system
+englishName => SWATCH SEAT
+thaiName => แผ่นที่นั่ง
+code => AL-0507/S
+customCode => C7853
+description => ที่นั่งทำกับข้าว
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 20
+discount => 100
+flag => 
+image => 
+volume => 0.0000
+unitVolume => 
+weight => 0.0000
+unit => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+checkbox => 0
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='689',`id`='prc-1362415744-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362415744-system',`cost`='0.0000',`price0`='0.0000',`inPrice`='100.0000',`exPrice`='100.0000',`unitCost`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362415744-system',`englishName`='SWATCH SEAT',`thaiName`='แผ่นที่นั่ง',`code`='AL-0507/S',`customCode`='C7853',`description`='ที่นั่งทำกับข้าว',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='20',`discount`='100',`flag`='',`image`='',`volume`='0.0000',`unitVolume`='',`weight`='0.0000',`unit`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='0000-00-00',`createDate`='0000-00-00 00:00:00',`startDate`='0000-00-00',`validUntil`='0000-00-00',`active`='1',`parentId`='0',`checkbox`='0' WHERE `rowId`='689'
+
+Row data [1164]
+rowId => 1164
+id => prc-1362416219-system
+priceStrId => pst-0001-system
+productStrId => stru-1362416219-system
+cost => 2457.8899
+price0 => 2949.4679
+inPrice => 3157.0000
+exPrice => 2950.0000
+unitCost => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416219-system
+englishName => DINING TABLE BASE 48"X84"
+thaiName => ฐานโต๊ะอาหารขนาด 48"X84"
+code => AL-0513/TB84
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 0.00
+discount => 125
+flag => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unit => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 0000-00-00
+createDate => 0000-00-00 00:00:00
+startDate => 0000-00-00
+validUntil => 0000-00-00
+active => 1
+parentId => 0
+checkbox => 
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='1164',`id`='prc-1362416219-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362416219-system',`cost`='2457.8899',`price0`='2949.4679',`inPrice`='3157.0000',`exPrice`='2950.0000',`unitCost`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362416219-system',`englishName`='DINING TABLE BASE 48\"X84\"',`thaiName`='ฐานโต๊ะอาหารขนาด 48\"X84\"',`code`='AL-0513/TB84',`customCode`='',`description`='',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='0.00',`discount`='125',`flag`='',`image`='',`volume`='',`unitVolume`='',`weight`='',`unit`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='0000-00-00',`createDate`='0000-00-00 00:00:00',`startDate`='0000-00-00',`validUntil`='0000-00-00',`active`='1',`parentId`='0',`checkbox`='' WHERE `rowId`='1164'
+
+Row data [1165]
+rowId => 1165
+id => prc-1362416220-system
+priceStrId => pst-0001-system
+productStrId => stru-1362416220-system
+cost => 4654.9302
+price0 => 5585.9162
+inPrice => 5976.9304
+exPrice => 5585.9162
+unitCost => Baht
+vatCode => vat1
+vatValue => 7.0000
+itemId => item-1362416220-system
+englishName => DINING TABLE BASE 84"X42"
+thaiName => ฐานโต๊ะอาหารขนาด 42"X84"
+code => AL-0513/TB8442
+customCode => 
+description => 
+style => 
+barCode => 
+class => Goods
+type => Accessory
+gGroup => Component
+commission => 10
+discount => 130
+flag => 
+image => 
+volume => 
+unitVolume => 
+weight => 
+unit => 
+unitWeight => 
+remark => 
+loginUserId => usr-020-system
+loginCompanyId => log-007-system
+editorId => usr-020-system
+editDate => 
+createDate => 
+startDate => 
+validUntil => 
+active => 1
+parentId => 0
+checkbox => 
+!nativeeditor_status => updated
+
+UPDATE price SET `rowId`='1165',`id`='prc-1362416220-system',`priceStrId`='pst-0001-system',`productStrId`='stru-1362416220-system',`cost`='4654.9302',`price0`='5585.9162',`inPrice`='5976.9304',`exPrice`='5585.9162',`unitCost`='Baht',`vatCode`='vat1',`vatValue`='7.0000',`itemId`='item-1362416220-system',`englishName`='DINING TABLE BASE 84\"X42\"',`thaiName`='ฐานโต๊ะอาหารขนาด 42\"X84\"',`code`='AL-0513/TB8442',`customCode`='',`description`='',`style`='',`barCode`='',`class`='Goods',`type`='Accessory',`gGroup`='Component',`commission`='10',`discount`='130',`flag`='',`image`='',`volume`='',`unitVolume`='',`weight`='',`unit`='',`unitWeight`='',`remark`='',`loginUserId`='usr-020-system',`loginCompanyId`='log-007-system',`editorId`='usr-020-system',`editDate`='',`createDate`='',`startDate`='',`validUntil`='',`active`='1',`parentId`='0',`checkbox`='' WHERE `rowId`='1165'
+
+Edit operation finished
+0 => action:updated; sid:689; tid:689;
+1 => action:updated; sid:1164; tid:1164;
+2 => action:updated; sid:1165; tid:1165;
+
+Done in 0.01003885269165s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:27
+====================================
+
+SELECT  rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,checkbox FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034201145172119s
+

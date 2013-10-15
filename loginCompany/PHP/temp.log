@@ -1,0 +1,832 @@
+
+
+====================================
+Log started, 13/11/2012 01:11:19
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'parentCompId' in 'where clause'
+
+
+
+====================================
+Log started, 13/11/2012 01:11:38
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00189590454102s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:17
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00310802459717s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:34
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0022120475769s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:55
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00216817855835s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:12
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00196599960327s
+
+
+
+====================================
+Log started, 13/11/2012 03:11:34
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00259399414062s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:50
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.058051109314s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:50
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0028669834137s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:02
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00259304046631s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:09
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0027871131897s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:09
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00451803207397s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:56
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00191879272461s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:56
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  code at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  type at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  warehouse at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  site at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  location at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00420999526978s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:39
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00259208679199s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:39
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00201201438904s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:01
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00307011604309s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:01
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND code_type='admin')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'code_type' in 'where clause'
+
+
+
+====================================
+Log started, 14/11/2012 03:11:27
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00199413299561s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:27
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00118803977966s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:59
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00247502326965s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:59
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00117087364197s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:12
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00246596336365s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:12
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00121903419495s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:34
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00242304801941s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:34
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00155282020569s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:53
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00191307067871s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:53
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00167202949524s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:12
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00264596939087s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:12
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00159120559692s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:35
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.0530669689178s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:35
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0432500839233s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:57
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00297808647156s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:57
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00197505950928s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:16
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00273203849792s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:16
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00158596038818s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:16
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00207710266113s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:16
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00171995162964s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00211691856384s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00167083740234s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00221705436707s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00178408622742s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00203013420105s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00157880783081s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00235986709595s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00171613693237s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00292205810547s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:17
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00148391723633s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00185990333557s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00180602073669s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00217700004578s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00194978713989s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00274300575256s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.0014500617981s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00275897979736s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:18
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00153303146362s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:24
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00214910507202s
+
+
+
+====================================
+Log started, 14/11/2012 03:11:24
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00154709815979s
+
+
+
+====================================
+Log started, 22/11/2012 02:11:03
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0432820320129s
+
+
+
+====================================
+Log started, 22/11/2012 02:11:04
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00746202468872s
+
+
+
+====================================
+Log started, 22/11/2012 02:11:30
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0107679367065s
+
+
+
+====================================
+Log started, 22/11/2012 02:11:30
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00590991973877s
+
+
+
+====================================
+Log started, 22/11/2012 02:11:52
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00806498527527s
+
+
+
+====================================
+Log started, 22/11/2012 02:11:52
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00852918624878s
+
+
+
+====================================
+Log started, 22/11/2012 03:11:06
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0101811885834s
+
+
+
+====================================
+Log started, 22/11/2012 03:11:06
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.0061821937561s
+
+
+
+====================================
+Log started, 22/11/2012 03:11:09
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0100920200348s
+
+
+
+====================================
+Log started, 22/11/2012 03:11:09
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+Done in 0.00700092315674s
+
+
+
+====================================
+Log started, 03/05/2013 02:05:48
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.0428421497345s
+
+
+
+====================================
+Log started, 03/05/2013 02:05:51
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Table 'hawaii.loginUser' doesn't exist
+
+
+
+====================================
+Log started, 03/05/2013 02:05:23
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.00629496574402s
+
+
+
+====================================
+Log started, 03/05/2013 02:05:23
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system' AND user_code='admin')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Table 'hawaii.loginUser' doesn't exist
+
+
+
+====================================
+Log started, 19/06/2013 07:06:53
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.018898010253906s
+
+
+
+====================================
+Log started, 29/08/2013 08:08:30
+====================================
+
+SELECT  * FROM logincompany
+
+Done in 0.07041597366333s
+

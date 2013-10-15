@@ -1,0 +1,453 @@
+
+
+====================================
+Log started, 26/09/2013 09:09:26
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0013909339904785s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:41
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0011909008026123s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:28
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0012438297271729s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:51
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0011529922485352s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:17
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0013411045074463s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:39
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016188621520996s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:53
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0011899471282959s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:35
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016398429870605s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:59
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014300346374512s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:14
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0012331008911133s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:58
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0012381076812744s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:34
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0020198822021484s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:45
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0013530254364014s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:28
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0018830299377441s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:51
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.002086877822876s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:52
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0017518997192383s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:15
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0018270015716553s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:52
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016701221466064s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:04
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0011780261993408s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:47
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0015468597412109s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:29
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016419887542725s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:18
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`currency`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'currency' in 'field list'
+
+
+
+====================================
+Log started, 27/09/2013 06:09:08
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0013279914855957s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:15
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0019509792327881s
+
+
+
+====================================
+Log started, 01/10/2013 09:10:13
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014650821685791s
+
+
+
+====================================
+Log started, 01/10/2013 11:10:24
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.001622200012207s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:36
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`approvePersonId`,`approvePerson`,`approveDate`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0015349388122559s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:24
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`discountRate`,`discount`,`includeVat`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014898777008057s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:58
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016098022460938s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:39
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014338493347168s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:37
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014150142669678s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:25
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0015652179718018s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:32
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0019528865814209s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:42
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016510486602783s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:31
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.001446008682251s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:07
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016548633575439s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:58
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0015959739685059s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:19
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0016598701477051s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:49
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0018339157104492s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:09
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0017201900482178s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:30
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.00164794921875s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:56
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0019769668579102s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:21
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0012528896331787s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:55
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014541149139404s
+
+
+
+====================================
+Log started, 08/10/2013 10:10:44
+====================================
+
+SELECT `rowId`,`id`,`docType`,`status`,`orderId`,`revision`,`referenceId`,`referenceId2`,`loginCompanyId`,`loginUserId`,`editorId`,`customerId`,`customerName`,`contactPerson`,`companyAddress`,`shippingAddress`,`billingAddress`,`tel`,`fax`,`email`,`deliverPlace`,`employeeId`,`employeeName`,`employeeTel`,`employeeEmail`,`unitCost`,`sumDiscount`,`discountRate`,`discount`,`includeVat`,`totalBeforeDiscount`,`totalBeforeVat`,`vatAmount`,`totalIncludeVatNum`,`totalIncludeVatStrThai`,`totalIncludeVatStrEnglish`,`footNote`,`paymentTerm`,`deliveryTerm`,`creditTerm`,`commissionRate`,`commissionValue` FROM ordermaster WHERE `rowId` = '1'
+
+Done in 0.0014939308166504s
+

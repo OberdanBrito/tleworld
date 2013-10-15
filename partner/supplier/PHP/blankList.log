@@ -1,0 +1,570 @@
+
+
+====================================
+Log started, 26/03/2013 08:03:32
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.024819850921631s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:02
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0097320079803467s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:08
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.20804882049561s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:11
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0075728893280029s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:47
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0062370300292969s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:09
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0049819946289062s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:38
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0078918933868408s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:48
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0076069831848145s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:46
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0056138038635254s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:32
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0060579776763916s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:35
+====================================
+
+SELECT  rowId,id,title,englishName,englishLastName,email,mobile FROM partner WHERE ( company_id='log-007-system' AND relType='customer' AND personType='person')
+
+Done in 0.0077848434448242s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:56
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.021835088729858s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:58
+====================================
+
+SELECT  rowId,id,title,englishName,englishLastName,email,mobile FROM partner WHERE ( company_id='log-007-system' AND relType='customer' AND personType='person')
+
+Done in 0.008991003036499s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:00
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0071401596069336s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:00
+====================================
+
+SELECT  rowId,id,title,englishName,englishLastName,email,mobile FROM partner WHERE ( company_id='log-007-system' AND relType='customer' AND personType='firm')
+
+Done in 0.03099513053894s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:30
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0083250999450684s
+
+
+
+====================================
+Log started, 26/03/2013 08:03:37
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.0065391063690186s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:56
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.086828947067261s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:58
+====================================
+
+SELECT  rowId,id,title,englishName,englishLastName,email,mobile FROM partner WHERE ( company_id='log-007-system' AND relType='customer' AND personType='person')
+
+Done in 0.041059017181396s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:01
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.041090965270996s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:33
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.099251985549927s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:53
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.037276983261108s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:57
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.035760879516602s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:02
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.061251878738403s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:04
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.040888786315918s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:15
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.16344809532166s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:11
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.036296844482422s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:16
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.056292057037354s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:58
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.041749000549316s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:02
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.036212921142578s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:27
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.040871858596802s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:50
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.035145044326782s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:15
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.038405895233154s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:44
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.037079095840454s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:33
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.036324024200439s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:36
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.049467086791992s
+
+
+
+====================================
+Log started, 26/03/2013 09:03:41
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.053993940353394s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:24
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.086313962936401s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:15
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.077215909957886s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:48
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.064285039901733s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:01
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.058305025100708s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:19
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.056373119354248s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:21
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.057399034500122s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:07
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.08181095123291s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:27
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.066059112548828s
+
+
+
+====================================
+Log started, 28/03/2013 03:03:53
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.27839303016663s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:13
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.053776979446411s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:23
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.056980848312378s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:55
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.057132005691528s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:01
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.057141065597534s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:23
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.057661056518555s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:24
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.058401107788086s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:26
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.059146881103516s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:32
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.057808876037598s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:19
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.075117111206055s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:24
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.059205055236816s
+
+
+
+====================================
+Log started, 28/03/2013 04:03:16
+====================================
+
+SELECT  rowId,code,thaiName,englishName FROM codedefinitions WHERE ( type='partner_type')
+
+Done in 0.056565046310425s
+

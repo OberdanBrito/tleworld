@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<items>
+    <item type="settings" position="label-left" labelWidth="100" inputWidth="120"/>
+    <item type="fieldset" name="data" inputWidth="auto" label="Insert Admin">
+        <item type="input" value="" label="Username"/>
+        <item type="password" value="" label="Password"/>			
+        <item type="button" value="Create"/><item type="button" value="Cancel"/>
+    </item>
+</items>

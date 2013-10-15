@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="0">
+    <item text="getId"  id="Id"/>
+    <item text="Add Bom"  id="Bom"/>
+    <item text="Add Build" id="Build"/>
+    <item text="Add Data" id="Data"/>
+    <item text="Cost Bom"  id="costBom"/>
+    <item text="Cost Build" id="costBuild"/>
+    <item text="Cost Data" id="costBuy"/>
+    <item text="Add Style" id="Style"/>
+    <item text="Delete" id="del"/>
+    <item text="Save" id="save"/>
+</menu>

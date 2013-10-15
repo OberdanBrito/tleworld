@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id='0' >
+    <item text='Delete Module'  id='delete' img='onebit_33.png' imgdis='onebit_33.png' />
+</menu>

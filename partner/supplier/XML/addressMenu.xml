@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id='0' >
+    <item text='Insert'  id='insert' img='onebit_31.png' imgdis='onebit_31.png' />
+    <item text='Select'  id='select' img='onebit_18.png' imgdis='onebit_18.png' />
+    <item text='Delete'  id='delete' img='onebit_33.png' imgdis='onebit_33.png' />
+    <item id='file_sep_1' type='separator'/>
+    <item text='Save' id='save' img='onebit_12.png' imgdis='onebit_11.png' />
+</menu>

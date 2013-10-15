@@ -1,0 +1,160 @@
+
+
+====================================
+Log started, 04/04/2013 06:04:35
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361470955-system')
+
+Done in 0.0330128669739s
+
+
+
+====================================
+Log started, 04/04/2013 06:04:11
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361470955-system')
+
+Done in 0.0346329212189s
+
+
+
+====================================
+Log started, 04/04/2013 06:04:26
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.0322420597076s
+
+
+
+====================================
+Log started, 04/04/2013 06:04:43
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361470955-system')
+
+Done in 0.0341289043427s
+
+
+
+====================================
+Log started, 04/04/2013 06:04:31
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361470955-system')
+
+Done in 0.037584066391s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:37
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361470955-system')
+
+Done in 0.193042039871s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:37
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415542-system')
+
+Done in 0.0834009647369s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:35
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415542-system')
+
+Done in 0.0314071178436s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:22
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415722-system')
+
+Done in 0.0293519496918s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:29
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415763-system')
+
+Done in 0.0300409793854s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:36
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361430229-system')
+
+Done in 0.0307819843292s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:42
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361429742-system')
+
+Done in 0.0299909114838s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:48
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415542-system')
+
+Done in 0.0281660556793s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:44
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415542-system')
+
+Done in 0.0321888923645s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:02
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361415542-system')
+
+Done in 0.0305399894714s
+
+
+
+====================================
+Log started, 04/04/2013 11:04:18
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type='termsCondition' AND partnerId='per-1361470955-system')
+
+Done in 0.0306599140167s
+

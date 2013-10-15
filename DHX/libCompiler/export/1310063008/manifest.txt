@@ -1,0 +1,15 @@
+Skin: dhx_skyblue
+
+======== JS CODE =========
+./dhtmlxcommon.js
+../dhtmlxForm/codebase/dhtmlxform.js
+../dhtmlxForm/codebase/ext/dhtmlxform_item_calendar.js
+../dhtmlxForm/codebase/ext/dhtmlxform_item_colorpicker.js
+../dhtmlxForm/codebase/ext/dhtmlxform_item_combo.js
+../dhtmlxForm/codebase/ext/dhtmlxform_item_editor.js
+../dhtmlxDataProcessor/codebase/dhtmlxdataprocessor.js
+./datastore.js
+
+======== CSS CODE ========
+../dhtmlxForm/codebase/skins/dhtmlxform_dhx_skyblue.css 
+../dhtmlxForm/codebase/skins/dhtmlxform_dhx_skyblue.css

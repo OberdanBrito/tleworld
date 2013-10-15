@@ -1,0 +1,800 @@
+
+
+====================================
+Log started, 03/09/2012 03:09:51
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+Done in 0.169096231461s
+
+
+
+====================================
+Log started, 03/09/2012 03:09:55
+====================================
+
+DataProcessor object initialized
+1346657335490_gr_id => 1346657335490
+1346657335490_gr_pid => 11
+1346657335490_c0 => log-2012-09-03 14:28:55-system
+1346657335490_c1 => 
+1346657335490_c2 => 
+1346657335490_c3 => 
+1346657335490_c4 => loginCompany
+1346657335490_c5 => 
+1346657335490_c6 => 
+1346657335490_c7 => 
+1346657335490_c8 => 
+1346657335490_c9 => 2012-09-03
+1346657335490_c10 => 
+1346657335490_c11 => system
+1346657335490_c12 => 2012-09-03 14:28:55
+1346657335490_c13 => 
+1346657335490_c14 => 
+1346657335490_c15 => 
+1346657335490_c16 => system
+1346657335490_c17 => system
+1346657335490_c18 => 
+1346657335490_!nativeeditor_status => inserted
+ids => 1346657335490
+
+Row data [1346657335490]
+rowId => 1346657335490
+parentCompId => 11
+id => log-2012-09-03 14:28:55-system
+thaiName => 
+englishName => 
+description => 
+type => loginCompany
+code => 
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-03
+validUntil => 
+owner => system
+createDate => 2012-09-03 14:28:55
+editor => 
+editDate => 
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 
+!nativeeditor_status => inserted
+
+INSERT INTO logincompany(`id`,`thaiName`,`englishName`,`description`,`type`,`code`,`warehouse`,`site`,`location`,`startDate`,`validUntil`,`owner`,`createDate`,`editor`,`editDate`,`revision`,`loginCompany`,`loginUser`,`loginLevel`,`parentCompId`) VALUES ('log-2012-09-03 14:28:55-system','','','','loginCompany','','','','','2012-09-03','','system','2012-09-03 14:28:55','','','','system','system','','11')
+
+Edit operation finished
+0 => action:inserted; sid:1346657335490; tid:55;
+
+Done in 0.0229449272156s
+
+
+
+====================================
+Log started, 03/09/2012 03:09:05
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '55'
+
+Done in 0.250502109528s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:27
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '55'
+
+Done in 0.230026006699s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:34
+====================================
+
+DataProcessor object initialized
+55_gr_id => 55
+55_gr_pid => 11
+55_c0 => log-2012-09-03 14:28:55-system
+55_c1 => 
+55_c2 => 
+55_c3 => 
+55_c4 => loginCompany
+55_c5 => 
+55_c6 => 
+55_c7 => 
+55_c8 => 
+55_c9 => 2012-09-03
+55_c10 => 0000-00-00
+55_c11 => system
+55_c12 => 2012-09-03 14:28:55
+55_c13 => 
+55_c14 => 0000-00-00
+55_c15 => 
+55_c16 => system
+55_c17 => system
+55_c18 => 0
+55_!nativeeditor_status => deleted
+ids => 55
+
+Row data [55]
+rowId => 55
+parentCompId => 11
+id => log-2012-09-03 14:28:55-system
+thaiName => 
+englishName => 
+description => 
+type => loginCompany
+code => 
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-03
+validUntil => 0000-00-00
+owner => system
+createDate => 2012-09-03 14:28:55
+editor => 
+editDate => 0000-00-00
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 0
+!nativeeditor_status => deleted
+
+DELETE FROM logincompany WHERE `rowId`='55'
+
+Edit operation finished
+0 => action:deleted; sid:55; tid:55;
+
+Done in 0.097030878067s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:57
+====================================
+
+DataProcessor object initialized
+48_gr_id => 48
+48_gr_pid => 11
+48_c0 => log-030-system
+48_c1 => ยูไนเต็ด เทคโนโลยี
+48_c2 => UTECH
+48_c3 => 
+48_c4 => loginCompany
+48_c5 => utech
+48_c6 => 
+48_c7 => 
+48_c8 => 
+48_c9 => 
+48_c10 => 
+48_c11 => 
+48_c12 => 
+48_c13 => 
+48_c14 => 
+48_c15 => 
+48_c16 => 
+48_c17 => 
+48_c18 => 
+48_!nativeeditor_status => updated
+ids => 48
+
+Row data [48]
+rowId => 48
+parentCompId => 11
+id => log-030-system
+thaiName => ยูไนเต็ด เทคโนโลยี
+englishName => UTECH
+description => 
+type => loginCompany
+code => utech
+warehouse => 
+site => 
+location => 
+startDate => 
+validUntil => 
+owner => 
+createDate => 
+editor => 
+editDate => 
+revision => 
+loginCompany => 
+loginUser => 
+loginLevel => 
+!nativeeditor_status => updated
+
+UPDATE logincompany SET `id`='log-030-system',`thaiName`='ยูไนเต็ด เทคโนโลยี',`englishName`='UTECH',`description`='',`type`='loginCompany',`code`='utech',`warehouse`='',`site`='',`location`='',`startDate`='',`validUntil`='',`owner`='',`createDate`='',`editor`='',`editDate`='',`revision`='',`loginCompany`='',`loginUser`='',`loginLevel`='',`parentCompId`='11' WHERE `rowId`='48'
+
+Edit operation finished
+0 => action:updated; sid:48; tid:48;
+
+Done in 0.0199129581451s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:14
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+Done in 0.154894113541s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:16
+====================================
+
+DataProcessor object initialized
+1346746276870_gr_id => 1346746276870
+1346746276870_gr_pid => 11
+1346746276870_c0 => log-2012-09-04 15:11:16-system
+1346746276870_c1 => 
+1346746276870_c2 => 
+1346746276870_c3 => 
+1346746276870_c4 => loginCompany
+1346746276870_c5 => 
+1346746276870_c6 => 
+1346746276870_c7 => 
+1346746276870_c8 => 
+1346746276870_c9 => 2012-09-04
+1346746276870_c10 => 
+1346746276870_c11 => system
+1346746276870_c12 => 2012-09-04 15:11:16
+1346746276870_c13 => 
+1346746276870_c14 => 
+1346746276870_c15 => 
+1346746276870_c16 => system
+1346746276870_c17 => system
+1346746276870_c18 => 
+1346746276870_!nativeeditor_status => inserted
+ids => 1346746276870
+
+Row data [1346746276870]
+rowId => 1346746276870
+parentCompId => 11
+id => log-2012-09-04 15:11:16-system
+thaiName => 
+englishName => 
+description => 
+type => loginCompany
+code => 
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-04
+validUntil => 
+owner => system
+createDate => 2012-09-04 15:11:16
+editor => 
+editDate => 
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 
+!nativeeditor_status => inserted
+
+INSERT INTO logincompany(`id`,`thaiName`,`englishName`,`description`,`type`,`code`,`warehouse`,`site`,`location`,`startDate`,`validUntil`,`owner`,`createDate`,`editor`,`editDate`,`revision`,`loginCompany`,`loginUser`,`loginLevel`,`parentCompId`) VALUES ('log-2012-09-04 15:11:16-system','','','','loginCompany','','','','','2012-09-04','','system','2012-09-04 15:11:16','','','','system','system','','11')
+
+Edit operation finished
+0 => action:inserted; sid:1346746276870; tid:56;
+
+Done in 0.0664567947388s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:22
+====================================
+
+DataProcessor object initialized
+56_gr_id => 56
+56_gr_pid => 11
+56_c0 => log-2012-09-04 15:11:16-system
+56_c1 => ฮายวา
+56_c2 => 
+56_c3 => 
+56_c4 => loginCompany
+56_c5 => 
+56_c6 => 
+56_c7 => 
+56_c8 => 
+56_c9 => 2012-09-04
+56_c10 => 
+56_c11 => system
+56_c12 => 2012-09-04 15:11:16
+56_c13 => 
+56_c14 => 
+56_c15 => 
+56_c16 => system
+56_c17 => system
+56_c18 => 
+56_!nativeeditor_status => updated
+ids => 56
+
+Row data [56]
+rowId => 56
+parentCompId => 11
+id => log-2012-09-04 15:11:16-system
+thaiName => ฮายวา
+englishName => 
+description => 
+type => loginCompany
+code => 
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-04
+validUntil => 
+owner => system
+createDate => 2012-09-04 15:11:16
+editor => 
+editDate => 
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 
+!nativeeditor_status => updated
+
+UPDATE logincompany SET `id`='log-2012-09-04 15:11:16-system',`thaiName`='ฮายวา',`englishName`='',`description`='',`type`='loginCompany',`code`='',`warehouse`='',`site`='',`location`='',`startDate`='2012-09-04',`validUntil`='',`owner`='system',`createDate`='2012-09-04 15:11:16',`editor`='',`editDate`='',`revision`='',`loginCompany`='system',`loginUser`='system',`loginLevel`='',`parentCompId`='11' WHERE `rowId`='56'
+
+Edit operation finished
+0 => action:updated; sid:56; tid:56;
+
+Done in 0.0321300029755s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:28
+====================================
+
+DataProcessor object initialized
+56_gr_id => 56
+56_gr_pid => 11
+56_c0 => log-2012-09-04 15:11:16-system
+56_c1 => ฮายวา
+56_c2 => Haiiwa
+56_c3 => 
+56_c4 => loginCompany
+56_c5 => 
+56_c6 => 
+56_c7 => 
+56_c8 => 
+56_c9 => 2012-09-04
+56_c10 => 
+56_c11 => system
+56_c12 => 2012-09-04 15:11:16
+56_c13 => 
+56_c14 => 
+56_c15 => 
+56_c16 => system
+56_c17 => system
+56_c18 => 
+56_!nativeeditor_status => updated
+ids => 56
+
+Row data [56]
+rowId => 56
+parentCompId => 11
+id => log-2012-09-04 15:11:16-system
+thaiName => ฮายวา
+englishName => Haiiwa
+description => 
+type => loginCompany
+code => 
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-04
+validUntil => 
+owner => system
+createDate => 2012-09-04 15:11:16
+editor => 
+editDate => 
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 
+!nativeeditor_status => updated
+
+UPDATE logincompany SET `id`='log-2012-09-04 15:11:16-system',`thaiName`='ฮายวา',`englishName`='Haiiwa',`description`='',`type`='loginCompany',`code`='',`warehouse`='',`site`='',`location`='',`startDate`='2012-09-04',`validUntil`='',`owner`='system',`createDate`='2012-09-04 15:11:16',`editor`='',`editDate`='',`revision`='',`loginCompany`='system',`loginUser`='system',`loginLevel`='',`parentCompId`='11' WHERE `rowId`='56'
+
+Edit operation finished
+0 => action:updated; sid:56; tid:56;
+
+Done in 0.0274798870087s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:33
+====================================
+
+DataProcessor object initialized
+56_gr_id => 56
+56_gr_pid => 11
+56_c0 => log-2012-09-04 15:11:16-system
+56_c1 => ฮายวา
+56_c2 => Haiiwa
+56_c3 => 
+56_c4 => loginCompany
+56_c5 => haiiwa
+56_c6 => 
+56_c7 => 
+56_c8 => 
+56_c9 => 2012-09-04
+56_c10 => 
+56_c11 => system
+56_c12 => 2012-09-04 15:11:16
+56_c13 => 
+56_c14 => 
+56_c15 => 
+56_c16 => system
+56_c17 => system
+56_c18 => 
+56_!nativeeditor_status => updated
+ids => 56
+
+Row data [56]
+rowId => 56
+parentCompId => 11
+id => log-2012-09-04 15:11:16-system
+thaiName => ฮายวา
+englishName => Haiiwa
+description => 
+type => loginCompany
+code => haiiwa
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-04
+validUntil => 
+owner => system
+createDate => 2012-09-04 15:11:16
+editor => 
+editDate => 
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 
+!nativeeditor_status => updated
+
+UPDATE logincompany SET `id`='log-2012-09-04 15:11:16-system',`thaiName`='ฮายวา',`englishName`='Haiiwa',`description`='',`type`='loginCompany',`code`='haiiwa',`warehouse`='',`site`='',`location`='',`startDate`='2012-09-04',`validUntil`='',`owner`='system',`createDate`='2012-09-04 15:11:16',`editor`='',`editDate`='',`revision`='',`loginCompany`='system',`loginUser`='system',`loginLevel`='',`parentCompId`='11' WHERE `rowId`='56'
+
+Edit operation finished
+0 => action:updated; sid:56; tid:56;
+
+Done in 0.0277988910675s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:20
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.210595846176s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:32
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.136798858643s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:21
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.147382974625s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:55
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.614977121353s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:21
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.173124074936s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:37
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.177109956741s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:15
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.23605298996s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:59
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.157645940781s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:17
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.255970001221s
+
+
+
+====================================
+Log started, 04/09/2012 04:09:22
+====================================
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '0'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '11'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '44'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '48'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '45'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '46'
+
+SELECT  * FROM logincompany WHERE `parentCompId` = '56'
+
+Done in 0.136357784271s
+
+
+
+====================================
+Log started, 04/09/2012 05:09:06
+====================================
+
+DataProcessor object initialized
+56_gr_id => 56
+56_gr_pid => 11
+56_c0 => log-2012-09-04 15:11:16-system
+56_c1 => ฮายวา
+56_c2 => Haiiwa
+56_c3 => 
+56_c4 => loginCompany
+56_c5 => haiiwa
+56_c6 => 
+56_c7 => 
+56_c8 => 
+56_c9 => 2012-09-04
+56_c10 => 0000-00-00
+56_c11 => system
+56_c12 => 2012-09-04 15:11:16
+56_c13 => 
+56_c14 => 0000-00-00
+56_c15 => 
+56_c16 => system
+56_c17 => system
+56_c18 => 0
+56_!nativeeditor_status => deleted
+ids => 56
+
+Row data [56]
+rowId => 56
+parentCompId => 11
+id => log-2012-09-04 15:11:16-system
+thaiName => ฮายวา
+englishName => Haiiwa
+description => 
+type => loginCompany
+code => haiiwa
+warehouse => 
+site => 
+location => 
+startDate => 2012-09-04
+validUntil => 0000-00-00
+owner => system
+createDate => 2012-09-04 15:11:16
+editor => 
+editDate => 0000-00-00
+revision => 
+loginCompany => system
+loginUser => system
+loginLevel => 0
+!nativeeditor_status => deleted
+
+DELETE FROM logincompany WHERE `rowId`='56'
+
+Edit operation finished
+0 => action:deleted; sid:56; tid:56;
+
+Done in 0.389094114304s
+

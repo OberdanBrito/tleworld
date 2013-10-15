@@ -1,0 +1,817 @@
+
+
+====================================
+Log started, 05/11/2012 01:11:40
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='')
+
+Done in 0.00163388252258s
+
+
+
+====================================
+Log started, 05/11/2012 01:11:03
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00229287147522s
+
+
+
+====================================
+Log started, 05/11/2012 01:11:23
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00266885757446s
+
+
+
+====================================
+Log started, 05/11/2012 01:11:28
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00163602828979s
+
+
+
+====================================
+Log started, 05/11/2012 01:11:39
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00239491462708s
+
+
+
+====================================
+Log started, 05/11/2012 01:11:49
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00180912017822s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:03
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00295901298523s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:39
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.0021071434021s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:42
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00206398963928s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:01
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00294518470764s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:23
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00210309028625s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:29
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00209999084473s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:02
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00224089622498s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:56
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00315999984741s
+
+
+
+====================================
+Log started, 05/11/2012 02:11:48
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  langauge at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00305700302124s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:10
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00265693664551s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:35
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00246596336365s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:47
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00194787979126s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:30
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00178408622742s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:32
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00165295600891s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:06
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00274205207825s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:58
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00192284584045s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:18
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00205087661743s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:20
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00199413299561s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:12
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.00181198120117s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:16
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index:  partnerxcompany_id at C:\AppServ\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.001788854599s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:34
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00143384933472s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:47
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00258088111877s
+
+
+
+====================================
+Log started, 05/11/2012 03:11:40
+====================================
+
+DataProcessor object initialized
+1352105868307_gr_id => 1352105868307
+1352105868307_c0 => usr-001-system
+1352105868307_c1 => log-007-system
+1352105868307_c2 => tle
+1352105868307_c3 => tle
+1352105868307_c4 => English
+1352105868307_c5 => 
+1352105868307_c6 => 
+1352105868307_c7 => 
+1352105868307_c8 => 
+1352105868307_c9 => system
+1352105868307_c10 => 
+1352105868307_c11 => 
+1352105868307_c12 => gootle_@hotmail.com
+1352105868307_c13 => 
+1352105868307_c14 => 
+1352105868307_c15 => 
+1352105868307_c16 => 
+1352105868307_c17 => 
+1352105868307_c18 => 
+1352105868307_c19 => 
+1352105868307_c20 => 
+1352105868307_c21 => 
+1352105868307_c22 => 
+1352105868307_c23 => 
+1352105868307_c24 => 
+1352105868307_c25 => 
+1352105868307_c26 => 
+1352105868307_c27 => 
+1352105868307_c28 => 
+1352105868307_!nativeeditor_status => inserted
+ids => 1352105868307
+
+Row data [1352105868307]
+rowId => 1352105868307
+id => usr-001-system
+companyId => log-007-system
+name => tle
+password => tle
+language => English
+currency => 
+thaiName => 
+englishName => 
+description => 
+company => system
+user_code => 
+user_group => 
+email => gootle_@hotmail.com
+pop3Password => 
+pop3 => 
+smtp => 
+www => 
+active => 
+startDate => 
+validUntil => 
+owner => 
+createDate => 
+editor => 
+editDate => 
+revision => 
+loginCompany => 
+loginUser => 
+loginLevel => 
+!nativeeditor_status => inserted
+
+INSERT INTO loginUser(`id`,`companyId`,`name`,`password`,`language`,`currency`,`thaiName`,`englishName`,`description`,`company`,`user_code`,`user_group`,`email`,`pop3Password`,`pop3`,`smtp`,`www`,`active`,`startDate`,`validUntil`,`owner`,`createDate`,`editor`,`editDate`,`revision`,`currency`,`loginCompany`,`loginUser`,`loginLevel`) VALUES ('usr-001-system','log-007-system','tle','tle','English','','','','','system','','','gootle_@hotmail.com','','','','','','','','','','','','','','','','')
+
+Edit operation finished
+0 => action:error; sid:1352105868307; tid:1352105868307;
+
+Done in 0.00202012062073s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:10
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.0014169216156s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:39
+====================================
+
+DataProcessor object initialized
+1352106132106_gr_id => 1352106132106
+1352106132106_c0 => usr-001-system
+1352106132106_c1 => log-007-system
+1352106132106_c2 => tle
+1352106132106_c3 => tle
+1352106132106_c4 => English
+1352106132106_c5 => 
+1352106132106_c6 => 
+1352106132106_c7 => 
+1352106132106_c8 => 
+1352106132106_c9 => system
+1352106132106_c10 => 
+1352106132106_c11 => 
+1352106132106_c12 => gootle_@hotmail.com
+1352106132106_c13 => 
+1352106132106_c14 => 
+1352106132106_c15 => 
+1352106132106_c16 => 
+1352106132106_c17 => 
+1352106132106_c18 => 
+1352106132106_c19 => 
+1352106132106_c20 => 
+1352106132106_c21 => 
+1352106132106_c22 => 
+1352106132106_c23 => 
+1352106132106_c24 => 
+1352106132106_c25 => 
+1352106132106_c26 => 
+1352106132106_c27 => 
+1352106132106_c28 => 
+1352106132106_!nativeeditor_status => inserted
+ids => 1352106132106
+
+Row data [1352106132106]
+rowId => 1352106132106
+id => usr-001-system
+companyId => log-007-system
+name => tle
+password => tle
+language => English
+currency => 
+thaiName => 
+englishName => 
+description => 
+company => system
+user_code => 
+user_group => 
+email => gootle_@hotmail.com
+pop3Password => 
+pop3 => 
+smtp => 
+www => 
+active => 
+startDate => 
+validUntil => 
+owner => 
+createDate => 
+editor => 
+editDate => 
+revision => 
+loginCompany => 
+loginUser => 
+loginLevel => 
+!nativeeditor_status => inserted
+
+INSERT INTO loginUser(`id`,`companyId`,`name`,`password`,`language`,`currency`,`thaiName`,`englishName`,`description`,`company`,`user_code`,`user_group`,`email`,`pop3Password`,`pop3`,`smtp`,`www`,`active`,`startDate`,`validUntil`,`owner`,`createDate`,`editor`,`editDate`,`revision`,`currency`,`loginCompany`,`loginUser`,`loginLevel`) VALUES ('usr-001-system','log-007-system','tle','tle','English','','','','','system','','','gootle_@hotmail.com','','','','','','','','','','','','','','','','')
+
+Edit operation finished
+0 => action:error; sid:1352106132106; tid:1352106132106;
+
+Done in 0.00223708152771s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:34
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00134801864624s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:02
+====================================
+
+DataProcessor object initialized
+1352106276385_gr_id => 1352106276385
+1352106276385_c0 => usr-001-system
+1352106276385_c1 => log-007-system
+1352106276385_c2 => tletle
+1352106276385_c3 => tletle
+1352106276385_c4 => 
+1352106276385_c5 => 
+1352106276385_c6 => 
+1352106276385_c7 => 
+1352106276385_c8 => 
+1352106276385_c9 => 
+1352106276385_c10 => 
+1352106276385_c11 => 
+1352106276385_c12 => 
+1352106276385_c13 => 
+1352106276385_c14 => 
+1352106276385_c15 => 
+1352106276385_c16 => 
+1352106276385_c17 => 
+1352106276385_c18 => 
+1352106276385_c19 => 
+1352106276385_c20 => 
+1352106276385_c21 => 
+1352106276385_c22 => 
+1352106276385_c23 => 
+1352106276385_c24 => 
+1352106276385_c25 => 
+1352106276385_c26 => 
+1352106276385_c27 => 
+1352106276385_c28 => 
+1352106276385_!nativeeditor_status => inserted
+ids => 1352106276385
+
+Row data [1352106276385]
+rowId => 1352106276385
+id => usr-001-system
+companyId => log-007-system
+name => tletle
+password => tletle
+language => 
+currency => 
+thaiName => 
+englishName => 
+description => 
+company => 
+user_code => 
+user_group => 
+email => 
+pop3Password => 
+pop3 => 
+smtp => 
+www => 
+active => 
+startDate => 
+validUntil => 
+owner => 
+createDate => 
+editor => 
+editDate => 
+revision => 
+loginCompany => 
+loginUser => 
+loginLevel => 
+!nativeeditor_status => inserted
+
+INSERT INTO loginUser(`id`,`companyId`,`name`,`password`,`language`,`currency`,`thaiName`,`englishName`,`description`,`company`,`user_code`,`user_group`,`email`,`pop3Password`,`pop3`,`smtp`,`www`,`active`,`startDate`,`validUntil`,`owner`,`createDate`,`editor`,`editDate`,`revision`,`currency`,`loginCompany`,`loginUser`,`loginLevel`) VALUES ('usr-001-system','log-007-system','tletle','tletle','','','','','','','','','','','','','','','','','','','','','','','','','')
+
+Edit operation finished
+0 => action:error; sid:1352106276385; tid:1352106276385;
+
+Done in 0.00209999084473s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:43
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.0014488697052s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:06
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00128889083862s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:28
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 05/11/2012 04:11:48
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00171279907227s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:14
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 05/11/2012 04:11:09
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00136709213257s
+
+
+
+====================================
+Log started, 05/11/2012 04:11:45
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 06/11/2012 12:11:37
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00143194198608s
+
+
+
+====================================
+Log started, 06/11/2012 12:11:37
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00136494636536s
+
+
+
+====================================
+Log started, 07/11/2012 12:11:09
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.0132420063019s
+
+
+
+====================================
+Log started, 08/11/2012 11:11:59
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.22305893898s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:40
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.0400819778442s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:43
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00130391120911s
+
+
+
+====================================
+Log started, 13/11/2012 01:11:33
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00180792808533s
+
+
+
+====================================
+Log started, 13/11/2012 03:11:31
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.00295686721802s
+
+
+
+====================================
+Log started, 14/11/2012 02:11:48
+====================================
+
+SELECT  * FROM loginUser WHERE ( companyId='log-007-system')
+
+Done in 0.0584371089935s
+

@@ -1,0 +1,163 @@
+
+
+====================================
+Log started, 06/12/2012 02:12:17
+====================================
+
+SELECT  * FROM partner WHERE ( company_id=log-007-system AND relType='customer')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'log' in 'where clause'
+
+
+
+====================================
+Log started, 06/12/2012 02:12:40
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00458097457886s
+
+
+
+====================================
+Log started, 06/12/2012 02:12:48
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00463819503784s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:15
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00459694862366s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:21
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00514817237854s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:32
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00507187843323s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:57
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00499486923218s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:29
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00508809089661s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:17
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00517106056213s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:45
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00581097602844s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:21
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00516605377197s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:03
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00550198554993s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:48
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00590300559998s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:17
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00544905662537s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:11
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00614094734192s
+
+
+
+====================================
+Log started, 06/12/2012 03:12:39
+====================================
+
+SELECT  * FROM partner WHERE ( company_id='log-007-system' AND relType='customer')
+
+Done in 0.00573086738586s
+

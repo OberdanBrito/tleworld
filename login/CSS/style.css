@@ -1,0 +1,91 @@
+body {
+    
+    
+    text-align: center;
+    margin: 0 auto;
+    background-image: url("../img/blue_gradient_background.jpg")
+    
+    
+/*    margin: 0px 0px;
+    padding: 0px 0px;*/
+  
+}
+
+#wrapper {
+    
+    width: 250px;
+    margin: 175px auto; 
+   
+    clear: both;
+    
+    
+}
+
+#login {
+    
+    width:100%;
+    
+/*    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -250px;*/
+
+/*    position: absolute;
+    width: 60%;
+    height: 40%;
+    left: 20%;
+    top: 30%;*/
+
+/*test commit*/
+    
+
+}
+
+.usern {
+    
+    background-image:url("../img/person_2.png");
+    background-repeat:no-repeat;
+    padding-left:21px;
+    
+    
+}
+
+.password {
+    
+    background-image:url("../img/security_242.png");
+    background-repeat:no-repeat;
+    padding-left:21px;
+}
+
+.usern, .password {
+    
+    border:1px solid #C2CFDF;
+    font-size: 8pt;
+    font-family: Tahoma;
+    color:gray;
+    height:19px;
+}
+
+#txtlogin {
+    font-family:tahoma;
+    font-size: 10pt;
+}
+
+
+
+
+#login {
+    
+    
+    width: 100%;
+}
+
+tlog {
+    width: 400px;
+    height: 400px
+}
+
+

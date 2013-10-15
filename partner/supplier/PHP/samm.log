@@ -1,0 +1,10 @@
+
+
+====================================
+Log started, 03/06/2013 10:06:36
+====================================
+
+SELECT  * FROM partnerdetail WHERE ( type = 'address' AND partnerId='per-1366697170598-system')
+
+Done in 0.072543144226074s
+

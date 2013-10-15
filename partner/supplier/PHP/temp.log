@@ -1,0 +1,3583 @@
+
+
+====================================
+Log started, 25/03/2013 04:03:39
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId=per-1361415542-system)
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'per' in 'where clause'
+
+
+
+====================================
+Log started, 25/03/2013 04:03:59
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.011974096298218s
+
+
+
+====================================
+Log started, 25/03/2013 05:03:42
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.013231039047241s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:02
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.06719708442688s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:36
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.31118297576904s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:56
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.077569961547852s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:01
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.056096076965332s
+
+
+
+====================================
+Log started, 26/03/2013 03:03:48
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.056790113449097s
+
+
+
+====================================
+Log started, 27/03/2013 09:03:32
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.038928985595703s
+
+
+
+====================================
+Log started, 27/03/2013 09:03:45
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 1.0130970478058s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:48
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.061721801757812s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:54
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.06057596206665s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:58
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.05986499786377s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:25
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.093307018280029s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:32
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.071850061416626s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:45
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.067476034164429s
+
+
+
+====================================
+Log started, 28/03/2013 09:03:16
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058851003646851s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:13
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.057256937026978s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:15
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.062790155410767s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:17
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='<?=$_REQUEST['getId'];?>')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getId'];?>')' at line 1
+
+
+
+====================================
+Log started, 28/03/2013 10:03:42
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.071678876876831s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:45
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.071316003799438s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:42
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.065393924713135s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:44
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.071152925491333s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:59
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.069149971008301s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:02
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.056678056716919s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:50
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.069731950759888s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:01
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.065741062164307s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:10
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.086721897125244s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:01
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058924913406372s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:04
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.075159072875977s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:27
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.067214012145996s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:41
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058577060699463s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:42
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.056478023529053s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:46
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.060197114944458s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:47
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.0589759349823s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:14
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058325052261353s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:21
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.057785987854004s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:29
+====================================
+
+SELECT  pd.id,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.066825866699219s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:25
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059964895248413s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:37
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.06822395324707s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:11
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.060153007507324s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:56
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059124946594238s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:58
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.064602851867676s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:06
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.061311960220337s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:06
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.06452488899231s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:33
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.067206144332886s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:41
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.095767021179199s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:48
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059380054473877s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:50
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.07596492767334s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:51
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.059025049209595s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:37
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059481143951416s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:27
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.068054914474487s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:29
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.068763971328735s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:30
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.07849907875061s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:39
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.33134484291077s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:54
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.061578035354614s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:56
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060220956802368s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:56
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.067553997039795s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:33
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.098201036453247s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:35
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.085315942764282s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:35
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.07285213470459s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:22
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.076741933822632s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:25
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.071175098419189s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:26
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.075930118560791s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:44
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.067729949951172s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:47
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.069482088088989s
+
+
+
+====================================
+Log started, 28/03/2013 10:03:48
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.065367937088013s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:35
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 3.4726328849792s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:33
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.082550048828125s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:35
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060903072357178s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:35
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.063667774200439s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:14
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.34284210205078s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:17
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.070299863815308s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:17
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.086218118667603s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:53
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.05804705619812s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:55
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.070780992507935s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:56
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.078356027603149s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:28
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.14232707023621s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:30
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.086494922637939s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:32
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: title at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: englishName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: englishLastName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: email at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: mobile at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: title at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: englishName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: englishLastName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: email at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: mobile at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.34059190750122s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:34
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.064072132110596s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:36
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.080277919769287s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:37
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: startDate at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: validUntil at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: externalId at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortOrder at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: createTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: editTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: startDate at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: validUntil at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: externalId at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortOrder at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: createTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: editTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.13629007339478s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:10
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.068785905838013s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:12
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060808897018433s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:12
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Undefined index: startDate at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: validUntil at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: externalId at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortOrder at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: createTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: editTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: startDate at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: validUntil at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: externalId at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortOrder at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: sortName at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: createTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: editTime at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: status at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Undefined index: revision at C:\wamp\www\erp2\DHX\dhtmlxConnector\codebase\grid_connector.php line 115
+
+Done in 0.099170207977295s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:44
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.075718879699707s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:46
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.068030118942261s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:47
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.064414978027344s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:57
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059530019760132s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:59
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.12370705604553s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:59
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.14653301239014s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:33
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.062438011169434s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:35
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.063737154006958s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:35
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.066996812820435s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:47
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.083380937576294s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:49
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.069659948348999s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:50
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.11058783531189s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:02
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.076213836669922s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:04
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.065926074981689s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:04
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.065360069274902s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:24
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.069001913070679s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:25
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.059003829956055s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:26
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058906078338623s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:13
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.060261964797974s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:14
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.061284065246582s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:15
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.062067031860352s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:26
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059785127639771s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:28
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.062447071075439s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:28
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.057227849960327s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:55
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.066371917724609s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:57
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.070608854293823s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:57
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.06837010383606s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:55
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.060987949371338s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:57
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.06099796295166s
+
+
+
+====================================
+Log started, 28/03/2013 11:03:58
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.057590961456299s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:04
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 28/03/2013 12:03:49
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.05602502822876s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:50
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.082820177078247s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:51
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.070199012756348s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:55
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 28/03/2013 12:03:12
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059354066848755s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:14
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.061479806900024s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:15
+====================================
+
+SELECT  * FROM partnerdetail AS pd WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.061401128768921s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:16
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 28/03/2013 12:03:47
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.078844785690308s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:49
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.068364858627319s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:49
+====================================
+
+SELECT  * FROM partnerdetail AS pd
+
+Done in 0.081088781356812s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:57
+====================================
+
+DataProcessor object initialized
+
+!!!Uncaught Exception
+Code: 0
+Message: Incorrect incoming data, ID of incoming records not recognized
+
+
+
+====================================
+Log started, 28/03/2013 12:03:26
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.071958065032959s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:28
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.087985992431641s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:29
+====================================
+
+SELECT  * FROM partnerdetail AS pd
+
+Done in 0.058929920196533s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:30
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364473950141-system
+950_c2 => per-1361415542-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 950
+id => psd-1364473950141-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail AS pd(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364473950141-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:950; tid:950;
+
+Done in 0.084376096725464s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:59
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.068623065948486s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:00
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.10832786560059s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:01
+====================================
+
+SELECT  * FROM partnerdetail AS pd
+
+Done in 0.081816911697388s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:05
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364473981909-system
+950_c2 => per-1361415542-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 950
+id => psd-1364473981909-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail AS pd(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364473981909-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:950; tid:950;
+
+Done in 0.066059112548828s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:52
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059107065200806s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:54
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.078282833099365s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:54
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.067248106002808s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:58
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364474035564-system
+950_c2 => per-1361415542-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 950
+id => psd-1364474035564-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364474035564-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:inserted; sid:950; tid:950;
+
+Done in 0.098355054855347s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:03
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.11413812637329s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:17
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.30724406242371s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:19
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.062448024749756s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:20
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.070989847183228s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:53
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.069450855255127s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:55
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.076045989990234s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:56
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.053975105285645s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:10
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.062853097915649s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:14
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.071041822433472s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:14
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.07792592048645s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:30
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.060108184814453s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:32
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.074266910552979s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:32
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.071542024612427s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:57
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.066632986068726s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:59
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.081977128982544s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:59
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.068167924880981s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:52
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.057139873504639s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:55
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.058809995651245s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:55
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.075360059738159s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:14
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059370994567871s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:15
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.11052799224854s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:16
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.066074132919312s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:42
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058830976486206s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:44
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.08024001121521s
+
+
+
+====================================
+Log started, 28/03/2013 12:03:45
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.078175067901611s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:19
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.079556226730347s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:19
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.08259391784668s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:13
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.077761173248291s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:14
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.06693696975708s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:50
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.065591096878052s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:52
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060905933380127s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:52
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.062150001525879s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:03
+====================================
+
+DataProcessor object initialized
+9501364477700331_gr_id => 9501364477700331
+9501364477700331_c0 => 950
+9501364477700331_c1 => psd-1364477700331-system
+9501364477700331_c2 => per-1361415542-system
+9501364477700331_c3 => contact
+9501364477700331_c4 => customer
+9501364477700331_c5 => per-1363341031-system
+9501364477700331_c6 => 
+9501364477700331_c7 => 
+9501364477700331_c8 => 
+9501364477700331_c9 => 
+9501364477700331_c10 => 
+9501364477700331_c11 => log-007-system
+9501364477700331_c12 => usr-020-system
+9501364477700331_c13 => 
+9501364477700331_c14 => usr-020-system
+9501364477700331_c15 => 
+9501364477700331_c16 => 1
+9501364477700331_c17 => 0
+9501364477700331_!nativeeditor_status => inserted
+ids => 9501364477700331
+
+Row data [9501364477700331]
+rowId => 950
+id => psd-1364477700331-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364477700331-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:9501364477700331; tid:9501364477700331;
+
+Done in 0.06866192817688s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:13
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059884071350098s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:34
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.10995292663574s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:36
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.094722986221313s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:36
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.085592031478882s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:41
+====================================
+
+DataProcessor object initialized
+9501364478338158_gr_id => 9501364478338158
+9501364478338158_c0 => 950
+9501364478338158_c1 => psd-1364478338158-system
+9501364478338158_c2 => per-1361415542-system
+9501364478338158_c3 => contact
+9501364478338158_c4 => customer
+9501364478338158_c5 => per-1363341031-system
+9501364478338158_c6 => 
+9501364478338158_c7 => 
+9501364478338158_c8 => 
+9501364478338158_c9 => 
+9501364478338158_c10 => 
+9501364478338158_c11 => log-007-system
+9501364478338158_c12 => usr-020-system
+9501364478338158_c13 => 
+9501364478338158_c14 => usr-020-system
+9501364478338158_c15 => 
+9501364478338158_c16 => 1
+9501364478338158_c17 => 0
+9501364478338158_!nativeeditor_status => inserted
+ids => 9501364478338158
+
+Row data [9501364478338158]
+rowId => 950
+id => psd-1364478338158-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364478338158-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:9501364478338158; tid:9501364478338158;
+
+Done in 0.1073579788208s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:00
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.2787230014801s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:07
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.8923659324646s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:11
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 2.4660329818726s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:15
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.1174840927124s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:22
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.19769692420959s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:22
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail
+
+Done in 0.11480283737183s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:31
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058992862701416s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:33
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.085370063781738s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:34
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId=per-1361415542-system AND type='contact')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'per' in 'where clause'
+
+
+
+====================================
+Log started, 28/03/2013 01:03:47
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.073000907897949s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:49
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.093530893325806s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:50
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.071702003479004s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:57
+====================================
+
+DataProcessor object initialized
+9501364478473318_gr_id => 9501364478473318
+9501364478473318_c0 => 950
+9501364478473318_c1 => psd-1364478473318-system
+9501364478473318_c2 => per-1361415542-system
+9501364478473318_c3 => contact
+9501364478473318_c4 => customer
+9501364478473318_c5 => per-1363341031-system
+9501364478473318_c6 => 
+9501364478473318_c7 => 
+9501364478473318_c8 => 
+9501364478473318_c9 => 
+9501364478473318_c10 => 
+9501364478473318_c11 => log-007-system
+9501364478473318_c12 => usr-020-system
+9501364478473318_c13 => 
+9501364478473318_c14 => usr-020-system
+9501364478473318_c15 => 
+9501364478473318_c16 => 1
+9501364478473318_c17 => 0
+9501364478473318_!nativeeditor_status => inserted
+ids => 9501364478473318
+
+Row data [9501364478473318]
+rowId => 950
+id => psd-1364478473318-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364478473318-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:9501364478473318; tid:9501364478473318;
+
+Done in 0.077087879180908s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:57
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058552980422974s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:00
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.081946849822998s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:02
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.065661907196045s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:02
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.07441782951355s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:38
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.066534042358398s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:40
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.10225415229797s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:41
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.075014114379883s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:50
+====================================
+
+DataProcessor object initialized
+903_gr_id => 903
+903_c0 => 903
+903_c1 => psd-1364478588234-system
+903_c2 => per-1361415542-system
+903_c3 => contact
+903_c4 => customer
+903_c5 => per-1363341030-system
+903_c6 => 
+903_c7 => 
+903_c8 => 
+903_c9 => 
+903_c10 => 
+903_c11 => log-007-system
+903_c12 => usr-020-system
+903_c13 => 
+903_c14 => usr-020-system
+903_c15 => 
+903_c16 => 1
+903_c17 => 0
+903_!nativeeditor_status => inserted
+9501364478586499_gr_id => 9501364478586499
+9501364478586499_c0 => 950
+9501364478586499_c1 => psd-1364478586499-system
+9501364478586499_c2 => per-1361415542-system
+9501364478586499_c3 => contact
+9501364478586499_c4 => customer
+9501364478586499_c5 => per-1363341031-system
+9501364478586499_c6 => 
+9501364478586499_c7 => 
+9501364478586499_c8 => 
+9501364478586499_c9 => 
+9501364478586499_c10 => 
+9501364478586499_c11 => log-007-system
+9501364478586499_c12 => usr-020-system
+9501364478586499_c13 => 
+9501364478586499_c14 => usr-020-system
+9501364478586499_c15 => 
+9501364478586499_c16 => 1
+9501364478586499_c17 => 0
+9501364478586499_!nativeeditor_status => inserted
+ids => 903,9501364478586499
+
+Row data [903]
+rowId => 903
+id => psd-1364478588234-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341030-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('903','psd-1364478588234-system','per-1361415542-system','contact','customer','per-1363341030-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Row data [9501364478586499]
+rowId => 950
+id => psd-1364478586499-system
+partnerId => per-1361415542-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364478586499-system','per-1361415542-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:inserted; sid:903; tid:903;
+1 => action:error; sid:9501364478586499; tid:9501364478586499;
+
+Done in 0.13406085968018s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:51
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.063176870346069s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:50
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.40232515335083s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:30
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.065580129623413s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:32
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.061386108398438s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:33
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.064400911331177s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:48
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.090001106262207s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:50
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.057169914245605s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:50
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.30565118789673s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:05
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.072109937667847s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:09
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060540914535522s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:09
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.060142993927002s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:27
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.059725046157837s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:29
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.059794902801514s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:29
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.063159942626953s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:56
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.060441970825195s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:58
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060771942138672s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:58
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.32394695281982s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:23
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.057692050933838s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:24
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.062108993530273s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:25
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.059287071228027s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:57
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.061037063598633s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:01
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.058098077774048s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:03
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060168027877808s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:03
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361415542-system' AND type='contact')
+
+Done in 0.066277980804443s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:08
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361415542-system')
+
+Done in 0.33653402328491s
+
+
+
+====================================
+Log started, 28/03/2013 01:03:51
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.11101818084717s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:43
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.070643186569214s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:05
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.068944931030273s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:41
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.084885120391846s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:57
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.075648069381714s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:40
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.055821895599365s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:42
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.063681840896606s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:43
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.077380895614624s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:48
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364479784220-system
+950_c2 => per-1361470955-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 950
+id => psd-1364479784220-system
+partnerId => per-1361470955-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364479784220-system','per-1361470955-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:950; tid:950;
+
+Done in 0.063647031784058s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:49
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.083866119384766s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:54
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.059239149093628s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:56
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.066210031509399s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:56
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.061126947402954s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:53
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.07040810585022s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:24
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.068140029907227s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:24
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.068575859069824s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:30
+====================================
+
+DataProcessor object initialized
+903_gr_id => 903
+903_c0 => 903
+903_c1 => psd-1364481507302-system
+903_c2 => per-1361470955-system
+903_c3 => contact
+903_c4 => customer
+903_c5 => per-1363341030-system
+903_c6 => 
+903_c7 => 
+903_c8 => 
+903_c9 => 
+903_c10 => 
+903_c11 => log-007-system
+903_c12 => usr-020-system
+903_c13 => 
+903_c14 => usr-020-system
+903_c15 => 
+903_c16 => 1
+903_c17 => 0
+903_!nativeeditor_status => inserted
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364481506014-system
+950_c2 => per-1361470955-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 903,950
+
+Row data [903]
+rowId => 903
+id => psd-1364481507302-system
+partnerId => per-1361470955-system
+type => contact
+category => customer
+value => per-1363341030-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('903','psd-1364481507302-system','per-1361470955-system','contact','customer','per-1363341030-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Row data [950]
+rowId => 950
+id => psd-1364481506014-system
+partnerId => per-1361470955-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364481506014-system','per-1361470955-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:inserted; sid:903; tid:903;
+1 => action:error; sid:950; tid:950;
+
+Done in 0.28755402565002s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:31
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.060647010803223s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:40
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.075440168380737s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:42
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.068448781967163s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:43
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.075793981552124s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:46
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364481524292-system
+950_c2 => per-1361470955-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 950
+id => psd-1364481524292-system
+partnerId => per-1361470955-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364481524292-system','per-1361470955-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:950; tid:950;
+
+Done in 0.072746992111206s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:10
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.069201946258545s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:12
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060886144638062s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:13
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.071971893310547s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:17
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 950
+950_c1 => psd-1364481554462-system
+950_c2 => per-1361470955-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 950
+id => psd-1364481554462-system
+partnerId => per-1361470955-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('950','psd-1364481554462-system','per-1361470955-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:error; sid:950; tid:950;
+
+Done in 0.073052167892456s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:52
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.063508033752441s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:54
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060931921005249s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:54
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.06287693977356s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:58
+====================================
+
+DataProcessor object initialized
+950_gr_id => 950
+950_c0 => 
+950_c1 => psd-1364481595421-system
+950_c2 => per-1361470955-system
+950_c3 => contact
+950_c4 => customer
+950_c5 => per-1363341031-system
+950_c6 => 
+950_c7 => 
+950_c8 => 
+950_c9 => 
+950_c10 => 
+950_c11 => log-007-system
+950_c12 => usr-020-system
+950_c13 => 
+950_c14 => usr-020-system
+950_c15 => 
+950_c16 => 1
+950_c17 => 0
+950_!nativeeditor_status => inserted
+ids => 950
+
+Row data [950]
+rowId => 
+id => psd-1364481595421-system
+partnerId => per-1361470955-system
+type => contact
+category => customer
+value => per-1363341031-system
+startDate => 
+validUntil => 
+externalId => 
+sortOrder => 
+sortName => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createTime => 
+editor => usr-020-system
+editTime => 
+status => 1
+revision => 0
+!nativeeditor_status => inserted
+
+INSERT INTO partnerdetail(`rowId`,`id`,`partnerId`,`type`,`category`,`value`,`startDate`,`validUntil`,`externalId`,`sortOrder`,`sortName`,`loginCompanyId`,`loginUserId`,`createTime`,`editor`,`editTime`,`status`,`revision`) VALUES ('','psd-1364481595421-system','per-1361470955-system','contact','customer','per-1363341031-system','','','','','','log-007-system','usr-020-system','','usr-020-system','','1','0')
+
+Edit operation finished
+0 => action:inserted; sid:950; tid:951;
+
+Done in 0.078363180160522s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:23
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.063314914703369s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:11
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.069890975952148s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:18
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.068603992462158s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:07
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.060172080993652s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:40
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.067852020263672s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:00
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.06476092338562s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:51
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.062816143035889s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:48
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.16226887702942s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:27
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.08698296546936s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:35
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.18505501747131s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:13
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.22464609146118s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:18
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.20230197906494s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:09
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.056535959243774s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:18
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.060816049575806s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:18
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.060876131057739s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:31
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.06610894203186s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:35
+====================================
+
+SELECT  * FROM partner WHERE ( relType='customer' AND personType='contact')
+
+Done in 0.066014051437378s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:35
+====================================
+
+SELECT  rowId,id,partnerId,type,category,value,startDate,validUntil,externalId,sortOrder,sortName,loginCompanyId,loginUserId,createTime,editor,editTime,status,revision FROM partnerdetail WHERE ( partnerId='per-1361470955-system' AND type='contact')
+
+Done in 0.061186075210571s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:38
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.065652132034302s
+
+
+
+====================================
+Log started, 28/03/2013 02:03:56
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.067960977554321s
+
+
+
+====================================
+Log started, 28/03/2013 03:03:57
+====================================
+
+SELECT  pd.rowId,pd.id,pd.partnerId,pd.type,pd.category,pd.value,pd.loginCompanyId,pd.loginUserId,pd.editor,p.title,p.englishName,p.englishLastName,p.email,p.fax,p.mobile FROM partnerdetail AS pd INNER JOIN partner AS p ON pd.value = p.id WHERE ( partnerId='per-1361470955-system')
+
+Done in 0.36449217796326s
+

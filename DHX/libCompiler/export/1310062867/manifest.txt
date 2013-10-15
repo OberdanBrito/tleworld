@@ -1,0 +1,11 @@
+Skin: dhx_skyblue
+
+======== JS CODE =========
+./dhtmlxcommon.js
+../dhtmlxAccordion/codebase/dhtmlxaccordion.js
+./dhtmlxcontainer.js
+../dhtmlxDataProcessor/codebase/dhtmlxdataprocessor.js
+./datastore.js
+
+======== CSS CODE ========
+../dhtmlxAccordion/codebase/skins/dhtmlxaccordion_dhx_skyblue.css

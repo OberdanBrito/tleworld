@@ -1,0 +1,666 @@
+
+
+====================================
+Log started, 27/09/2013 05:09:36
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0032861232757568s
+
+
+
+====================================
+Log started, 27/09/2013 05:09:01
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0032398700714111s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:19
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0035190582275391s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:49
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.003410816192627s
+
+
+
+====================================
+Log started, 30/09/2013 10:09:52
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0225670337677s
+
+
+
+====================================
+Log started, 01/10/2013 07:10:54
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.011872053146362s
+
+
+
+====================================
+Log started, 01/10/2013 07:10:33
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0033371448516846s
+
+
+
+====================================
+Log started, 01/10/2013 07:10:37
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034420490264893s
+
+
+
+====================================
+Log started, 01/10/2013 07:10:11
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036849975585938s
+
+
+
+====================================
+Log started, 01/10/2013 07:10:26
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034441947937012s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:39
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.003324031829834s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:26
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0037429332733154s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:26
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0047299861907959s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:12
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0039060115814209s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:22
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034809112548828s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:59
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0041360855102539s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:42
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0038878917694092s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:29
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,currency,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unitAmount,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'currency' in 'field list'
+
+
+
+====================================
+Log started, 01/10/2013 08:10:34
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0038840770721436s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:03
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034449100494385s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:34
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034630298614502s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:42
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0041861534118652s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:05
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034217834472656s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:52
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0033948421478271s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:23
+====================================
+
+SELECT  checkbox,rowId,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.00372314453125s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:31
+====================================
+
+SELECT  checkbox,id,orderId,jobNumber,priceStrId,productStrId,cost,price,total,unitCost,quantity,unit,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,image,volume,unitVolume,weight,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId,parent,status FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+!!!Uncaught Exception
+Code: 0
+Message: MySQL operation failed
+Unknown column 'orderId' in 'field list'
+
+
+
+====================================
+Log started, 01/10/2013 08:10:55
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036301612854004s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:24
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0033650398254395s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:05
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0033648014068604s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:17
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0039999485015869s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:00
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0044360160827637s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:18
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0038070678710938s
+
+
+
+====================================
+Log started, 01/10/2013 08:10:19
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.003903865814209s
+
+
+
+====================================
+Log started, 01/10/2013 09:10:04
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.003464937210083s
+
+
+
+====================================
+Log started, 01/10/2013 09:10:18
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0042068958282471s
+
+
+
+====================================
+Log started, 01/10/2013 09:10:24
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034959316253662s
+
+
+
+====================================
+Log started, 01/10/2013 10:10:02
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034849643707275s
+
+
+
+====================================
+Log started, 03/10/2013 08:10:44
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0058050155639648s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:46
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Stool' AND class='Goods' AND type='Furniture')
+
+Done in 0.0030491352081299s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:53
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Chair' AND class='Goods' AND type='Furniture')
+
+Done in 0.027668952941895s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:04
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Stool' AND class='Goods' AND type='Furniture')
+
+Done in 0.0042791366577148s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:20
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0039918422698975s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:49
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0038609504699707s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:56
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Stool' AND class='Goods' AND type='Furniture')
+
+Done in 0.0039999485015869s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:59
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-000037-system' AND gGroup='Stool' AND class='Goods' AND type='Furniture')
+
+Done in 0.0035371780395508s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:22
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0076150894165039s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:51
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034859180450439s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:41
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036139488220215s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:27
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036039352416992s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:40
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0035009384155273s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:58
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0037131309509277s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:30
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034308433532715s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:19
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0035958290100098s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:34
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034501552581787s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:18
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036230087280273s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:31
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036900043487549s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:37
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036120414733887s
+
+
+
+====================================
+Log started, 09/10/2013 10:10:21
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.003633975982666s
+
+
+
+====================================
+Log started, 10/10/2013 08:10:55
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0094420909881592s
+
+
+
+====================================
+Log started, 10/10/2013 09:10:06
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0068960189819336s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:17
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0032470226287842s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:50
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0041191577911377s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:31
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034830570220947s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:45
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0036609172821045s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:48
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0040199756622314s
+
+
+
+====================================
+Log started, 10/10/2013 10:10:24
+====================================
+
+SELECT  checkbox,id,priceStrId,productStrId,cost,price0,inPrice,exPrice,unitCost,vatCode,vatValue,itemId,englishName,thaiName,code,customCode,description,style,barCode,class,type,gGroup,commission,discount,flag,image,volume,unitVolume,weight,unit,unitWeight,remark,loginUserId,loginCompanyId,editorId,editDate,createDate,startDate,validUntil,active,parentId FROM price WHERE ( priceStrId='pst-0001-system' AND gGroup='Component' AND class='Goods' AND type='Accessory')
+
+Done in 0.0034799575805664s
+

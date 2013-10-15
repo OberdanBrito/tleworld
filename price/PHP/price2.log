@@ -1,0 +1,600 @@
+
+
+====================================
+Log started, 04/06/2013 09:06:22
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.084658145904541s
+
+
+
+====================================
+Log started, 04/06/2013 09:06:58
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000021-system' GROUP BY class,type,gGroup
+
+Done in 0.0099899768829346s
+
+
+
+====================================
+Log started, 04/06/2013 09:06:03
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.011631011962891s
+
+
+
+====================================
+Log started, 04/06/2013 09:06:24
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.0071251392364502s
+
+
+
+====================================
+Log started, 18/06/2013 05:06:42
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.64356303215027s
+
+
+
+====================================
+Log started, 20/06/2013 06:06:49
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.020357847213745s
+
+
+
+====================================
+Log started, 20/06/2013 06:06:58
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.012674808502197s
+
+
+
+====================================
+Log started, 20/06/2013 06:06:39
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.013510227203369s
+
+
+
+====================================
+Log started, 20/06/2013 06:06:27
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000021-system' GROUP BY class,type,gGroup
+
+Done in 0.0071280002593994s
+
+
+
+====================================
+Log started, 20/06/2013 06:06:54
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.013142108917236s
+
+
+
+====================================
+Log started, 20/06/2013 06:06:41
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000021-system' GROUP BY class,type,gGroup
+
+Done in 0.0074789524078369s
+
+
+
+====================================
+Log started, 20/06/2013 07:06:54
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014541149139404s
+
+
+
+====================================
+Log started, 20/06/2013 07:06:21
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.016251802444458s
+
+
+
+====================================
+Log started, 20/06/2013 07:06:21
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.015944004058838s
+
+
+
+====================================
+Log started, 26/06/2013 09:06:51
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.068671941757202s
+
+
+
+====================================
+Log started, 26/06/2013 09:06:35
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.02147388458252s
+
+
+
+====================================
+Log started, 26/06/2013 09:06:02
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.022538900375366s
+
+
+
+====================================
+Log started, 26/06/2013 09:06:21
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.023871183395386s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:06
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.041038990020752s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:47
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.017271041870117s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:11
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.019484043121338s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:44
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.019068002700806s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:32
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.018337965011597s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:40
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.017160892486572s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:06
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.020617961883545s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:43
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.017460107803345s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:04
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.017661094665527s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:20
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.020632028579712s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:51
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.01656699180603s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:59
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.015785932540894s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:12
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.016337871551514s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:00
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.0154869556427s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:32
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.023842096328735s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:47
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014182806015015s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:58
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.0079541206359863s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:25
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000020-system' GROUP BY class,type,gGroup
+
+Done in 0.012637853622437s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:51
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.013453960418701s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:58
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.016685962677002s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:09
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.013621807098389s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:22
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014033079147339s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:41
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.010812044143677s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:46
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014583110809326s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:45
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.013799905776978s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:24
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.010622978210449s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:30
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.013673067092896s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:51
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.015226125717163s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:55
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014597177505493s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:05
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.0089209079742432s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:10
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014585971832275s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:52
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014384984970093s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:46
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.0087931156158447s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:51
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014518022537231s
+
+
+
+====================================
+Log started, 10/07/2013 08:07:01
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000017-system' GROUP BY class,type,gGroup
+
+Done in 0.0088400840759277s
+
+
+
+====================================
+Log started, 15/07/2013 07:07:38
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.18546414375305s
+
+
+
+====================================
+Log started, 15/07/2013 07:07:01
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.014305114746094s
+
+
+
+====================================
+Log started, 18/07/2013 06:07:19
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.044795036315918s
+
+
+
+====================================
+Log started, 18/07/2013 06:07:38
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-000037-system' GROUP BY class,type,gGroup
+
+Done in 0.0093629360198975s
+
+
+
+====================================
+Log started, 18/07/2013 06:07:49
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.016699075698853s
+
+
+
+====================================
+Log started, 18/07/2013 06:07:27
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.016923904418945s
+
+
+
+====================================
+Log started, 18/07/2013 06:07:17
+====================================
+
+SELECT  class,type,gGroup FROM price WHERE loginCompanyId='log-007-system' AND priceStrId='pst-0001-system' GROUP BY class,type,gGroup
+
+Done in 0.016396999359131s
+

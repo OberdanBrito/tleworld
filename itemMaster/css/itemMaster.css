@@ -1,0 +1,179 @@
+/* 
+    Document   : itemMaster
+    Created on : Sep 14, 2012, 1:24:51 AM
+    Author     : Pop
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#main{
+    width:1050px;
+    height:450px;
+}
+/*#holder ,#holder.leave{
+    font-size: 48px;
+    font-weight: bold;
+    height: 530px;
+    float: left;
+    text-align: center;
+    border-top-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    border: 10px dashed #ccc;
+    border-radius: 60px 40px;
+    border-width: 35px 5px;
+    width: 250px;
+    height: 150px;
+    margin: 25px 20px 20px 25px;
+}
+#holder.hover {
+    border-top-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    border: 10px dashed #0c0;
+    border-radius: 60px 40px;
+    border-width: 35px 5px;
+}*/
+
+/*-------------------- Block LEFT --------------------*/
+#left{
+    border: 3px dashed #000000;
+    margin:0px;
+    padding:0px;
+    background-color:#EEEEEE;
+    float: left;
+    height: 300px;
+    width: 150px;
+    margin: 30px 0 0 20px;
+}
+
+/*----- Select FILE -----*/
+/*-- Hide */
+input.realupload {
+    position:absolute;
+    /* start of transparency styles */
+    opacity:0;
+    -moz-opacity:0;
+    filter:alpha(opacity:0);
+    /* end of transparency styles */
+}
+/*-- Show replace default*/
+#folderSearch{
+    background:url(../image/folder-search-icon.png) 50% 50% no-repeat;
+    background-size:80px 80px;
+    width: 150px;
+    height: 150px;
+}
+
+/*----- BIN -----*/
+#bin,#bin.leave{
+    background:url(../image/bin/Recycle-Bin-Blue-empty-icon.png) 50% 50% no-repeat;
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+#bin.hover{
+    background-image:url(../image/bin/Recycle-Bin-Blue-full-icon.png);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+
+/*-------------------- Block CENTER --------------------*/
+#center{
+    border:1px solid #DDDDDD;
+    background-color: #EEEEEE;
+    margin: 30px 0 0 200px;
+    height: 450px;
+    width: 625px;
+}
+#filmStrip{
+    
+    /*border:1px solid #000;
+    margin-right:10px;
+    text-align:center;
+    vertical-align:middle;
+    padding-bottom:30px;
+
+    position: relative;
+*/
+    /* CSS HACK */
+        /*    height: 452px;
+            width:580px;*/
+    text-align:center;
+    margin:5px 0 0 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+/*-------------------- Block RIGHT --------------------*/
+#info,#info.leave {
+    background-color: #EEEEEE;
+    border: 1px solid #DDDDDD;
+    float: right;
+    font-weight: bold;
+    height: 440px;
+    width: 175px;
+    margin: 30px 0 0 950px;
+    padding: 5px;
+    display:block;
+    margin-right:10px;
+}
+#info.hover {
+    background-color: #bdf;
+}
+
+/*----- IMAGE -----*/
+img.image {
+    max-width: 150px;
+    max-height:130px;
+    cursor:pointer;
+    margin: 5px 5px 0 10px;
+    background: white;
+    border: 2px solid white;
+    -webkit-box-shadow: 0 3px 10px #ccc;
+    -moz-box-shadow: 0 3px 10px #ccc;
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 1s ease;
+    position: relative;
+}
+img.image:hover {
+    /* This works in IE 8 & 9 too */
+    filter:alpha(opacity=50);
+    /* Older than Firefox 0.9 */
+    -moz-opacity:0.5;
+    /* Safari 1.x (pre WebKit!) */
+    -khtml-opacity: 0.5;
+    /* Modern!
+    /* Firefox 0.9+, Safari 2?, Chrome any?
+    /* Opera 9+, IE 9+ */
+    opacity: 0.5;
+    -webkit-transform: rotate(-1deg); -moz-transform: rotate(-1deg);
+    -webkit-box-shadow: 0 3px 10px #666; -moz-box-shadow: 0 3px 10px #666;
+}
+/*img.image:focus {
+    outline: none;
+    -webkit-transform: rotate(-2deg) scale(3.5); -moz-transform: rotate(-2deg) scale(3.5);
+    -webkit-box-shadow: 0 3px 10px #666; -moz-box-shadow: 0 3px 10px #666;
+    z-index: 9999;
+}*/
+#img{display:block; }
+
+
+/*.box {
+    float: left;
+    width: 170px;
+    height: 170px;
+    display:block;
+    border: 5px solid white;
+}
+
+        *[draggable=true] {
+            -moz-user-select:none;
+            -khtml-user-drag: element;
+            cursor: move;
+        }
+        #img:hover:after {
+            content: ' (drag me)';
+        }*/
+

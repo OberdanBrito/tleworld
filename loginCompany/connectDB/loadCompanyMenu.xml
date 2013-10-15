@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="0">
+    <item text="Insert Company"  id="insertCom"  img='onebit_31.png'/>
+    <item text="Delete Company"  id="deleteCom"  img='onebit_33.png'/>
+    <item text="Create Admin" id="addAdmin" img='onebit_18.png'/>
+    <item id='file_sep_1' type='separator'/>
+    <item text='Expand All' id='expAll' img='onebit_28.png' imgdis='open_dis.gif'/>
+    <item text='Collapse All' id='colAll' img='onebit_30.png' imgdis='close_dis.gif'/>
+</menu>

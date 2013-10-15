@@ -1,0 +1,3763 @@
+
+
+====================================
+Log started, 30/04/2013 07:04:57
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.39916491508484s
+
+
+
+====================================
+Log started, 30/04/2013 07:04:27
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.1447491645813s
+
+
+
+====================================
+Log started, 30/04/2013 07:04:59
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.44616985321045s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:47
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15214681625366s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:28
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.14828896522522s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:05
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.14665508270264s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:56
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15029692649841s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:50
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15051007270813s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:49
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15685296058655s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:20
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.14709091186523s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:40
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16210389137268s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:55
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15228319168091s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:08
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15128111839294s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:44
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16135215759277s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:03
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15160512924194s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:54
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15250110626221s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:22
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15343284606934s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:37
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15535497665405s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:52
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15138101577759s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:14
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16410899162292s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:22
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15279197692871s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:48
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.19026494026184s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:02
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16059899330139s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:36
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15405011177063s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:53
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15583896636963s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:36
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15783405303955s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:55
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15197610855103s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:17
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15436005592346s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:38
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15451288223267s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:18
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15541100502014s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:48
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15707802772522s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:10
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.15221381187439s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:55
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.18198084831238s
+
+
+
+====================================
+Log started, 30/04/2013 09:04:35
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16166806221008s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:06
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16024112701416s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:16
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.17082095146179s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:55
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16530799865723s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:41
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16292095184326s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:01
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16578483581543s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:58
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16119313240051s
+
+
+
+====================================
+Log started, 30/04/2013 10:04:20
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.16637206077576s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:11
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.21534299850464s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:58
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.22497010231018s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:10
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.1817901134491s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:44
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.22970104217529s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:14
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.25709795951843s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:19
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.26364898681641s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:34
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.23987412452698s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:44
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.18488597869873s
+
+
+
+====================================
+Log started, 01/05/2013 08:05:20
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.19814705848694s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:27
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.049123048782349s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:58
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.057435035705566s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:09
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.061509132385254s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:16
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.099269866943359s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:35
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.05413293838501s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:52
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.056994199752808s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:36
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.063208103179932s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:47
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.050699949264526s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:01
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.055592060089111s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:44
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.057891845703125s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:17
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.056938171386719s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:43
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.050918102264404s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:37
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.055423021316528s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:05
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.054363012313843s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:04
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.045715093612671s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:16
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.049141883850098s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:01
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.045148134231567s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:25
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.050812005996704s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:23
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.04465389251709s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:13
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.045217990875244s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:53
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.049519062042236s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:35
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+Done in 0.046334981918335s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:58
+====================================
+
+DataProcessor object initialized
+1367399977888_gr_id => 1367399977888
+1367399977888_gr_pid => 0
+1367399977888_c0 => war-1367399977888-system
+1367399977888_c1 => Factory A
+1367399977888_c2 => warehouse
+1367399977888_c3 => 
+1367399977888_c4 => 
+1367399977888_c5 => 
+1367399977888_c6 => 
+1367399977888_c7 => 
+1367399977888_c8 => 
+1367399977888_c9 => log-007-system
+1367399977888_c10 => usr-020-system
+1367399977888_c11 => 
+1367399977888_!nativeeditor_status => inserted
+1367399977889_gr_id => 1367399977889
+1367399977889_gr_pid => 0
+1367399977889_c0 => war-1367399986303-system
+1367399977889_c1 => Factory B
+1367399977889_c2 => warehouse
+1367399977889_c3 => 
+1367399977889_c4 => 
+1367399977889_c5 => 
+1367399977889_c6 => 
+1367399977889_c7 => 
+1367399977889_c8 => 
+1367399977889_c9 => log-007-system
+1367399977889_c10 => usr-020-system
+1367399977889_c11 => 
+1367399977889_!nativeeditor_status => inserted
+1367399977890_gr_id => 1367399977890
+1367399977890_gr_pid => 1367399977889
+1367399977890_c0 => war-1367399992664-system
+1367399977890_c1 => B4
+1367399977890_c2 => site
+1367399977890_c3 => 
+1367399977890_c4 => 
+1367399977890_c5 => 
+1367399977890_c6 => 
+1367399977890_c7 => 
+1367399977890_c8 => 
+1367399977890_c9 => log-007-system
+1367399977890_c10 => usr-020-system
+1367399977890_c11 => 
+1367399977890_!nativeeditor_status => inserted
+ids => 1367399977888,1367399977889,1367399977890
+
+Row data [1367399977888]
+rowId => 1367399977888
+parentId => 0
+id => war-1367399977888-system
+name => Factory A
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367399977888-system','Factory A','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367399977889]
+rowId => 1367399977889
+parentId => 0
+id => war-1367399986303-system
+name => Factory B
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367399986303-system','Factory B','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367399977890]
+rowId => 1367399977890
+parentId => 1367399977889
+id => war-1367399992664-system
+name => B4
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 2
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367399992664-system','B4','site','','','','','','','log-007-system','usr-020-system','','2')
+
+Edit operation finished
+0 => action:inserted; sid:1367399977888; tid:1;
+1 => action:inserted; sid:1367399977889; tid:2;
+2 => action:inserted; sid:1367399977890; tid:3;
+
+Done in 0.15523195266724s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:01
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '2'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '3'
+
+Done in 0.17151808738708s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:26
+====================================
+
+DataProcessor object initialized
+2_gr_id => 2
+2_gr_pid => 0
+2_c0 => war-1367399986303-system
+2_c1 => Factory B
+2_c2 => warehouse
+2_c3 => 
+2_c4 => 0
+2_c5 => 0
+2_c6 => 0
+2_c7 => 0
+2_c8 => 
+2_c9 => log-007-system
+2_c10 => usr-020-system
+2_c11 => 0000-00-00 00:00:00
+2_!nativeeditor_status => deleted
+ids => 2
+
+Row data [2]
+rowId => 2
+parentId => 0
+id => war-1367399986303-system
+name => Factory B
+type => warehouse
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='2' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:2; tid:2;
+
+Done in 0.051842927932739s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:35
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.084348201751709s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:16
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.08183479309082s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:36
+====================================
+
+DataProcessor object initialized
+1367400139367_gr_id => 1367400139367
+1367400139367_gr_pid => 0
+1367400139367_c0 => war-1367400139367-system
+1367400139367_c1 => 
+1367400139367_c2 => warehouse
+1367400139367_c3 => 
+1367400139367_c4 => 
+1367400139367_c5 => 
+1367400139367_c6 => 
+1367400139367_c7 => 
+1367400139367_c8 => 
+1367400139367_c9 => log-007-system
+1367400139367_c10 => usr-020-system
+1367400139367_c11 => 
+1367400139367_!nativeeditor_status => inserted
+1367400139368_gr_id => 1367400139368
+1367400139368_gr_pid => 1367400139367
+1367400139368_c0 => war-1367400141263-system
+1367400139368_c1 => 
+1367400139368_c2 => site
+1367400139368_c3 => 
+1367400139368_c4 => 
+1367400139368_c5 => 
+1367400139368_c6 => 
+1367400139368_c7 => 
+1367400139368_c8 => 
+1367400139368_c9 => log-007-system
+1367400139368_c10 => usr-020-system
+1367400139368_c11 => 
+1367400139368_!nativeeditor_status => inserted
+1367400139369_gr_id => 1367400139369
+1367400139369_gr_pid => 1367400139367
+1367400139369_c0 => war-1367400143006-system
+1367400139369_c1 => 
+1367400139369_c2 => site
+1367400139369_c3 => 
+1367400139369_c4 => 
+1367400139369_c5 => 
+1367400139369_c6 => 
+1367400139369_c7 => 
+1367400139369_c8 => 
+1367400139369_c9 => log-007-system
+1367400139369_c10 => usr-020-system
+1367400139369_c11 => 
+1367400139369_!nativeeditor_status => inserted
+1367400139370_gr_id => 1367400139370
+1367400139370_gr_pid => 1367400139368
+1367400139370_c0 => war-1367400144638-system
+1367400139370_c1 => 
+1367400139370_c2 => location
+1367400139370_c3 => 
+1367400139370_c4 => 
+1367400139370_c5 => 
+1367400139370_c6 => 
+1367400139370_c7 => 
+1367400139370_c8 => 
+1367400139370_c9 => log-007-system
+1367400139370_c10 => usr-020-system
+1367400139370_c11 => 
+1367400139370_!nativeeditor_status => inserted
+1367400139371_gr_id => 1367400139371
+1367400139371_gr_pid => 1367400139368
+1367400139371_c0 => war-1367400146487-system
+1367400139371_c1 => 
+1367400139371_c2 => location
+1367400139371_c3 => 
+1367400139371_c4 => 
+1367400139371_c5 => 
+1367400139371_c6 => 
+1367400139371_c7 => 
+1367400139371_c8 => 
+1367400139371_c9 => log-007-system
+1367400139371_c10 => usr-020-system
+1367400139371_c11 => 
+1367400139371_!nativeeditor_status => inserted
+1367400139372_gr_id => 1367400139372
+1367400139372_gr_pid => 1367400139368
+1367400139372_c0 => war-1367400148079-system
+1367400139372_c1 => 
+1367400139372_c2 => location
+1367400139372_c3 => 
+1367400139372_c4 => 
+1367400139372_c5 => 
+1367400139372_c6 => 
+1367400139372_c7 => 
+1367400139372_c8 => 
+1367400139372_c9 => log-007-system
+1367400139372_c10 => usr-020-system
+1367400139372_c11 => 
+1367400139372_!nativeeditor_status => inserted
+1367400139373_gr_id => 1367400139373
+1367400139373_gr_pid => 1367400139369
+1367400139373_c0 => war-1367400149702-system
+1367400139373_c1 => 
+1367400139373_c2 => location
+1367400139373_c3 => 
+1367400139373_c4 => 
+1367400139373_c5 => 
+1367400139373_c6 => 
+1367400139373_c7 => 
+1367400139373_c8 => 
+1367400139373_c9 => log-007-system
+1367400139373_c10 => usr-020-system
+1367400139373_c11 => 
+1367400139373_!nativeeditor_status => inserted
+1367400139374_gr_id => 1367400139374
+1367400139374_gr_pid => 1367400139369
+1367400139374_c0 => war-1367400151542-system
+1367400139374_c1 => 
+1367400139374_c2 => location
+1367400139374_c3 => 
+1367400139374_c4 => 
+1367400139374_c5 => 
+1367400139374_c6 => 
+1367400139374_c7 => 
+1367400139374_c8 => 
+1367400139374_c9 => log-007-system
+1367400139374_c10 => usr-020-system
+1367400139374_c11 => 
+1367400139374_!nativeeditor_status => inserted
+1367400139375_gr_id => 1367400139375
+1367400139375_gr_pid => 1367400139367
+1367400139375_c0 => war-1367400153158-system
+1367400139375_c1 => 
+1367400139375_c2 => site
+1367400139375_c3 => 
+1367400139375_c4 => 
+1367400139375_c5 => 
+1367400139375_c6 => 
+1367400139375_c7 => 
+1367400139375_c8 => 
+1367400139375_c9 => log-007-system
+1367400139375_c10 => usr-020-system
+1367400139375_c11 => 
+1367400139375_!nativeeditor_status => inserted
+ids => 1367400139367,1367400139368,1367400139369,1367400139370,1367400139371,1367400139372,1367400139373,1367400139374,1367400139375
+
+Row data [1367400139367]
+rowId => 1367400139367
+parentId => 0
+id => war-1367400139367-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400139367-system','','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367400139368]
+rowId => 1367400139368
+parentId => 1367400139367
+id => war-1367400141263-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 4
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400141263-system','','site','','','','','','','log-007-system','usr-020-system','','4')
+
+Row data [1367400139369]
+rowId => 1367400139369
+parentId => 1367400139367
+id => war-1367400143006-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 4
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400143006-system','','site','','','','','','','log-007-system','usr-020-system','','4')
+
+Row data [1367400139370]
+rowId => 1367400139370
+parentId => 1367400139368
+id => war-1367400144638-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 5
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400144638-system','','location','','','','','','','log-007-system','usr-020-system','','5')
+
+Row data [1367400139371]
+rowId => 1367400139371
+parentId => 1367400139368
+id => war-1367400146487-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 5
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400146487-system','','location','','','','','','','log-007-system','usr-020-system','','5')
+
+Row data [1367400139372]
+rowId => 1367400139372
+parentId => 1367400139368
+id => war-1367400148079-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 5
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400148079-system','','location','','','','','','','log-007-system','usr-020-system','','5')
+
+Row data [1367400139373]
+rowId => 1367400139373
+parentId => 1367400139369
+id => war-1367400149702-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 6
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400149702-system','','location','','','','','','','log-007-system','usr-020-system','','6')
+
+Row data [1367400139374]
+rowId => 1367400139374
+parentId => 1367400139369
+id => war-1367400151542-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 6
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400151542-system','','location','','','','','','','log-007-system','usr-020-system','','6')
+
+Row data [1367400139375]
+rowId => 1367400139375
+parentId => 1367400139367
+id => war-1367400153158-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 4
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400153158-system','','site','','','','','','','log-007-system','usr-020-system','','4')
+
+Edit operation finished
+0 => action:inserted; sid:1367400139367; tid:4;
+1 => action:inserted; sid:1367400139368; tid:5;
+2 => action:inserted; sid:1367400139369; tid:6;
+3 => action:inserted; sid:1367400139370; tid:7;
+4 => action:inserted; sid:1367400139371; tid:8;
+5 => action:inserted; sid:1367400139372; tid:9;
+6 => action:inserted; sid:1367400139373; tid:10;
+7 => action:inserted; sid:1367400139374; tid:11;
+8 => action:inserted; sid:1367400139375; tid:12;
+
+Done in 0.43079304695129s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:55
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '4'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '5'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '7'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '8'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '9'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '6'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '10'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '11'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '12'
+
+Done in 0.46780705451965s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:02
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '4'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '5'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '7'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '8'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '9'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '6'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '10'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '11'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '12'
+
+Done in 0.57141900062561s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:22
+====================================
+
+DataProcessor object initialized
+4_gr_id => 4
+4_gr_pid => 0
+4_c0 => war-1367400139367-system
+4_c1 => 
+4_c2 => warehouse
+4_c3 => 
+4_c4 => 0
+4_c5 => 0
+4_c6 => 0
+4_c7 => 0
+4_c8 => 
+4_c9 => log-007-system
+4_c10 => usr-020-system
+4_c11 => 0000-00-00 00:00:00
+4_!nativeeditor_status => deleted
+ids => 4
+
+Row data [4]
+rowId => 4
+parentId => 0
+id => war-1367400139367-system
+name => 
+type => warehouse
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='4' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:4; tid:4;
+
+Done in 0.052299976348877s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:35
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.082987070083618s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:03
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.083072900772095s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:55
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.08768892288208s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:33
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.093419075012207s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:30
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.091274976730347s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:37
+====================================
+
+DataProcessor object initialized
+1367400572484_gr_id => 1367400572484
+1367400572484_gr_pid => 0
+1367400572484_c0 => war-1367400572484-system
+1367400572484_c1 => 
+1367400572484_c2 => warehouse
+1367400572484_c3 => 
+1367400572484_c4 => 
+1367400572484_c5 => 
+1367400572484_c6 => 
+1367400572484_c7 => 
+1367400572484_c8 => 
+1367400572484_c9 => log-007-system
+1367400572484_c10 => usr-020-system
+1367400572484_c11 => 
+1367400572484_!nativeeditor_status => inserted
+1367400572485_gr_id => 1367400572485
+1367400572485_gr_pid => 1367400572484
+1367400572485_c0 => war-1367400573652-system
+1367400572485_c1 => 
+1367400572485_c2 => site
+1367400572485_c3 => 
+1367400572485_c4 => 
+1367400572485_c5 => 
+1367400572485_c6 => 
+1367400572485_c7 => 
+1367400572485_c8 => 
+1367400572485_c9 => log-007-system
+1367400572485_c10 => usr-020-system
+1367400572485_c11 => 
+1367400572485_!nativeeditor_status => inserted
+1367400572486_gr_id => 1367400572486
+1367400572486_gr_pid => 1367400572484
+1367400572486_c0 => war-1367400575179-system
+1367400572486_c1 => 
+1367400572486_c2 => site
+1367400572486_c3 => 
+1367400572486_c4 => 
+1367400572486_c5 => 
+1367400572486_c6 => 
+1367400572486_c7 => 
+1367400572486_c8 => 
+1367400572486_c9 => log-007-system
+1367400572486_c10 => usr-020-system
+1367400572486_c11 => 
+1367400572486_!nativeeditor_status => inserted
+ids => 1367400572484,1367400572485,1367400572486
+
+Row data [1367400572484]
+rowId => 1367400572484
+parentId => 0
+id => war-1367400572484-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400572484-system','','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367400572485]
+rowId => 1367400572485
+parentId => 1367400572484
+id => war-1367400573652-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 13
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400573652-system','','site','','','','','','','log-007-system','usr-020-system','','13')
+
+Row data [1367400572486]
+rowId => 1367400572486
+parentId => 1367400572484
+id => war-1367400575179-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 13
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400575179-system','','site','','','','','','','log-007-system','usr-020-system','','13')
+
+Edit operation finished
+0 => action:inserted; sid:1367400572484; tid:13;
+1 => action:inserted; sid:1367400572485; tid:14;
+2 => action:inserted; sid:1367400572486; tid:15;
+
+Done in 0.1537709236145s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:45
+====================================
+
+DataProcessor object initialized
+14_gr_id => 14
+14_gr_pid => 13
+14_c0 => war-1367400573652-system
+14_c1 => 
+14_c2 => site
+14_c3 => 
+14_c4 => 
+14_c5 => 
+14_c6 => 
+14_c7 => 
+14_c8 => 
+14_c9 => log-007-system
+14_c10 => usr-020-system
+14_c11 => 
+14_!nativeeditor_status => deleted
+1367400572487_gr_id => 1367400572487
+1367400572487_gr_pid => 15
+1367400572487_c0 => war-1367400582739-system
+1367400572487_c1 => 
+1367400572487_c2 => location
+1367400572487_c3 => 
+1367400572487_c4 => 
+1367400572487_c5 => 
+1367400572487_c6 => 
+1367400572487_c7 => 
+1367400572487_c8 => 
+1367400572487_c9 => log-007-system
+1367400572487_c10 => usr-020-system
+1367400572487_c11 => 
+1367400572487_!nativeeditor_status => inserted
+ids => 14,1367400572487
+
+Row data [14]
+rowId => 14
+parentId => 13
+id => war-1367400573652-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='14' AND (( loginCompanyId='log-007-system'))
+
+Row data [1367400572487]
+rowId => 1367400572487
+parentId => 15
+id => war-1367400582739-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400582739-system','','location','','','','','','','log-007-system','usr-020-system','','15')
+
+Edit operation finished
+0 => action:deleted; sid:14; tid:14;
+1 => action:inserted; sid:1367400572487; tid:16;
+
+Done in 0.15053987503052s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:57
+====================================
+
+DataProcessor object initialized
+1367400572489_gr_id => 1367400572489
+1367400572489_gr_pid => 13
+1367400572489_c0 => war-1367400591731-system
+1367400572489_c1 => 
+1367400572489_c2 => site
+1367400572489_c3 => 
+1367400572489_c4 => 
+1367400572489_c5 => 
+1367400572489_c6 => 
+1367400572489_c7 => 
+1367400572489_c8 => 
+1367400572489_c9 => log-007-system
+1367400572489_c10 => usr-020-system
+1367400572489_c11 => 
+1367400572489_!nativeeditor_status => inserted
+ids => 1367400572489
+
+Row data [1367400572489]
+rowId => 1367400572489
+parentId => 13
+id => war-1367400591731-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400591731-system','','site','','','','','','','log-007-system','usr-020-system','','13')
+
+Edit operation finished
+0 => action:inserted; sid:1367400572489; tid:17;
+
+Done in 0.061434984207153s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:05
+====================================
+
+DataProcessor object initialized
+1367400572490_gr_id => 1367400572490
+1367400572490_gr_pid => 17
+1367400572490_c0 => war-1367400599763-system
+1367400572490_c1 => 
+1367400572490_c2 => location
+1367400572490_c3 => 
+1367400572490_c4 => 
+1367400572490_c5 => 
+1367400572490_c6 => 
+1367400572490_c7 => 
+1367400572490_c8 => 
+1367400572490_c9 => log-007-system
+1367400572490_c10 => usr-020-system
+1367400572490_c11 => 
+1367400572490_!nativeeditor_status => inserted
+1367400572491_gr_id => 1367400572491
+1367400572491_gr_pid => 17
+1367400572491_c0 => war-1367400601411-system
+1367400572491_c1 => 
+1367400572491_c2 => location
+1367400572491_c3 => 
+1367400572491_c4 => 
+1367400572491_c5 => 
+1367400572491_c6 => 
+1367400572491_c7 => 
+1367400572491_c8 => 
+1367400572491_c9 => log-007-system
+1367400572491_c10 => usr-020-system
+1367400572491_c11 => 
+1367400572491_!nativeeditor_status => inserted
+1367400572492_gr_id => 1367400572492
+1367400572492_gr_pid => 17
+1367400572492_c0 => war-1367400603075-system
+1367400572492_c1 => 
+1367400572492_c2 => location
+1367400572492_c3 => 
+1367400572492_c4 => 
+1367400572492_c5 => 
+1367400572492_c6 => 
+1367400572492_c7 => 
+1367400572492_c8 => 
+1367400572492_c9 => log-007-system
+1367400572492_c10 => usr-020-system
+1367400572492_c11 => 
+1367400572492_!nativeeditor_status => inserted
+ids => 1367400572490,1367400572491,1367400572492
+
+Row data [1367400572490]
+rowId => 1367400572490
+parentId => 17
+id => war-1367400599763-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400599763-system','','location','','','','','','','log-007-system','usr-020-system','','17')
+
+Row data [1367400572491]
+rowId => 1367400572491
+parentId => 17
+id => war-1367400601411-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400601411-system','','location','','','','','','','log-007-system','usr-020-system','','17')
+
+Row data [1367400572492]
+rowId => 1367400572492
+parentId => 17
+id => war-1367400603075-system
+name => 
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400603075-system','','location','','','','','','','log-007-system','usr-020-system','','17')
+
+Edit operation finished
+0 => action:inserted; sid:1367400572490; tid:18;
+1 => action:inserted; sid:1367400572491; tid:19;
+2 => action:inserted; sid:1367400572492; tid:20;
+
+Done in 0.16820192337036s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:34
+====================================
+
+DataProcessor object initialized
+13_gr_id => 13
+13_gr_pid => 0
+13_c0 => war-1367400572484-system
+13_c1 => 
+13_c2 => warehouse
+13_c3 => 
+13_c4 => 
+13_c5 => 
+13_c6 => 
+13_c7 => 
+13_c8 => 
+13_c9 => log-007-system
+13_c10 => usr-020-system
+13_c11 => 
+13_!nativeeditor_status => deleted
+ids => 13
+
+Row data [13]
+rowId => 13
+parentId => 0
+id => war-1367400572484-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='13' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:13; tid:13;
+
+Done in 0.065088033676147s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:27
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.10122418403625s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:35
+====================================
+
+DataProcessor object initialized
+1367400749371_gr_id => 1367400749371
+1367400749371_gr_pid => 0
+1367400749371_c0 => war-1367400749371-system
+1367400749371_c1 => 
+1367400749371_c2 => warehouse
+1367400749371_c3 => 
+1367400749371_c4 => 
+1367400749371_c5 => 
+1367400749371_c6 => 
+1367400749371_c7 => 
+1367400749371_c8 => 
+1367400749371_c9 => log-007-system
+1367400749371_c10 => usr-020-system
+1367400749371_c11 => 
+1367400749371_!nativeeditor_status => inserted
+1367400749372_gr_id => 1367400749372
+1367400749372_gr_pid => 1367400749371
+1367400749372_c0 => war-1367400750691-system
+1367400749372_c1 => 
+1367400749372_c2 => site
+1367400749372_c3 => 
+1367400749372_c4 => 
+1367400749372_c5 => 
+1367400749372_c6 => 
+1367400749372_c7 => 
+1367400749372_c8 => 
+1367400749372_c9 => log-007-system
+1367400749372_c10 => usr-020-system
+1367400749372_c11 => 
+1367400749372_!nativeeditor_status => inserted
+1367400749373_gr_id => 1367400749373
+1367400749373_gr_pid => 1367400749371
+1367400749373_c0 => war-1367400752378-system
+1367400749373_c1 => 
+1367400749373_c2 => site
+1367400749373_c3 => 
+1367400749373_c4 => 
+1367400749373_c5 => 
+1367400749373_c6 => 
+1367400749373_c7 => 
+1367400749373_c8 => 
+1367400749373_c9 => log-007-system
+1367400749373_c10 => usr-020-system
+1367400749373_c11 => 
+1367400749373_!nativeeditor_status => inserted
+ids => 1367400749371,1367400749372,1367400749373
+
+Row data [1367400749371]
+rowId => 1367400749371
+parentId => 0
+id => war-1367400749371-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400749371-system','','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367400749372]
+rowId => 1367400749372
+parentId => 1367400749371
+id => war-1367400750691-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 21
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400750691-system','','site','','','','','','','log-007-system','usr-020-system','','21')
+
+Row data [1367400749373]
+rowId => 1367400749373
+parentId => 1367400749371
+id => war-1367400752378-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 21
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400752378-system','','site','','','','','','','log-007-system','usr-020-system','','21')
+
+Edit operation finished
+0 => action:inserted; sid:1367400749371; tid:21;
+1 => action:inserted; sid:1367400749372; tid:22;
+2 => action:inserted; sid:1367400749373; tid:23;
+
+Done in 0.17480421066284s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:45
+====================================
+
+DataProcessor object initialized
+21_gr_id => 21
+21_gr_pid => 0
+21_c0 => war-1367400749371-system
+21_c1 => 
+21_c2 => warehouse
+21_c3 => 
+21_c4 => 
+21_c5 => 
+21_c6 => 
+21_c7 => 
+21_c8 => 
+21_c9 => log-007-system
+21_c10 => usr-020-system
+21_c11 => 
+21_!nativeeditor_status => deleted
+ids => 21
+
+Row data [21]
+rowId => 21
+parentId => 0
+id => war-1367400749371-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='21' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:21; tid:21;
+
+Done in 0.061928033828735s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:00
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+Done in 0.092164039611816s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:08
+====================================
+
+DataProcessor object initialized
+1367400962329_gr_id => 1367400962329
+1367400962329_gr_pid => 0
+1367400962329_c0 => war-1367400962329-system
+1367400962329_c1 => 
+1367400962329_c2 => warehouse
+1367400962329_c3 => 
+1367400962329_c4 => 
+1367400962329_c5 => 
+1367400962329_c6 => 
+1367400962329_c7 => 
+1367400962329_c8 => 
+1367400962329_c9 => log-007-system
+1367400962329_c10 => usr-020-system
+1367400962329_c11 => 
+1367400962329_!nativeeditor_status => inserted
+1367400962330_gr_id => 1367400962330
+1367400962330_gr_pid => 1367400962329
+1367400962330_c0 => war-1367400963673-system
+1367400962330_c1 => 
+1367400962330_c2 => site
+1367400962330_c3 => 
+1367400962330_c4 => 
+1367400962330_c5 => 
+1367400962330_c6 => 
+1367400962330_c7 => 
+1367400962330_c8 => 
+1367400962330_c9 => log-007-system
+1367400962330_c10 => usr-020-system
+1367400962330_c11 => 
+1367400962330_!nativeeditor_status => inserted
+1367400962331_gr_id => 1367400962331
+1367400962331_gr_pid => 1367400962329
+1367400962331_c0 => war-1367400966208-system
+1367400962331_c1 => 
+1367400962331_c2 => site
+1367400962331_c3 => 
+1367400962331_c4 => 
+1367400962331_c5 => 
+1367400962331_c6 => 
+1367400962331_c7 => 
+1367400962331_c8 => 
+1367400962331_c9 => log-007-system
+1367400962331_c10 => usr-020-system
+1367400962331_c11 => 
+1367400962331_!nativeeditor_status => inserted
+ids => 1367400962329,1367400962330,1367400962331
+
+Row data [1367400962329]
+rowId => 1367400962329
+parentId => 0
+id => war-1367400962329-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400962329-system','','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367400962330]
+rowId => 1367400962330
+parentId => 1367400962329
+id => war-1367400963673-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 24
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400963673-system','','site','','','','','','','log-007-system','usr-020-system','','24')
+
+Row data [1367400962331]
+rowId => 1367400962331
+parentId => 1367400962329
+id => war-1367400966208-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 24
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400966208-system','','site','','','','','','','log-007-system','usr-020-system','','24')
+
+Edit operation finished
+0 => action:inserted; sid:1367400962329; tid:24;
+1 => action:inserted; sid:1367400962330; tid:25;
+2 => action:inserted; sid:1367400962331; tid:26;
+
+Done in 0.23213601112366s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:23
+====================================
+
+DataProcessor object initialized
+25_gr_id => 25
+25_gr_pid => 24
+25_c0 => war-1367400963673-system
+25_c1 => 
+25_c2 => site
+25_c3 => 
+25_c4 => 
+25_c5 => 
+25_c6 => 
+25_c7 => 
+25_c8 => 
+25_c9 => log-007-system
+25_c10 => usr-020-system
+25_c11 => 
+25_!nativeeditor_status => deleted
+26_gr_id => 26
+26_gr_pid => 24
+26_c0 => war-1367400966208-system
+26_c1 => 
+26_c2 => site
+26_c3 => 
+26_c4 => 
+26_c5 => 
+26_c6 => 
+26_c7 => 
+26_c8 => 
+26_c9 => log-007-system
+26_c10 => usr-020-system
+26_c11 => 
+26_!nativeeditor_status => deleted
+ids => 25,26
+
+Row data [25]
+rowId => 25
+parentId => 24
+id => war-1367400963673-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='25' AND (( loginCompanyId='log-007-system'))
+
+Row data [26]
+rowId => 26
+parentId => 24
+id => war-1367400966208-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='26' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:25; tid:25;
+1 => action:deleted; sid:26; tid:26;
+
+Done in 0.10497307777405s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:28
+====================================
+
+DataProcessor object initialized
+24_gr_id => 24
+24_gr_pid => 0
+24_c0 => war-1367400962329-system
+24_c1 => 
+24_c2 => warehouse
+24_c3 => 
+24_c4 => 
+24_c5 => 
+24_c6 => 
+24_c7 => 
+24_c8 => 
+24_c9 => log-007-system
+24_c10 => usr-020-system
+24_c11 => 
+24_!nativeeditor_status => deleted
+ids => 24
+
+Row data [24]
+rowId => 24
+parentId => 0
+id => war-1367400962329-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='24' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:24; tid:24;
+
+Done in 0.061992883682251s
+
+
+
+====================================
+Log started, 01/05/2013 09:05:48
+====================================
+
+DataProcessor object initialized
+1367400962332_gr_id => 1367400962332
+1367400962332_gr_pid => 0
+1367400962332_c0 => war-1367400991120-system
+1367400962332_c1 => 
+1367400962332_c2 => warehouse
+1367400962332_c3 => 
+1367400962332_c4 => 
+1367400962332_c5 => 
+1367400962332_c6 => 
+1367400962332_c7 => 
+1367400962332_c8 => 
+1367400962332_c9 => log-007-system
+1367400962332_c10 => usr-020-system
+1367400962332_c11 => 
+1367400962332_!nativeeditor_status => inserted
+1367400962333_gr_id => 1367400962333
+1367400962333_gr_pid => 1367400962332
+1367400962333_c0 => war-1367400992800-system
+1367400962333_c1 => 
+1367400962333_c2 => site
+1367400962333_c3 => 
+1367400962333_c4 => 
+1367400962333_c5 => 
+1367400962333_c6 => 
+1367400962333_c7 => 
+1367400962333_c8 => 
+1367400962333_c9 => log-007-system
+1367400962333_c10 => usr-020-system
+1367400962333_c11 => 
+1367400962333_!nativeeditor_status => inserted
+ids => 1367400962332,1367400962333
+
+Row data [1367400962332]
+rowId => 1367400962332
+parentId => 0
+id => war-1367400991120-system
+name => 
+type => warehouse
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400991120-system','','warehouse','','','','','','','log-007-system','usr-020-system','','0')
+
+Row data [1367400962333]
+rowId => 1367400962333
+parentId => 1367400962332
+id => war-1367400992800-system
+name => 
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 27
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367400992800-system','','site','','','','','','','log-007-system','usr-020-system','','27')
+
+Edit operation finished
+0 => action:inserted; sid:1367400962332; tid:27;
+1 => action:inserted; sid:1367400962333; tid:28;
+
+Done in 0.10065317153931s
+
+
+
+====================================
+Log started, 01/05/2013 10:05:44
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '27'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '28'
+
+Done in 0.1933159828186s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:54
+====================================
+
+DataProcessor object initialized
+28_gr_id => 28
+28_gr_pid => 27
+28_c0 => war-1367400992800-system
+28_c1 => 
+28_c2 => site
+28_c3 => 
+28_c4 => 0
+28_c5 => 0
+28_c6 => 0
+28_c7 => 0
+28_c8 => 
+28_c9 => log-007-system
+28_c10 => usr-020-system
+28_c11 => 0000-00-00 00:00:00
+28_!nativeeditor_status => deleted
+ids => 28
+
+Row data [28]
+rowId => 28
+parentId => 27
+id => war-1367400992800-system
+name => 
+type => site
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='28' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:28; tid:28;
+
+Done in 0.051046848297119s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:03
+====================================
+
+DataProcessor object initialized
+27_gr_id => 27
+27_gr_pid => 0
+27_c0 => war-1367400991120-system
+27_c1 => 
+27_c2 => warehouse
+27_c3 => 
+27_c4 => 0
+27_c5 => 0
+27_c6 => 0
+27_c7 => 0
+27_c8 => 
+27_c9 => log-007-system
+27_c10 => usr-020-system
+27_c11 => 0000-00-00 00:00:00
+27_!nativeeditor_status => deleted
+ids => 27
+
+Row data [27]
+rowId => 27
+parentId => 0
+id => war-1367400991120-system
+name => 
+type => warehouse
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => deleted
+
+DELETE FROM location WHERE `rowId`='27' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:deleted; sid:27; tid:27;
+
+Done in 0.067636966705322s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:02
+====================================
+
+DataProcessor object initialized
+1367407205476_gr_id => 1367407205476
+1367407205476_gr_pid => 1
+1367407205476_c0 => war-1367407205476-system
+1367407205476_c1 => โกดัง A
+1367407205476_c2 => site
+1367407205476_c3 => 
+1367407205476_c4 => 
+1367407205476_c5 => 
+1367407205476_c6 => 
+1367407205476_c7 => 
+1367407205476_c8 => 
+1367407205476_c9 => log-007-system
+1367407205476_c10 => usr-020-system
+1367407205476_c11 => 
+1367407205476_!nativeeditor_status => inserted
+1367407205477_gr_id => 1367407205477
+1367407205477_gr_pid => 1
+1367407205477_c0 => war-1367407224628-system
+1367407205477_c1 => โกดัง B
+1367407205477_c2 => site
+1367407205477_c3 => 
+1367407205477_c4 => 
+1367407205477_c5 => 
+1367407205477_c6 => 
+1367407205477_c7 => 
+1367407205477_c8 => 
+1367407205477_c9 => log-007-system
+1367407205477_c10 => usr-020-system
+1367407205477_c11 => 
+1367407205477_!nativeeditor_status => inserted
+1367407205478_gr_id => 1367407205478
+1367407205478_gr_pid => 1
+1367407205478_c0 => war-1367407230653-system
+1367407205478_c1 => โกดัง C
+1367407205478_c2 => site
+1367407205478_c3 => 
+1367407205478_c4 => 
+1367407205478_c5 => 
+1367407205478_c6 => 
+1367407205478_c7 => 
+1367407205478_c8 => 
+1367407205478_c9 => log-007-system
+1367407205478_c10 => usr-020-system
+1367407205478_c11 => 
+1367407205478_!nativeeditor_status => inserted
+1367407205479_gr_id => 1367407205479
+1367407205479_gr_pid => 1367407205476
+1367407205479_c0 => war-1367407237316-system
+1367407205479_c1 => A1
+1367407205479_c2 => location
+1367407205479_c3 => 
+1367407205479_c4 => 
+1367407205479_c5 => 
+1367407205479_c6 => 
+1367407205479_c7 => 
+1367407205479_c8 => 
+1367407205479_c9 => log-007-system
+1367407205479_c10 => usr-020-system
+1367407205479_c11 => 
+1367407205479_!nativeeditor_status => inserted
+1367407205480_gr_id => 1367407205480
+1367407205480_gr_pid => 1367407205476
+1367407205480_c0 => war-1367407244444-system
+1367407205480_c1 => A2
+1367407205480_c2 => location
+1367407205480_c3 => 
+1367407205480_c4 => 
+1367407205480_c5 => 
+1367407205480_c6 => 
+1367407205480_c7 => 
+1367407205480_c8 => 
+1367407205480_c9 => log-007-system
+1367407205480_c10 => usr-020-system
+1367407205480_c11 => 
+1367407205480_!nativeeditor_status => inserted
+1367407205481_gr_id => 1367407205481
+1367407205481_gr_pid => 1367407205476
+1367407205481_c0 => war-1367407245853-system
+1367407205481_c1 => A3
+1367407205481_c2 => location
+1367407205481_c3 => 
+1367407205481_c4 => 
+1367407205481_c5 => 
+1367407205481_c6 => 
+1367407205481_c7 => 
+1367407205481_c8 => 
+1367407205481_c9 => log-007-system
+1367407205481_c10 => usr-020-system
+1367407205481_c11 => 
+1367407205481_!nativeeditor_status => inserted
+1367407205482_gr_id => 1367407205482
+1367407205482_gr_pid => 1367407205476
+1367407205482_c0 => war-1367407249724-system
+1367407205482_c1 => A4
+1367407205482_c2 => location
+1367407205482_c3 => 
+1367407205482_c4 => 
+1367407205482_c5 => 
+1367407205482_c6 => 
+1367407205482_c7 => 
+1367407205482_c8 => 
+1367407205482_c9 => log-007-system
+1367407205482_c10 => usr-020-system
+1367407205482_c11 => 
+1367407205482_!nativeeditor_status => inserted
+ids => 1367407205476,1367407205477,1367407205478,1367407205479,1367407205480,1367407205481,1367407205482
+
+Row data [1367407205476]
+rowId => 1367407205476
+parentId => 1
+id => war-1367407205476-system
+name => โกดัง A
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407205476-system','โกดัง A','site','','','','','','','log-007-system','usr-020-system','','1')
+
+Row data [1367407205477]
+rowId => 1367407205477
+parentId => 1
+id => war-1367407224628-system
+name => โกดัง B
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407224628-system','โกดัง B','site','','','','','','','log-007-system','usr-020-system','','1')
+
+Row data [1367407205478]
+rowId => 1367407205478
+parentId => 1
+id => war-1367407230653-system
+name => โกดัง C
+type => site
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407230653-system','โกดัง C','site','','','','','','','log-007-system','usr-020-system','','1')
+
+Row data [1367407205479]
+rowId => 1367407205479
+parentId => 1367407205476
+id => war-1367407237316-system
+name => A1
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 29
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407237316-system','A1','location','','','','','','','log-007-system','usr-020-system','','29')
+
+Row data [1367407205480]
+rowId => 1367407205480
+parentId => 1367407205476
+id => war-1367407244444-system
+name => A2
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 29
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407244444-system','A2','location','','','','','','','log-007-system','usr-020-system','','29')
+
+Row data [1367407205481]
+rowId => 1367407205481
+parentId => 1367407205476
+id => war-1367407245853-system
+name => A3
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 29
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407245853-system','A3','location','','','','','','','log-007-system','usr-020-system','','29')
+
+Row data [1367407205482]
+rowId => 1367407205482
+parentId => 1367407205476
+id => war-1367407249724-system
+name => A4
+type => location
+description => 
+width => 
+height => 
+length => 
+bearing => 
+addressId => 
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 
+!nativeeditor_status => inserted
+
+change value of: parentId as: 29
+
+INSERT INTO location(`id`,`name`,`type`,`description`,`width`,`height`,`length`,`bearing`,`addressId`,`loginCompanyId`,`loginUserId`,`createDate`,`parentId`) VALUES ('war-1367407249724-system','A4','location','','','','','','','log-007-system','usr-020-system','','29')
+
+Edit operation finished
+0 => action:inserted; sid:1367407205476; tid:29;
+1 => action:inserted; sid:1367407205477; tid:30;
+2 => action:inserted; sid:1367407205478; tid:31;
+3 => action:inserted; sid:1367407205479; tid:32;
+4 => action:inserted; sid:1367407205480; tid:33;
+5 => action:inserted; sid:1367407205481; tid:34;
+6 => action:inserted; sid:1367407205482; tid:35;
+
+Done in 0.58534002304077s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:45
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.37164807319641s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:46
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.61819505691528s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:47
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.37613606452942s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:03
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.44967794418335s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:33
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.38051605224609s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:14
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.39254593849182s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:10
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.39135599136353s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:34
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.39272499084473s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:18
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.37077808380127s
+
+
+
+====================================
+Log started, 01/05/2013 11:05:26
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.62567710876465s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:11
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.40420913696289s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:39
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.4063880443573s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:05
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.60585594177246s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:29
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.38457489013672s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:10
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.7491569519043s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:18
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.56419801712036s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:36
+====================================
+
+DataProcessor object initialized
+1_gr_id => 1
+1_gr_pid => 0
+1_c0 => war-1367399977888-system
+1_c1 => Factory A
+1_c2 => warehouse
+1_c3 => 
+1_c4 => 0
+1_c5 => 0
+1_c6 => 0
+1_c7 => 0
+1_c8 => add-1367410109700-system
+1_c9 => log-007-system
+1_c10 => usr-020-system
+1_c11 => 0000-00-00 00:00:00
+1_!nativeeditor_status => updated
+ids => 1
+
+Row data [1]
+rowId => 1
+parentId => 0
+id => war-1367399977888-system
+name => Factory A
+type => warehouse
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => add-1367410109700-system
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => updated
+
+UPDATE location SET `id`='war-1367399977888-system',`name`='Factory A',`type`='warehouse',`description`='',`width`='0',`height`='0',`length`='0',`bearing`='0',`addressId`='add-1367410109700-system',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`createDate`='0000-00-00 00:00:00',`parentId`='0' WHERE `rowId`='1' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:updated; sid:1; tid:1;
+
+Done in 0.054040908813477s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:39
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.64898586273193s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:30
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+Done in 0.37329506874084s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:37
+====================================
+
+DataProcessor object initialized
+1_gr_id => 1
+1_gr_pid => 0
+1_c0 => war-1367399977888-system
+1_c1 => Factory A
+1_c2 => warehouse
+1_c3 => 
+1_c4 => 0
+1_c5 => 0
+1_c6 => 0
+1_c7 => 0
+1_c8 => add-1367410109700-system
+1_c9 => log-007-system
+1_c10 => usr-020-system
+1_c11 => 0000-00-00 00:00:00
+1_!nativeeditor_status => updated
+ids => 1
+
+Row data [1]
+rowId => 1
+parentId => 0
+id => war-1367399977888-system
+name => Factory A
+type => warehouse
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => add-1367410109700-system
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => updated
+
+UPDATE location SET `id`='war-1367399977888-system',`name`='Factory A',`type`='warehouse',`description`='',`width`='0',`height`='0',`length`='0',`bearing`='0',`addressId`='add-1367410109700-system',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`createDate`='0000-00-00 00:00:00',`parentId`='0' WHERE `rowId`='1' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:updated; sid:1; tid:1;
+
+Done in 0.058284044265747s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:03
+====================================
+
+DataProcessor object initialized
+1_gr_id => 1
+1_gr_pid => 0
+1_c0 => war-1367399977888-system
+1_c1 => Factory A
+1_c2 => warehouse
+1_c3 => 
+1_c4 => 0
+1_c5 => 0
+1_c6 => 0
+1_c7 => 0
+1_c8 => add-1367410109700-system
+1_c9 => log-007-system
+1_c10 => usr-020-system
+1_c11 => 0000-00-00 00:00:00
+1_!nativeeditor_status => updated
+ids => 1
+
+Row data [1]
+rowId => 1
+parentId => 0
+id => war-1367399977888-system
+name => Factory A
+type => warehouse
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => add-1367410109700-system
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => updated
+
+UPDATE location SET `id`='war-1367399977888-system',`name`='Factory A',`type`='warehouse',`description`='',`width`='0',`height`='0',`length`='0',`bearing`='0',`addressId`='add-1367410109700-system',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`createDate`='0000-00-00 00:00:00',`parentId`='0' WHERE `rowId`='1' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:updated; sid:1; tid:1;
+
+Done in 0.068163156509399s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:29
+====================================
+
+DataProcessor object initialized
+29_gr_id => 29
+29_gr_pid => 1
+29_c0 => war-1367407205476-system
+29_c1 => โกดัง A
+29_c2 => site
+29_c3 => 
+29_c4 => 0
+29_c5 => 0
+29_c6 => 0
+29_c7 => 0
+29_c8 => add-1367410686769-system
+29_c9 => log-007-system
+29_c10 => usr-020-system
+29_c11 => 0000-00-00 00:00:00
+29_!nativeeditor_status => updated
+ids => 29
+
+Row data [29]
+rowId => 29
+parentId => 1
+id => war-1367407205476-system
+name => โกดัง A
+type => site
+description => 
+width => 0
+height => 0
+length => 0
+bearing => 0
+addressId => add-1367410686769-system
+loginCompanyId => log-007-system
+loginUserId => usr-020-system
+createDate => 0000-00-00 00:00:00
+!nativeeditor_status => updated
+
+UPDATE location SET `id`='war-1367407205476-system',`name`='โกดัง A',`type`='site',`description`='',`width`='0',`height`='0',`length`='0',`bearing`='0',`addressId`='add-1367410686769-system',`loginCompanyId`='log-007-system',`loginUserId`='usr-020-system',`createDate`='0000-00-00 00:00:00',`parentId`='1' WHERE `rowId`='29' AND (( loginCompanyId='log-007-system'))
+
+Edit operation finished
+0 => action:updated; sid:29; tid:29;
+
+Done in 0.055752038955688s
+
+
+
+====================================
+Log started, 03/06/2013 09:06:10
+====================================
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '0'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '1'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '29'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '35'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '32'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '33'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '34'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '30'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '31'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '36'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '37'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '38'
+
+SELECT  * FROM location WHERE ( loginCompanyId='log-007-system') AND `parentId` = '39'
+
+Done in 0.089683055877686s
+

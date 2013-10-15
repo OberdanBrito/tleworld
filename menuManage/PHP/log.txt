@@ -1,0 +1,351 @@
+2012-10-29 16:04:38 - INFO  --> Delete from menus where rowId= 
+2012-10-29 16:04:38 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-29 16:05:21 - INFO  --> Delete from menus where rowId=0 
+2012-10-29 16:05:21 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-29 16:05:49 - INFO  --> Delete from menus where rowId=77 
+2012-10-29 16:05:49 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-29 16:06:34 - INFO  --> Delete from menus where rowId=10 
+2012-10-29 16:06:34 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 
+2012-10-29 16:07:34 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:07:42 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:07:42 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 16,menuOrder = 2 where rowId=10 
+2012-10-29 16:07:42 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>10 
+2012-10-29 16:07:42 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=2 and rowId<>10 
+2012-10-29 16:07:45 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:07:45 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=78 
+2012-10-29 16:07:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>78 
+2012-10-29 16:07:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>78 
+2012-10-29 16:07:45 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:07:45 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=78 
+2012-10-29 16:07:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>78 
+2012-10-29 16:07:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>78 
+2012-10-29 16:08:11 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:08:11 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=78 
+2012-10-29 16:08:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>78 
+2012-10-29 16:08:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>78 
+2012-10-29 16:08:11 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:08:11 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=78 
+2012-10-29 16:08:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>78 
+2012-10-29 16:08:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>78 
+2012-10-29 16:08:12 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:08:12 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=78 
+2012-10-29 16:08:12 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>78 
+2012-10-29 16:08:12 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>78 
+2012-10-29 16:08:13 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:08:13 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 16,menuOrder = 2 where rowId=10 
+2012-10-29 16:08:13 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>2 and rowId<>10 
+2012-10-29 16:08:13 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=2 and rowId<>10 
+2012-10-29 16:08:14 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:08:14 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 16,menuOrder = 2 where rowId=78 
+2012-10-29 16:08:14 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>78 
+2012-10-29 16:08:14 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=2 and rowId<>78 
+2012-10-29 16:08:15 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=78 
+2012-10-29 16:08:15 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 3 where rowId=78 
+2012-10-29 16:08:15 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>2 and rowId<>78 
+2012-10-29 16:08:15 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>78 
+2012-10-29 16:09:06 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:09:08 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,12,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:09:45 - INFO  --> Delete from menus where rowId=78 
+2012-10-29 16:09:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 
+2012-10-29 16:09:47 - INFO  --> Delete from menus where rowId=79 
+2012-10-29 16:09:47 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 
+2012-10-29 16:09:48 - INFO  --> Delete from menus where rowId=80 
+2012-10-29 16:09:48 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 
+2012-10-29 16:09:52 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=13 
+2012-10-29 16:09:52 - INFO  --> UPDATE menus SET englishName = 'Unit-blank',parentId = 0,menuOrder = 4 where rowId=13 
+2012-10-29 16:09:52 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=48 AND menuOrder>0 and rowId<>13 
+2012-10-29 16:09:52 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>13 
+2012-10-29 16:09:53 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:10:06 - INFO  --> Delete from menus where rowId=81 
+2012-10-29 16:10:06 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-29 16:10:07 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:10:11 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=82 
+2012-10-29 16:10:11 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 16,menuOrder = 0 where rowId=82 
+2012-10-29 16:10:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 and rowId<>82 
+2012-10-29 16:10:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=0 and rowId<>82 
+2012-10-29 16:10:15 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=82 
+2012-10-29 16:10:15 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 3 where rowId=82 
+2012-10-29 16:10:15 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>0 and rowId<>82 
+2012-10-29 16:10:15 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>82 
+2012-10-29 16:10:24 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=82 
+2012-10-29 16:10:24 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 5 where rowId=82 
+2012-10-29 16:10:24 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>82 
+2012-10-29 16:10:24 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=5 and rowId<>82 
+2012-10-29 16:10:30 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=13 
+2012-10-29 16:10:30 - INFO  --> UPDATE menus SET englishName = 'Unit-blank',parentId = 49,menuOrder = 0 where rowId=13 
+2012-10-29 16:10:30 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>13 
+2012-10-29 16:10:30 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=49 AND menuOrder>=0 and rowId<>13 
+2012-10-29 16:10:33 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=13 
+2012-10-29 16:10:33 - INFO  --> UPDATE menus SET englishName = 'Unit-blank',parentId = 0,menuOrder = 1 where rowId=13 
+2012-10-29 16:10:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=49 AND menuOrder>0 and rowId<>13 
+2012-10-29 16:10:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>13 
+2012-10-29 16:10:36 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=15 
+2012-10-29 16:10:36 - INFO  --> UPDATE menus SET englishName = 'Rate-blank',parentId = 0,menuOrder = 1 where rowId=15 
+2012-10-29 16:10:36 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>15 
+2012-10-29 16:10:36 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>15 
+2012-10-29 16:10:45 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=13 
+2012-10-29 16:10:45 - INFO  --> UPDATE menus SET englishName = 'Unit-blank',parentId = 48,menuOrder = 1 where rowId=13 
+2012-10-29 16:10:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>13 
+2012-10-29 16:10:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=48 AND menuOrder>=1 and rowId<>13 
+2012-10-29 16:10:51 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=82 
+2012-10-29 16:10:51 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=82 
+2012-10-29 16:10:51 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>82 
+2012-10-29 16:10:51 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>82 
+2012-10-29 16:10:52 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=82 
+2012-10-29 16:10:52 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 4 where rowId=82 
+2012-10-29 16:10:52 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>82 
+2012-10-29 16:10:52 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>82 
+2012-10-29 16:12:56 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=12 
+2012-10-29 16:12:56 - INFO  --> UPDATE menus SET englishName = 'Code Definition-edit',parentId = 0,menuOrder = 3 where rowId=12 
+2012-10-29 16:12:56 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>0 and rowId<>12 
+2012-10-29 16:12:56 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>12 
+2012-10-29 16:12:57 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=11 
+2012-10-29 16:12:57 - INFO  --> UPDATE menus SET englishName = 'Code Definition-blank',parentId = 0,menuOrder = 4 where rowId=11 
+2012-10-29 16:12:57 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>0 and rowId<>11 
+2012-10-29 16:12:57 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>11 
+2012-10-29 16:12:59 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:12:59 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 0,menuOrder = 5 where rowId=10 
+2012-10-29 16:12:59 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>0 and rowId<>10 
+2012-10-29 16:12:59 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=5 and rowId<>10 
+2012-10-29 16:14:02 - INFO  --> Delete from menus where rowId=82 
+2012-10-29 16:14:02 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>7 
+2012-10-29 16:14:04 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=11 
+2012-10-29 16:14:04 - INFO  --> UPDATE menus SET englishName = 'Code Definition-blank',parentId = 16,menuOrder = 0 where rowId=11 
+2012-10-29 16:14:04 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>11 
+2012-10-29 16:14:04 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=0 and rowId<>11 
+2012-10-29 16:14:06 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=12 
+2012-10-29 16:14:06 - INFO  --> UPDATE menus SET englishName = 'Code Definition-edit',parentId = 16,menuOrder = 1 where rowId=12 
+2012-10-29 16:14:06 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>12 
+2012-10-29 16:14:06 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=1 and rowId<>12 
+2012-10-29 16:14:07 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=16 
+2012-10-29 16:14:07 - INFO  --> UPDATE menus SET englishName = 'Code Definition',parentId = 0,menuOrder = 4 where rowId=16 
+2012-10-29 16:14:07 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>16 
+2012-10-29 16:14:07 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>16 
+2012-10-29 16:14:08 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=16 
+2012-10-29 16:14:08 - INFO  --> UPDATE menus SET englishName = 'Code Definition',parentId = 0,menuOrder = 4 where rowId=16 
+2012-10-29 16:14:08 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>16 
+2012-10-29 16:14:08 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>16 
+2012-10-29 16:14:10 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:14:10 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 0,menuOrder = 3 where rowId=10 
+2012-10-29 16:14:10 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>10 
+2012-10-29 16:14:10 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>10 
+2012-10-29 16:14:11 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:14:11 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 0,menuOrder = 3 where rowId=10 
+2012-10-29 16:14:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>10 
+2012-10-29 16:14:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>10 
+2012-10-29 16:14:12 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:16:33 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=83 
+2012-10-29 16:16:33 - INFO  --> UPDATE menus SET englishName = 'New Folder',parentId = 0,menuOrder = 5 where rowId=83 
+2012-10-29 16:16:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 and rowId<>83 
+2012-10-29 16:16:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=5 and rowId<>83 
+2012-10-29 16:16:37 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:16:37 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 83,menuOrder = 0 where rowId=10 
+2012-10-29 16:16:37 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>10 
+2012-10-29 16:16:37 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=83 AND menuOrder>=0 and rowId<>10 
+2012-10-29 16:16:39 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-29 16:16:40 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:16:40 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 84,menuOrder = 0 where rowId=10 
+2012-10-29 16:16:40 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=83 AND menuOrder>0 and rowId<>10 
+2012-10-29 16:16:40 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=84 AND menuOrder>=0 and rowId<>10 
+2012-10-29 16:16:44 - INFO  --> Delete from menus where rowId=83 
+2012-10-29 16:16:44 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 
+2012-10-29 16:16:46 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:16:46 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 0,menuOrder = 4 where rowId=10 
+2012-10-29 16:16:46 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=84 AND menuOrder>0 and rowId<>10 
+2012-10-29 16:16:46 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>10 
+2012-10-29 16:16:47 - INFO  --> Delete from menus where rowId=84 
+2012-10-29 16:16:47 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-29 16:36:20 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=11 
+2012-10-29 16:36:20 - INFO  --> UPDATE menus SET englishName = 'Code Definition-blank',parentId = 0,menuOrder = 3 where rowId=11 
+2012-10-29 16:36:20 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>0 and rowId<>11 
+2012-10-29 16:36:20 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>11 
+2012-10-29 16:36:23 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=12 
+2012-10-29 16:36:23 - INFO  --> UPDATE menus SET englishName = 'Code Definition-edit',parentId = 0,menuOrder = 6 where rowId=12 
+2012-10-29 16:36:23 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=16 AND menuOrder>0 and rowId<>12 
+2012-10-29 16:36:23 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=6 and rowId<>12 
+2012-10-29 16:36:24 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-29 16:36:24 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 0,menuOrder = 4 where rowId=10 
+2012-10-29 16:36:24 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 and rowId<>10 
+2012-10-29 16:36:24 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>10 
+2012-10-29 16:36:25 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=11 
+2012-10-29 16:36:25 - INFO  --> UPDATE menus SET englishName = 'Code Definition-blank',parentId = 16,menuOrder = 0 where rowId=11 
+2012-10-29 16:36:25 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>11 
+2012-10-29 16:36:25 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=0 and rowId<>11 
+2012-10-29 16:36:27 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=12 
+2012-10-29 16:36:27 - INFO  --> UPDATE menus SET englishName = 'Code Definition-edit',parentId = 16,menuOrder = 1 where rowId=12 
+2012-10-29 16:36:27 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 and rowId<>12 
+2012-10-29 16:36:27 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=16 AND menuOrder>=1 and rowId<>12 
+2012-10-30 16:10:02 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=15 
+2012-10-30 16:10:02 - INFO  --> UPDATE menus SET englishName = 'Rate-blank',parentId = 0,menuOrder = 3 where rowId=15 
+2012-10-30 16:10:02 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>15 
+2012-10-30 16:10:02 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>15 
+2012-10-30 16:10:41 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-30 16:10:43 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,6,'folder','systemParameter','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-30 16:11:14 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,8,'folder','menu','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-30 16:11:17 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=7 
+2012-10-30 16:11:17 - INFO  --> UPDATE menus SET englishName = 'Employee-edit',parentId = 87,menuOrder = 0 where rowId=7 
+2012-10-30 16:11:17 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>42 and rowId<>7 
+2012-10-30 16:11:17 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=87 AND menuOrder>=0 and rowId<>7 
+2012-10-30 16:11:18 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=9 
+2012-10-30 16:11:18 - INFO  --> UPDATE menus SET englishName = 'Customer-edit',parentId = 87,menuOrder = 1 where rowId=9 
+2012-10-30 16:11:18 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>28 and rowId<>9 
+2012-10-30 16:11:18 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=87 AND menuOrder>=1 and rowId<>9 
+2012-10-30 16:11:23 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=87 
+2012-10-30 16:11:23 - INFO  --> UPDATE menus SET englishName = 'Employee',parentId = 0,menuOrder = 6 where rowId=87 
+2012-10-30 16:11:23 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>8 and rowId<>87 
+2012-10-30 16:11:23 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=6 and rowId<>87 
+2012-10-30 16:11:25 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=9 
+2012-10-30 16:11:25 - INFO  --> UPDATE menus SET englishName = 'Customer-edit',parentId = 0,menuOrder = 6 where rowId=9 
+2012-10-30 16:11:25 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=87 AND menuOrder>1 and rowId<>9 
+2012-10-30 16:11:25 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=6 and rowId<>9 
+2012-10-30 16:11:27 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=6 
+2012-10-30 16:11:27 - INFO  --> UPDATE menus SET englishName = 'Employee-blank',parentId = 87,menuOrder = 1 where rowId=6 
+2012-10-30 16:11:27 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>29 and rowId<>6 
+2012-10-30 16:11:27 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=87 AND menuOrder>=1 and rowId<>6 
+2012-10-30 16:11:29 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,7,'folder','menu','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-30 16:11:33 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=88 
+2012-10-30 16:11:33 - INFO  --> UPDATE menus SET englishName = 'Customer',parentId = 0,menuOrder = 7 where rowId=88 
+2012-10-30 16:11:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>7 and rowId<>88 
+2012-10-30 16:11:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=7 and rowId<>88 
+2012-10-30 16:11:37 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=9 
+2012-10-30 16:11:37 - INFO  --> UPDATE menus SET englishName = 'Customer-edit',parentId = 88,menuOrder = 0 where rowId=9 
+2012-10-30 16:11:37 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>6 and rowId<>9 
+2012-10-30 16:11:37 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=88 AND menuOrder>=0 and rowId<>9 
+2012-10-30 16:11:39 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=4 
+2012-10-30 16:11:39 - INFO  --> UPDATE menus SET englishName = 'Customer-blank',parentId = 88,menuOrder = 1 where rowId=4 
+2012-10-30 16:11:39 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>29 and rowId<>4 
+2012-10-30 16:11:39 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=88 AND menuOrder>=1 and rowId<>4 
+2012-10-30 16:11:41 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,6,'folder','menu','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-30 16:11:48 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=89 
+2012-10-30 16:11:48 - INFO  --> UPDATE menus SET englishName = 'Item Master',parentId = 0,menuOrder = 6 where rowId=89 
+2012-10-30 16:11:48 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>6 and rowId<>89 
+2012-10-30 16:11:48 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=6 and rowId<>89 
+2012-10-30 16:11:49 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=3 
+2012-10-30 16:11:49 - INFO  --> UPDATE menus SET englishName = 'Item Master-edit',parentId = 89,menuOrder = 0 where rowId=3 
+2012-10-30 16:11:49 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>30 and rowId<>3 
+2012-10-30 16:11:49 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=89 AND menuOrder>=0 and rowId<>3 
+2012-10-30 16:11:52 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=1 
+2012-10-30 16:11:52 - INFO  --> UPDATE menus SET englishName = 'Item Master-blank',parentId = 89,menuOrder = 1 where rowId=1 
+2012-10-30 16:11:52 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>30 and rowId<>1 
+2012-10-30 16:11:52 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=89 AND menuOrder>=1 and rowId<>1 
+2012-10-30 16:11:54 - INFO  --> Insert into menus(englishName,parentId,menuOrder,code,type,menu_partnerxcompany_id,thaiName,startDate,owner,createDate,loginCompany,loginUser) Values('New Folder',0,5,'folder','menu','pxc-0006-system','New Folder',NOW(),'system',NOW(),'system','system') 
+2012-10-30 16:12:03 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=90 
+2012-10-30 16:12:03 - INFO  --> UPDATE menus SET englishName = 'Supplier',parentId = 0,menuOrder = 5 where rowId=90 
+2012-10-30 16:12:03 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 and rowId<>90 
+2012-10-30 16:12:03 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=5 and rowId<>90 
+2012-10-30 16:12:05 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=8 
+2012-10-30 16:12:05 - INFO  --> UPDATE menus SET englishName = 'Supplier-edit',parentId = 90,menuOrder = 0 where rowId=8 
+2012-10-30 16:12:05 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>31 and rowId<>8 
+2012-10-30 16:12:05 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=90 AND menuOrder>=0 and rowId<>8 
+2012-10-30 16:12:07 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=5 
+2012-10-30 16:12:07 - INFO  --> UPDATE menus SET englishName = 'Supplier-blank',parentId = 90,menuOrder = 1 where rowId=5 
+2012-10-30 16:12:07 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>31 and rowId<>5 
+2012-10-30 16:12:07 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=90 AND menuOrder>=1 and rowId<>5 
+2012-10-30 16:48:11 - INFO  --> Delete from menus where rowId=85 
+2012-10-30 16:48:11 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-30 16:48:12 - INFO  --> Delete from menus where rowId=86 
+2012-10-30 16:48:12 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>5 
+2012-10-30 16:48:21 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=49 
+2012-10-30 16:48:21 - INFO  --> UPDATE menus SET englishName = 'Manage',parentId = 0,menuOrder = 4 where rowId=49 
+2012-10-30 16:48:21 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>1 and rowId<>49 
+2012-10-30 16:48:21 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>49 
+2012-10-30 16:49:23 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=91 
+2012-10-30 16:49:23 - INFO  --> UPDATE menus SET englishName = 'User Right',parentId = 49,menuOrder = 2 where rowId=91 
+2012-10-30 16:49:23 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>91 
+2012-10-30 16:49:23 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=49 AND menuOrder>=2 and rowId<>91 
+2012-10-30 16:49:33 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-30 16:49:33 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 49,menuOrder = 3 where rowId=10 
+2012-10-30 16:49:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>10 
+2012-10-30 16:49:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=49 AND menuOrder>=3 and rowId<>10 
+2012-10-30 16:49:35 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=10 
+2012-10-30 16:49:35 - INFO  --> UPDATE menus SET englishName = 'Organize',parentId = 49,menuOrder = 0 where rowId=10 
+2012-10-30 16:49:35 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=49 AND menuOrder>3 and rowId<>10 
+2012-10-30 16:49:35 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=49 AND menuOrder>=0 and rowId<>10 
+2012-10-31 14:50:35 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=94 
+2012-10-31 14:50:35 - INFO  --> UPDATE menus SET englishName = 'Menu Manage',parentId = 49,menuOrder = 2 where rowId=94 
+2012-10-31 14:50:35 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>94 
+2012-10-31 14:50:35 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=49 AND menuOrder>=2 and rowId<>94 
+2012-10-31 14:54:06 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=95 
+2012-10-31 14:54:06 - INFO  --> UPDATE menus SET englishName = 'User Right',parentId = 49,menuOrder = 3 where rowId=95 
+2012-10-31 14:54:06 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>95 
+2012-10-31 14:54:06 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=49 AND menuOrder>=3 and rowId<>95 
+2012-10-31 14:54:14 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=49 
+2012-10-31 14:54:14 - INFO  --> UPDATE menus SET englishName = 'Manage',parentId = 48,menuOrder = 0 where rowId=49 
+2012-10-31 14:54:14 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>49 
+2012-10-31 14:54:14 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=48 AND menuOrder>=0 and rowId<>49 
+2012-10-31 14:54:16 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=49 
+2012-10-31 14:54:16 - INFO  --> UPDATE menus SET englishName = 'Manage',parentId = 0,menuOrder = 2 where rowId=49 
+2012-10-31 14:54:16 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=48 AND menuOrder>0 and rowId<>49 
+2012-10-31 14:54:16 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=2 and rowId<>49 
+2012-10-31 14:54:18 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=49 
+2012-10-31 14:54:18 - INFO  --> UPDATE menus SET englishName = 'Manage',parentId = 0,menuOrder = 3 where rowId=49 
+2012-10-31 14:54:18 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>2 and rowId<>49 
+2012-10-31 14:54:18 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>49 
+2012-11-05 12:35:20 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=105 
+2012-11-05 12:35:20 - INFO  --> UPDATE menus SET englishName = 'Menu Manage',parentId = 0,menuOrder = 3 where rowId=105 
+2012-11-05 12:35:20 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>2 and rowId<>105 
+2012-11-05 12:35:20 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>105 
+2012-11-05 15:47:15 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=107 
+2012-11-05 15:47:15 - INFO  --> UPDATE menus SET englishName = 'Rate-blank',parentId = 0,menuOrder = 3 where rowId=107 
+2012-11-05 15:47:15 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>107 
+2012-11-05 15:47:15 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>107 
+2012-11-13 13:38:37 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=49 
+2012-11-13 13:38:37 - INFO  --> UPDATE menus SET englishName = 'ManageTest',thaiName='ManageTest',parentId = 0,menuOrder = 4 where rowId=49 
+2012-11-13 13:38:37 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>1 and rowId<>49 
+2012-11-13 13:38:37 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=4 and rowId<>49 
+2012-11-13 13:40:30 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=49 
+2012-11-13 13:40:30 - INFO  --> UPDATE menus SET englishName = 'Manage',thaiName='Manage',parentId = 0,menuOrder = 6 where rowId=49 
+2012-11-13 13:40:30 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>49 
+2012-11-13 13:40:30 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=6 and rowId<>49 
+2012-11-13 13:40:33 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=48 
+2012-11-13 13:40:33 - INFO  --> UPDATE menus SET englishName = 'Unit',thaiName='Unit',parentId = 0,menuOrder = 1 where rowId=48 
+2012-11-13 13:40:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>48 
+2012-11-13 13:40:33 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>48 
+2012-11-13 13:40:36 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=48 
+2012-11-13 13:40:36 - INFO  --> UPDATE menus SET englishName = 'Units',thaiName='Units',parentId = 0,menuOrder = 1 where rowId=48 
+2012-11-13 13:40:36 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>1 and rowId<>48 
+2012-11-13 13:40:36 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>48 
+2012-11-13 13:40:39 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=48 
+2012-11-13 13:40:39 - INFO  --> UPDATE menus SET englishName = 'Unit',thaiName='Unit',parentId = 0,menuOrder = 1 where rowId=48 
+2012-11-13 13:40:39 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>1 and rowId<>48 
+2012-11-13 13:40:39 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>48 
+2012-11-13 13:40:42 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=16 
+2012-11-13 13:40:42 - INFO  --> UPDATE menus SET englishName = 'Code Defini',thaiName='Code Defini',parentId = 0,menuOrder = 0 where rowId=16 
+2012-11-13 13:40:42 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>16 
+2012-11-13 13:40:42 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=0 and rowId<>16 
+2012-11-13 13:40:45 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=16 
+2012-11-13 13:40:45 - INFO  --> UPDATE menus SET englishName = 'Code Definition',thaiName='Code Definition',parentId = 0,menuOrder = 0 where rowId=16 
+2012-11-13 13:40:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>16 
+2012-11-13 13:40:45 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=0 and rowId<>16 
+2012-11-13 13:41:17 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=89 
+2012-11-13 13:41:17 - INFO  --> UPDATE menus SET englishName = 'Item Masters',thaiName='Item Masters',parentId = 0,menuOrder = 0 where rowId=89 
+2012-11-13 13:41:17 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>1 and rowId<>89 
+2012-11-13 13:41:17 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=0 and rowId<>89 
+2012-11-13 13:41:19 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=89 
+2012-11-13 13:41:19 - INFO  --> UPDATE menus SET englishName = 'Item Master',thaiName='Item Master',parentId = 0,menuOrder = 0 where rowId=89 
+2012-11-13 13:41:19 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>0 and rowId<>89 
+2012-11-13 13:41:19 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=0 and rowId<>89 
+2012-11-13 13:41:22 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=90 
+2012-11-13 13:41:22 - INFO  --> UPDATE menus SET englishName = 'Suppliers',thaiName='Suppliers',parentId = 0,menuOrder = 1 where rowId=90 
+2012-11-13 13:41:22 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>2 and rowId<>90 
+2012-11-13 13:41:22 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>90 
+2012-11-13 13:41:24 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=90 
+2012-11-13 13:41:24 - INFO  --> UPDATE menus SET englishName = 'Supplier',thaiName='Supplier',parentId = 0,menuOrder = 1 where rowId=90 
+2012-11-13 13:41:24 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>1 and rowId<>90 
+2012-11-13 13:41:24 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=1 and rowId<>90 
+2012-11-13 13:41:27 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=88 
+2012-11-13 13:41:27 - INFO  --> UPDATE menus SET englishName = 'Customers',thaiName='Customers',parentId = 0,menuOrder = 2 where rowId=88 
+2012-11-13 13:41:27 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>88 
+2012-11-13 13:41:27 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=2 and rowId<>88 
+2012-11-13 13:41:29 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=88 
+2012-11-13 13:41:29 - INFO  --> UPDATE menus SET englishName = 'Customer',thaiName='Customer',parentId = 0,menuOrder = 2 where rowId=88 
+2012-11-13 13:41:29 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>2 and rowId<>88 
+2012-11-13 13:41:29 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=2 and rowId<>88 
+2012-11-13 13:41:31 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=87 
+2012-11-13 13:41:31 - INFO  --> UPDATE menus SET englishName = 'Employeee',thaiName='Employeee',parentId = 0,menuOrder = 3 where rowId=87 
+2012-11-13 13:41:31 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>4 and rowId<>87 
+2012-11-13 13:41:31 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>87 
+2012-11-13 13:41:34 - INFO  --> SELECT parentId,menuOrder FROM menus WHERE rowId=87 
+2012-11-13 13:41:34 - INFO  --> UPDATE menus SET englishName = 'Employee',thaiName='Employee',parentId = 0,menuOrder = 3 where rowId=87 
+2012-11-13 13:41:34 - INFO  --> UPDATE menus SET menuOrder=menuOrder-1 WHERE parentId=0 AND menuOrder>3 and rowId<>87 
+2012-11-13 13:41:34 - INFO  --> UPDATE menus SET menuOrder=menuOrder+1 WHERE parentId=0 AND menuOrder>=3 and rowId<>87 

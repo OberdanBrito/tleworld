@@ -1,0 +1,866 @@
+
+
+====================================
+Log started, 01/05/2013 11:05:40
+====================================
+
+DataProcessor object initialized
+1367409570010_placeName => 
+1367409570010_groupName => 
+1367409570010_building => 
+1367409570010_mooban => 
+1367409570010_no => 
+1367409570010_moo => 
+1367409570010_floor => 
+1367409570010_road => 
+1367409570010_soi => 
+1367409570010_tumbol => 
+1367409570010_amphur => 
+1367409570010_province => 
+1367409570010_zipcode => 
+1367409570010_telephone => 
+1367409570010_mobile => 
+1367409570010_fax => 
+1367409570010_address_all => 
+1367409570010_id => 
+1367409570010_!nativeeditor_status => inserted
+ids => 1367409570010
+
+Row data [1367409570010]
+placeName => 
+groupName => 
+building => 
+mooban => 
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => 
+id => 
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => 
+groupName => 
+building => 
+mooban => 
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => 
+id => 
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => 
+groupName => 
+building => 
+mooban => 
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => 
+id => 
+!nativeeditor_status => inserted
+
+INSERT INTO address(`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all`) VALUES ('','','','','','','','','','','','','','','','','','','')
+
+Edit operation finished
+0 => action:inserted; sid:1367409570010; tid:988;
+
+Done in 0.071483850479126s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:16
+====================================
+
+DataProcessor object initialized
+1367409733363_placeName => 
+1367409733363_groupName => 
+1367409733363_building => 
+1367409733363_mooban => 
+1367409733363_no => 
+1367409733363_moo => 
+1367409733363_floor => 
+1367409733363_road => 
+1367409733363_soi => 
+1367409733363_tumbol => 
+1367409733363_amphur => 
+1367409733363_province => 
+1367409733363_zipcode => 
+1367409733363_telephone => 
+1367409733363_mobile => 
+1367409733363_fax => 
+1367409733363_address_all => 
+1367409733363_id => add-1367409733363-system
+1367409733363_!nativeeditor_status => inserted
+ids => 1367409733363
+
+Row data [1367409733363]
+placeName => 
+groupName => 
+building => 
+mooban => 
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => 
+id => add-1367409733363-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => 
+groupName => 
+building => 
+mooban => 
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => 
+id => add-1367409733363-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => 
+groupName => 
+building => 
+mooban => 
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => 
+id => add-1367409733363-system
+!nativeeditor_status => inserted
+
+INSERT INTO address(`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all`) VALUES ('add-1367409733363-system','','','','','','','','','','','','','','','','','','')
+
+Edit operation finished
+0 => action:inserted; sid:1367409733363; tid:989;
+
+Done in 0.056504011154175s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:48
+====================================
+
+DataProcessor object initialized
+1367409871099_placeName => Tle
+1367409871099_groupName => Tle
+1367409871099_building => Tle
+1367409871099_mooban => Tle
+1367409871099_no => Tle
+1367409871099_moo => Tle
+1367409871099_floor => Tle
+1367409871099_road => Tle
+1367409871099_soi => Tle
+1367409871099_tumbol => Tle
+1367409871099_amphur => Tle
+1367409871099_province => Tle
+1367409871099_zipcode => Tle
+1367409871099_telephone => Tle
+1367409871099_mobile => Tle
+1367409871099_fax => Tle
+1367409871099_address_all => ชื่อสถานที่ตั้ง Tle สถานที่ Tle ตึก Tle หมู่บ้าน Tle เลขที่ Tle หมู่ที่ Tle ชั้น Tle ถนน Tle ซอย Tle ตำบล/แขวง Tle อำเภอ/เขต Tle จังหวัด Tle รหัสไปรษณีย์ Tle โทรศัพท์ Tle มือถือ Tle แฟกซ์ Tle 
+1367409871099_id => add-1367409871099-system
+1367409871099_!nativeeditor_status => inserted
+ids => 1367409871099
+
+Row data [1367409871099]
+placeName => Tle
+groupName => Tle
+building => Tle
+mooban => Tle
+no => Tle
+moo => Tle
+floor => Tle
+road => Tle
+soi => Tle
+tumbol => Tle
+amphur => Tle
+province => Tle
+zipcode => Tle
+telephone => Tle
+mobile => Tle
+fax => Tle
+address_all => ชื่อสถานที่ตั้ง Tle สถานที่ Tle ตึก Tle หมู่บ้าน Tle เลขที่ Tle หมู่ที่ Tle ชั้น Tle ถนน Tle ซอย Tle ตำบล/แขวง Tle อำเภอ/เขต Tle จังหวัด Tle รหัสไปรษณีย์ Tle โทรศัพท์ Tle มือถือ Tle แฟกซ์ Tle 
+id => add-1367409871099-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => Tle
+groupName => Tle
+building => Tle
+mooban => Tle
+no => Tle
+moo => Tle
+floor => Tle
+road => Tle
+soi => Tle
+tumbol => Tle
+amphur => Tle
+province => Tle
+zipcode => Tle
+telephone => Tle
+mobile => Tle
+fax => Tle
+address_all => ชื่อสถานที่ตั้ง Tle สถานที่ Tle ตึก Tle หมู่บ้าน Tle เลขที่ Tle หมู่ที่ Tle ชั้น Tle ถนน Tle ซอย Tle ตำบล/แขวง Tle อำเภอ/เขต Tle จังหวัด Tle รหัสไปรษณีย์ Tle โทรศัพท์ Tle มือถือ Tle แฟกซ์ Tle 
+id => add-1367409871099-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => Tle
+groupName => Tle
+building => Tle
+mooban => Tle
+no => Tle
+moo => Tle
+floor => Tle
+road => Tle
+soi => Tle
+tumbol => Tle
+amphur => Tle
+province => Tle
+zipcode => Tle
+telephone => Tle
+mobile => Tle
+fax => Tle
+address_all => ชื่อสถานที่ตั้ง Tle สถานที่ Tle ตึก Tle หมู่บ้าน Tle เลขที่ Tle หมู่ที่ Tle ชั้น Tle ถนน Tle ซอย Tle ตำบล/แขวง Tle อำเภอ/เขต Tle จังหวัด Tle รหัสไปรษณีย์ Tle โทรศัพท์ Tle มือถือ Tle แฟกซ์ Tle 
+id => add-1367409871099-system
+!nativeeditor_status => inserted
+
+INSERT INTO address(`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all`) VALUES ('add-1367409871099-system','','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','Tle','ชื่อสถานที่ตั้ง Tle สถานที่ Tle ตึก Tle หมู่บ้าน Tle เลขที่ Tle หมู่ที่ Tle ชั้น Tle ถนน Tle ซอย Tle ตำบล/แขวง Tle อำเภอ/เขต Tle จังหวัด Tle รหัสไปรษณีย์ Tle โทรศัพท์ Tle มือถือ Tle แฟกซ์ Tle ')
+
+Edit operation finished
+0 => action:inserted; sid:1367409871099; tid:990;
+
+Done in 0.070889949798584s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:03
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = 'add-1367409871099-system'
+
+Done in 0.046184062957764s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:23
+====================================
+
+DataProcessor object initialized
+1367409979825_placeName => Tle
+1367409979825_groupName => 
+1367409979825_building => Tle
+1367409979825_mooban => Tle
+1367409979825_no => 
+1367409979825_moo => 
+1367409979825_floor => 
+1367409979825_road => 
+1367409979825_soi => 
+1367409979825_tumbol => 
+1367409979825_amphur => 
+1367409979825_province => 
+1367409979825_zipcode => 
+1367409979825_telephone => 
+1367409979825_mobile => 
+1367409979825_fax => 
+1367409979825_address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+1367409979825_id => add-1367409979824-system
+1367409979825_!nativeeditor_status => inserted
+ids => 1367409979825
+
+Row data [1367409979825]
+placeName => Tle
+groupName => 
+building => Tle
+mooban => Tle
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+id => add-1367409979824-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => Tle
+groupName => 
+building => Tle
+mooban => Tle
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+id => add-1367409979824-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => Tle
+groupName => 
+building => Tle
+mooban => Tle
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+id => add-1367409979824-system
+!nativeeditor_status => inserted
+
+INSERT INTO address(`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all`) VALUES ('add-1367409979824-system','','Tle','','Tle','Tle','','','','','','','','','','','','','ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle ')
+
+Edit operation finished
+0 => action:inserted; sid:1367409979825; tid:991;
+
+Done in 0.076069831848145s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:32
+====================================
+
+DataProcessor object initialized
+991_placeName => Tle
+991_groupName => 
+991_building => Tle
+991_mooban => Tle
+991_no => 
+991_moo => 
+991_floor => 
+991_road => 
+991_soi => 
+991_tumbol => 
+991_amphur => 
+991_province => 
+991_zipcode => 
+991_telephone => 
+991_mobile => 
+991_fax => 
+991_address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+991_id => add-1367409979824-system
+991_!nativeeditor_status => updated
+ids => 991
+
+Row data [991]
+placeName => Tle
+groupName => 
+building => Tle
+mooban => Tle
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+id => add-1367409979824-system
+!nativeeditor_status => updated
+
+Incorrect field name used: addressType
+
+data
+placeName => Tle
+groupName => 
+building => Tle
+mooban => Tle
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+id => add-1367409979824-system
+!nativeeditor_status => updated
+
+Incorrect field name used: addressType
+
+data
+placeName => Tle
+groupName => 
+building => Tle
+mooban => Tle
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle 
+id => add-1367409979824-system
+!nativeeditor_status => updated
+
+UPDATE address SET `id`='add-1367409979824-system',`addressType`='',`placeName`='Tle',`groupName`='',`building`='Tle',`mooban`='Tle',`no`='',`moo`='',`floor`='',`road`='',`soi`='',`tumbol`='',`amphur`='',`province`='',`zipcode`='',`telephone`='',`mobile`='',`fax`='',`address_all`='ชื่อสถานที่ตั้ง Tle ตึก Tle หมู่บ้าน Tle ' WHERE `rowId`='991'
+
+Edit operation finished
+0 => action:updated; sid:991; tid:991;
+
+Done in 0.064937114715576s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:35
+====================================
+
+DataProcessor object initialized
+1367410109700_placeName => test
+1367410109700_groupName => 
+1367410109700_building => test
+1367410109700_mooban => test
+1367410109700_no => 
+1367410109700_moo => 
+1367410109700_floor => 
+1367410109700_road => 
+1367410109700_soi => 
+1367410109700_tumbol => 
+1367410109700_amphur => 
+1367410109700_province => 
+1367410109700_zipcode => 
+1367410109700_telephone => 
+1367410109700_mobile => 
+1367410109700_fax => 
+1367410109700_address_all => ชื่อสถานที่ตั้ง test ตึก test หมู่บ้าน test 
+1367410109700_id => add-1367410109700-system
+1367410109700_!nativeeditor_status => inserted
+ids => 1367410109700
+
+Row data [1367410109700]
+placeName => test
+groupName => 
+building => test
+mooban => test
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง test ตึก test หมู่บ้าน test 
+id => add-1367410109700-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => test
+groupName => 
+building => test
+mooban => test
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง test ตึก test หมู่บ้าน test 
+id => add-1367410109700-system
+!nativeeditor_status => inserted
+
+Incorrect field name used: addressType
+
+data
+placeName => test
+groupName => 
+building => test
+mooban => test
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง test ตึก test หมู่บ้าน test 
+id => add-1367410109700-system
+!nativeeditor_status => inserted
+
+INSERT INTO address(`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all`) VALUES ('add-1367410109700-system','','test','','test','test','','','','','','','','','','','','','ชื่อสถานที่ตั้ง test ตึก test หมู่บ้าน test ')
+
+Edit operation finished
+0 => action:inserted; sid:1367410109700; tid:992;
+
+Done in 0.061002016067505s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:49
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = 'add-1367410109700-system'
+
+Done in 0.044689893722534s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:10
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = 'add-1367410109700-system'
+
+Done in 0.045207977294922s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:47
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = 'add-1367410109700-system'
+
+Done in 0.053855180740356s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:26
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = '992'
+
+Done in 0.10937786102295s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:34
+====================================
+
+DataProcessor object initialized
+992_placeName => testtest
+992_groupName => 
+992_building => test
+992_mooban => test
+992_no => 
+992_moo => 
+992_floor => 
+992_road => 
+992_soi => 
+992_tumbol => 
+992_amphur => 
+992_province => 
+992_zipcode => 
+992_telephone => 
+992_mobile => 
+992_fax => 
+992_address_all => ชื่อสถานที่ตั้ง testtest ตึก test หมู่บ้าน test 
+992_id => add-1367410109700-system
+992_addressType => 
+992_!nativeeditor_status => updated
+ids => 992
+
+Row data [992]
+placeName => testtest
+groupName => 
+building => test
+mooban => test
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง testtest ตึก test หมู่บ้าน test 
+id => add-1367410109700-system
+addressType => 
+!nativeeditor_status => updated
+
+UPDATE address SET `id`='add-1367410109700-system',`addressType`='',`placeName`='testtest',`groupName`='',`building`='test',`mooban`='test',`no`='',`moo`='',`floor`='',`road`='',`soi`='',`tumbol`='',`amphur`='',`province`='',`zipcode`='',`telephone`='',`mobile`='',`fax`='',`address_all`='ชื่อสถานที่ตั้ง testtest ตึก test หมู่บ้าน test ' WHERE `rowId`='992'
+
+Edit operation finished
+0 => action:updated; sid:992; tid:992;
+
+Done in 0.051915168762207s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:44
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = '992'
+
+Done in 0.044790029525757s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:58
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = '992'
+
+Done in 0.045397043228149s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:03
+====================================
+
+DataProcessor object initialized
+992_placeName => testtest
+992_groupName => 
+992_building => test
+992_mooban => test
+992_no => 
+992_moo => 
+992_floor => 
+992_road => 
+992_soi => 
+992_tumbol => 
+992_amphur => 
+992_province => 
+992_zipcode => 
+992_telephone => 
+992_mobile => 
+992_fax => 
+992_address_all => ชื่อสถานที่ตั้ง testtest ตึก test หมู่บ้าน test 
+992_id => add-1367410109700-system
+992_addressType => 
+992_!nativeeditor_status => updated
+ids => 992
+
+Row data [992]
+placeName => testtest
+groupName => 
+building => test
+mooban => test
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง testtest ตึก test หมู่บ้าน test 
+id => add-1367410109700-system
+addressType => 
+!nativeeditor_status => updated
+
+UPDATE address SET `id`='add-1367410109700-system',`addressType`='',`placeName`='testtest',`groupName`='',`building`='test',`mooban`='test',`no`='',`moo`='',`floor`='',`road`='',`soi`='',`tumbol`='',`amphur`='',`province`='',`zipcode`='',`telephone`='',`mobile`='',`fax`='',`address_all`='ชื่อสถานที่ตั้ง testtest ตึก test หมู่บ้าน test ' WHERE `rowId`='992'
+
+Edit operation finished
+0 => action:updated; sid:992; tid:992;
+
+Done in 0.054080963134766s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:29
+====================================
+
+DataProcessor object initialized
+1367410686770_placeName => โกดัง A
+1367410686770_groupName => Factory A
+1367410686770_building => AA
+1367410686770_mooban => สหกรณ์
+1367410686770_no => 
+1367410686770_moo => 
+1367410686770_floor => 
+1367410686770_road => 
+1367410686770_soi => 
+1367410686770_tumbol => 
+1367410686770_amphur => 
+1367410686770_province => 
+1367410686770_zipcode => 
+1367410686770_telephone => 
+1367410686770_mobile => 
+1367410686770_fax => 
+1367410686770_address_all => ชื่อสถานที่ตั้ง โกดัง A สถานที่ Factory A ตึก AA หมู่บ้าน สหกรณ์ 
+1367410686770_id => add-1367410686769-system
+1367410686770_addressType => warehouse
+1367410686770_!nativeeditor_status => inserted
+ids => 1367410686770
+
+Row data [1367410686770]
+placeName => โกดัง A
+groupName => Factory A
+building => AA
+mooban => สหกรณ์
+no => 
+moo => 
+floor => 
+road => 
+soi => 
+tumbol => 
+amphur => 
+province => 
+zipcode => 
+telephone => 
+mobile => 
+fax => 
+address_all => ชื่อสถานที่ตั้ง โกดัง A สถานที่ Factory A ตึก AA หมู่บ้าน สหกรณ์ 
+id => add-1367410686769-system
+addressType => warehouse
+!nativeeditor_status => inserted
+
+INSERT INTO address(`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all`) VALUES ('add-1367410686769-system','warehouse','โกดัง A','Factory A','AA','สหกรณ์','','','','','','','','','','','','','ชื่อสถานที่ตั้ง โกดัง A สถานที่ Factory A ตึก AA หมู่บ้าน สหกรณ์ ')
+
+Edit operation finished
+0 => action:inserted; sid:1367410686770; tid:993;
+
+Done in 0.052175045013428s
+
+
+
+====================================
+Log started, 01/05/2013 12:05:36
+====================================
+
+SELECT `rowId`,`id`,`addressType`,`placeName`,`groupName`,`building`,`mooban`,`no`,`moo`,`floor`,`road`,`soi`,`tumbol`,`amphur`,`province`,`zipcode`,`telephone`,`mobile`,`fax`,`address_all` FROM address WHERE `rowId` = '993'
+
+Done in 0.050180912017822s
+

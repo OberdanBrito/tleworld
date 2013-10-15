@@ -1,0 +1,700 @@
+
+
+====================================
+Log started, 26/09/2013 07:09:01
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.012991905212402s
+
+
+
+====================================
+Log started, 26/09/2013 08:09:50
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Submitted' AND loginCompanyId='log-007-system')
+
+Done in 0.00094294548034668s
+
+
+
+====================================
+Log started, 26/09/2013 08:09:53
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00091195106506348s
+
+
+
+====================================
+Log started, 26/09/2013 08:09:51
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010828971862793s
+
+
+
+====================================
+Log started, 26/09/2013 08:09:17
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011839866638184s
+
+
+
+====================================
+Log started, 26/09/2013 08:09:33
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0009148120880127s
+
+
+
+====================================
+Log started, 26/09/2013 08:09:54
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011041164398193s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:44
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011060237884521s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:58
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00094509124755859s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:14
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00088191032409668s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:24
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0013220310211182s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:40
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0013141632080078s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:27
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00092911720275879s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:49
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010249614715576s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:16
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00093293190002441s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:38
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00092196464538574s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:58
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011770725250244s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:01
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011789798736572s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:51
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00096988677978516s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:32
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00090599060058594s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:39
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00092196464538574s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:38
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0013489723205566s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:46
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00088191032409668s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:31
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00098896026611328s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:57
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00088787078857422s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:13
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.000885009765625s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:57
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.000885009765625s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:33
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00088191032409668s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:44
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00092983245849609s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:27
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00089597702026367s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:50
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00090694427490234s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:07
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Submitted' AND loginCompanyId='log-007-system')
+
+Done in 0.00084209442138672s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:48
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Submitted' AND loginCompanyId='log-007-system')
+
+Done in 0.0008549690246582s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:50
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0014050006866455s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:15
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00087594985961914s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:51
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0019900798797607s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:03
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00087380409240723s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:46
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0012788772583008s
+
+
+
+====================================
+Log started, 26/09/2013 09:09:28
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00089597702026367s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:16
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00096702575683594s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:07
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00093603134155273s
+
+
+
+====================================
+Log started, 27/09/2013 06:09:13
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.00093603134155273s
+
+
+
+====================================
+Log started, 01/10/2013 09:10:12
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.01133394241333s
+
+
+
+====================================
+Log started, 01/10/2013 11:10:23
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.016589879989624s
+
+
+
+====================================
+Log started, 03/10/2013 11:10:35
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.009857177734375s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:23
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0059678554534912s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:56
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0015571117401123s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:37
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0013790130615234s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:36
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.001478910446167s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:23
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0019509792327881s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:31
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0012228488922119s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:41
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011181831359863s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:30
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011892318725586s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:05
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.001054048538208s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:56
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.013606071472168s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:18
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0012381076812744s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:48
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0017390251159668s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:29
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0016589164733887s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:08
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010790824890137s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:39
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011279582977295s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:41
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010919570922852s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:03
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010471343994141s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:29
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011119842529297s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:55
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0015888214111328s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:04
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011210441589355s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:35
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010659694671631s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:07
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010190010070801s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:20
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011091232299805s
+
+
+
+====================================
+Log started, 08/10/2013 09:10:53
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0010950565338135s
+
+
+
+====================================
+Log started, 08/10/2013 10:10:41
+====================================
+
+SELECT  rowId,id,docType,status,orderId,revision,createDate,issueDate,dueDate,customerId,customerName FROM ordermaster WHERE ( docType='quotation' AND status='Draft' AND loginCompanyId='log-007-system')
+
+Done in 0.0011959075927734s
+

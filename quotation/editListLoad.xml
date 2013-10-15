@@ -1,0 +1,14 @@
+<rows>
+    <row id="1">
+        <cell>Draft</cell>
+    </row>
+    <row id="2">
+        <cell>Submitted</cell>
+    </row>
+    <row id="3" selected="1">
+        <cell>Approved</cell>
+    </row>
+    <row id="4">
+        <cell>Deprecated</cell>
+    </row>
+</rows>

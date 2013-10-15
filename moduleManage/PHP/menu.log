@@ -1,0 +1,232 @@
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:19
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0052409172058105s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:37
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0028948783874512s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:57
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.038143873214722s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:54
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0039279460906982s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:39
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0031650066375732s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 04:09:58
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0035450458526611s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 05:09:23
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0041680335998535s
+
+date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead at /Users/gootle_/Sites/tleworld/DHX/dhtmlxConnector/codebase/tools.php line 249
+
+
+
+====================================
+Log started, 24/09/2013 05:09:44
+====================================
+
+DataProcessor object initialized
+1380016887350_gr_id => 1380016887350
+1380016887350_c0 => usr-020-system
+1380016887350_c1 => mod-247-system
+1380016887350_c2 => Qo-View
+1380016887350_c3 => Qo-View
+1380016887350_c4 => quotation/qoBlankList.php?gState=view
+1380016887350_c5 => 0
+1380016887350_c6 => menu
+1380016887350_c7 => 2013-09-24
+1380016887350_c8 => 
+1380016887350_c9 => system
+1380016887350_c10 => 2013-09-24 17:01:27
+1380016887350_c11 => system
+1380016887350_c12 => system
+1380016887350_!nativeeditor_status => inserted
+ids => 1380016887350
+
+Row data [1380016887350]
+rowId => 1380016887350
+userId => usr-020-system
+modId => mod-247-system
+thaiName => Qo-View
+englishName => Qo-View
+code => quotation/qoBlankList.php?gState=view
+parentId => 0
+type => menu
+startDate => 2013-09-24
+validUntil => 
+owner => system
+createDate => 2013-09-24 17:01:27
+loginCompany => system
+loginUser => system
+!nativeeditor_status => inserted
+
+INSERT INTO menus(`userId`,`modId`,`thaiName`,`englishName`,`code`,`parentId`,`type`,`startDate`,`validUntil`,`owner`,`createDate`,`loginCompany`,`loginUser`) VALUES ('usr-020-system','mod-247-system','Qo-View','Qo-View','quotation/qoBlankList.php?gState=view','0','menu','2013-09-24','','system','2013-09-24 17:01:27','system','system')
+
+Edit operation finished
+0 => action:error; sid:1380016887350; tid:1380016887350;
+
+Done in 0.0014960765838623s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:49
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0036160945892334s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:16
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0022809505462646s
+
+
+
+====================================
+Log started, 25/09/2013 08:09:49
+====================================
+
+DataProcessor object initialized
+1380091528424_gr_id => 1380091528424
+1380091528424_c0 => usr-020-system
+1380091528424_c1 => mod-247-system
+1380091528424_c2 => Qo-View
+1380091528424_c3 => Qo-View
+1380091528424_c4 => quotation/qoBlankList.php?gState=view
+1380091528424_c5 => 0
+1380091528424_c6 => menu
+1380091528424_c7 => 2013-09-25
+1380091528424_c8 => 
+1380091528424_c9 => system
+1380091528424_c10 => 2013-09-25 13:45:28
+1380091528424_c11 => system
+1380091528424_c12 => system
+1380091528424_!nativeeditor_status => inserted
+ids => 1380091528424
+
+Row data [1380091528424]
+rowId => 1380091528424
+userId => usr-020-system
+modId => mod-247-system
+thaiName => Qo-View
+englishName => Qo-View
+code => quotation/qoBlankList.php?gState=view
+parentId => 0
+type => menu
+startDate => 2013-09-25
+validUntil => 
+owner => system
+createDate => 2013-09-25 13:45:28
+loginCompany => system
+loginUser => system
+!nativeeditor_status => inserted
+
+INSERT INTO menus(`userId`,`modId`,`thaiName`,`englishName`,`code`,`parentId`,`type`,`startDate`,`validUntil`,`owner`,`createDate`,`loginCompany`,`loginUser`) VALUES ('usr-020-system','mod-247-system','Qo-View','Qo-View','quotation/qoBlankList.php?gState=view','0','menu','2013-09-25','','system','2013-09-25 13:45:28','system','system')
+
+Edit operation finished
+0 => action:inserted; sid:1380091528424; tid:197;
+
+Done in 0.0014197826385498s
+
+
+
+====================================
+Log started, 08/10/2013 08:10:24
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.012326955795288s
+
+
+
+====================================
+Log started, 09/10/2013 09:10:41
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0028629302978516s
+
+
+
+====================================
+Log started, 10/10/2013 11:10:29
+====================================
+
+SELECT  * FROM menus WHERE ( userId='usr-020-system')
+
+Done in 0.0038318634033203s
+
